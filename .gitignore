@@ -1,0 +1,19 @@
+*.log
+java/
+lib/
+node_modules/*
+myUserDataDir/*
+.vscode/
+*.json
+*.lock
+*.jar
+test.html
+test.js
+parentpage.html
+Start.js
+node_modules/.package-lock.json
+puppeteer location.lnk
+package.json
+package-lock.json
+frame.html
+vendor/

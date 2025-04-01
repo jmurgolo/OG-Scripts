@@ -46,7 +46,7 @@ pattern = re.compile(r"\{\{#if (FF\d+)\}\}(.+?)\{\{\/if\}\}")
 output_text = pattern.sub(replacer, input_text)
 
 # 🔹 Step 4: Save the result
-with open("replaced_output.txt", "w", encoding="utf-8") as f:
+with open("find and replace.txt", "w", encoding="utf-8") as f:
     f.write(output_text)
 
 print("✅ Done! Cleaned output saved to 'replaced_output.txt'.")

@@ -323,6 +323,10 @@ for ordinal in order:
         if replacement_code:
             block = block.replace(f"{{{{{first_code}}}}}", f"{{{{{replacement_code}}}}}")
             block = block.replace(f"{{{{#if {first_code}}}}}", f"{{{{#if {replacement_code}}}}}")
+
+            # Handle _checked suffix
+            block = block.replace(f"{{{{{first_code}_checked}}}}", f"{{{{{replacement_code}_checked}}}}")
+            block = block.replace(f"{{{{#if {first_code}_checked}}}}", f"{{{{#if {replacement_code}_checked}}}}")
     output_blocks.append(block)
 
 # Step 5: Write to file

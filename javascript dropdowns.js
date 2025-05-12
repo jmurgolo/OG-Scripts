@@ -45,63 +45,76 @@
 //const items = ['Acura','Alfa Romeo','Aston Martin','Audi','Bentley','BMW','Bugatti','Buick','BYD','Cadillac','Chevrolet','Chrysler','Dodge','Ferrari','Fiat','Ford','Genesis','GMC','Honda','Hummer','Hyundai','Infiniti','Jaguar','Jeep','Kia','Lamborghini','Land Rover','Lexus','Lincoln','Lucid','Maserati','Mazda','McLaren','Mercedes-Benz','MINI','Mitsubishi','Nissan','Polestar','Porsche','RAM','Rivian','Rolls-Royce','Subaru','Tesla','Toyota','Volkswagen','Volvo','Zeekr'];
 
 //car models
-const items = ['Accord','Altima','Armada','Ascent','Atlas','A4','A6','Avalon','Aviator','Blazer','Bolt','Bronco','Camry','Canyon','Challenger','Charger','Cherokee','Civic','Colorado','Compass','Corolla','Corvette','CR-V','Crosstrek','CX-30','CX-5','CX-50','Defender','Durango','Edge','Elantra','Enclave','Encore','Envision','Equinox','Escalade','Escape','Expedition','Explorer','F-150','Forester','Forte','Frontier','Fusion','Gladiator','Golf','Grand Cherokee','Grand Wagoneer','Highlander','HR-V','Impala','Impreza','Jetta','Journey','K5','Kona','Malibu','Maverick','MDX','Model 3','Model S','Model X','Model Y','Murano','Mustang','Odyssey','Outback','Pacifica','Palisade','Passport','Pathfinder','Pilot','Q3','Q5','Q7','QX50','QX60','RAV4','Renegade','Ridgeline','Rogue','RX','Santa Cruz','Santa Fe','Seltos','Sentra','Sequoia','Sierra','Silverado','Sonata','Sorento','Soul','Sportage','Suburban','Tacoma','Tahoe','Telluride','Terrain','Tiguan','Titan','Trailblazer','Traverse','Tundra','Tucson','UX','Veloster','Venue','Versa','Wagoneer','Wrangler','XT4','XT5','XT6','Yukon'];
+const items = ['Accord','Altima','Armada','Ascent']; //,'Atlas','A4','A6','Avalon','Aviator','Blazer','Bolt','Bronco','Camry','Canyon','Challenger','Charger','Cherokee','Civic','Colorado','Compass','Corolla','Corvette','CR-V','Crosstrek','CX-30','CX-5','CX-50','Defender','Durango','Edge','Elantra','Enclave','Encore','Envision','Equinox','Escalade','Escape','Expedition','Explorer','F-150','Forester','Forte','Frontier','Fusion','Gladiator','Golf','Grand Cherokee','Grand Wagoneer','Highlander','HR-V','Impala','Impreza','Jetta','Journey','K5','Kona','Malibu','Maverick','MDX','Model 3','Model S','Model X','Model Y','Murano','Mustang','Odyssey','Outback','Pacifica','Palisade','Passport','Pathfinder','Pilot','Q3','Q5','Q7','QX50','QX60','RAV4','Renegade','Ridgeline','Rogue','RX','Santa Cruz','Santa Fe','Seltos','Sentra','Sequoia','Sierra','Silverado','Sonata','Sorento','Soul','Sportage','Suburban','Tacoma','Tahoe','Telluride','Terrain','Tiguan','Titan','Trailblazer','Traverse','Tundra','Tucson','UX','Veloster','Venue','Versa','Wagoneer','Wrangler','XT4','XT5','XT6','Yukon'];
 
 // //car colors
 // const items = ['Beige','Black','Blue','Bronze','Brown','Burgundy','Charcoal','Copper','Cream','Gold','Gray','Green','Maroon','Orange','Pink','Purple','Red','Silver','Tan','Teal','White','Yellow'];
 
 
-const input = document.getElementById(":r3i9:");
+const textarea = document.querySelector('#\\:r12h\\:');
 
-function waitForInputClear(timeout = 5000) {
-    return new Promise((resolve, reject) => {
-        const start = Date.now();
-        const interval = setInterval(() => {
-            if (input.value === "") {
-                clearInterval(interval);
-                resolve();
-            } else if (Date.now() - start > timeout) {
-                clearInterval(interval);
-                reject("⏰ Timed out waiting for input to clear.");
-            }
-        }, 100); // check every 100ms
+const addButton = document.querySelector('button:has(svg[data-testid="AddIcon"])');
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function getAddButton() {
+  return document.querySelector('button:has(svg[data-testid="AddIcon"])');
+}
+
+async function typeIntoTextarea(text) {
+  textarea.focus();
+  textarea.value = '';
+
+  for (const char of text) {
+    textarea.value += char;
+
+    const inputEvent = new InputEvent('input', {
+      bubbles: true,
+      cancelable: true,
+      inputType: 'insertText',
+      data: char
     });
+
+    textarea.dispatchEvent(inputEvent);
+
+    textarea.dispatchEvent(new KeyboardEvent('keydown', { key: char, bubbles: true }));
+    textarea.dispatchEvent(new KeyboardEvent('keyup', { key: char, bubbles: true }));
+
+    await sleep(50);
+  }
+
+  // Extra input event to make sure React sees final value
+  textarea.dispatchEvent(new Event('change', { bubbles: true }));
+}
+
+async function waitForAddButtonEnabled(timeout = 5000) {
+  let elapsed = 0;
+  while (elapsed < timeout) {
+    const btn = getAddButton();
+    if (btn && !btn.disabled) return btn;
+    await sleep(100);
+    elapsed += 100;
+  }
+  throw new Error('⏳ Add button never became enabled');
 }
 
 async function simulateEntry(item) {
-    input.focus();
-    input.value = item;
-    input.dispatchEvent(new Event("input", { bubbles: true }));
-
-    await new Promise(r => setTimeout(r, 200)); // Small delay before firing keys
-
-    // Simulate full Enter key sequence
-    ["keydown", "keypress", "keyup"].forEach(eventType => {
-        input.dispatchEvent(new KeyboardEvent(eventType, {
-            bubbles: true,
-            cancelable: true,
-            key: "Enter",
-            code: "Enter",
-            keyCode: 13,
-            which: 13
-        }));
-    });
-
-    // Old-school fallback
-    document.execCommand("insertText", false, "\n");
-
-    console.log("✅ Entered:", item);
-
-    // ⏳ Wait for input to clear before continuing
-    await waitForInputClear().catch(err => console.warn(err));
+  await typeIntoTextarea(item);
+  const addBtn = await waitForAddButtonEnabled();
+  await sleep(200);
+  addBtn.click();
+  console.log('✅ Added:', item);
+  await sleep(500);
 }
 
 async function runAll() {
-    for (const item of items) {
-        await simulateEntry(item);
-    }
-
-    console.log("🎉 Done entering all items.");
+  const items = ['Accord', 'Altima', 'Armada', 'Ascent', 'Atlas']; // Start with a few
+  for (const item of items) {
+    await simulateEntry(item);
+  }
+  console.log('🎉 All done');
 }
 
 runAll();

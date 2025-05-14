@@ -83,7 +83,6 @@ raw_mapping_data = """ {{FF1027847}}​ = Second Tenant Name
 
 # 🔹 Paste your original template using First Tenant's codes
 original_template = """
-
 <div>{{#if FF1027853_checked}}</div>
 
 <table style="width: 100%; margin-left: calc(0%);">
@@ -295,7 +294,6 @@ original_template = """
 	<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{/if}}</span></div></div>
 
 
-
 """
 
 # Step 1: Parse mapping into structured dictionary
@@ -333,12 +331,13 @@ for line in cleaned_data.strip().splitlines():
 used_codes = re.findall(r"\{\{#?if\s*(FF\d+)\}\}|\{\{(FF\d+)\}\}", original_template)
 used_codes_flat = set(filter(None, [item for pair in used_codes for item in pair]))  # flatten and remove None
 
-# Step 3: Map the used FF codes to their meaning for the First Tenant
+# Step 3: Create full reverse mapping from code → kind
 code_meaning_map = {}
 for kind in ["Tenant", "Name", "Unit"]:
-    first_code = grouped_dict["First"].get(kind)
-    if first_code and first_code in used_codes_flat:
-        code_meaning_map[first_code] = kind
+    for ordinal, data in grouped_dict.items():
+        code = data.get(kind)
+        if code:
+            code_meaning_map[code] = kind
 
 # 🔹 Debug: Print out the grouped code map
 print("🔍 Tenant Code Map:")
@@ -356,18 +355,34 @@ for ordinal in order:
         continue
 
     block = original_template
-    for first_code, kind in code_meaning_map.items():
-        replacement_code = tenant_data.get(kind)
-        if replacement_code:
-            block = block.replace(f"{{{{{first_code}}}}}", f"{{{{{replacement_code}}}}}")
-            block = block.replace(f"{{{{#if {first_code}}}}}", f"{{{{#if {replacement_code}}}}}")
 
-            # Handle _checked suffix
-            block = block.replace(f"{{{{{first_code}_checked}}}}", f"{{{{{replacement_code}_checked}}}}")
-            block = block.replace(f"{{{{#if {first_code}_checked}}}}", f"{{{{#if {replacement_code}_checked}}}}")
+    for first_code, kind in code_meaning_map.items():
+        first_tenant_code = grouped_dict["First"].get(kind)
+        if not first_tenant_code:
+            continue
+        replacement_code = tenant_data.get(kind)
+        if not replacement_code:
+            continue
+
+        pattern = re.compile(
+            rf"(\{{{{#if )({re.escape(first_tenant_code)})(_[\w\d]+)?\}}}}|\{{{{({re.escape(first_tenant_code)})(_[\w\d]+)?\}}}}"
+        )
+
+        def repl(match):
+            if match.group(1):  # it's a {{#if ...}}
+                suffix = match.group(3) or ""
+                return f"{{{{#if {replacement_code}{suffix}}}}}"
+            else:  # it's a normal {{...}}
+                suffix = match.group(5) or ""
+                return f"{{{{{replacement_code}{suffix}}}}}"
+
+        block = pattern.sub(repl, block)
+
     output_blocks.append(block)
 
 # Step 5: Write to file
+print("✅ Output blocks generated:", len(output_blocks))
+
 with open("Results.html", "w", encoding="utf-8") as f:
     for block in output_blocks:
         f.write(block + "\n\n")

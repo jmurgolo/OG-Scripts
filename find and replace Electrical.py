@@ -1,0 +1,289 @@
+import re
+import os
+
+# Step 1: Define the output directory name
+output_directory = "accdemand"  # You can change this name here
+
+# Step 2: Create the output directory if it doesn't exist
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
+    print(f"Created directory: '{output_directory}'")
+
+# Step 3: Define the mapping sections
+mapping_text = """
+# Ticket Details Transformation
+First Ticket Details = Second Ticket Details
+Second Ticket Details = Third Ticket Details
+Third Ticket Details = Fourth Ticket Details
+Fourth Ticket Details = Fifth Ticket Details
+Fifth Ticket Details = Sixth Ticket Details
+Sixth Ticket Details = Seventh Ticket Details
+Seventh Ticket Details = Eighth Ticket Details
+Eighth Ticket Details = Ninth Ticket Details
+Ninth Ticket Details = Tenth Ticket Details
+
+# Inspection Title Transformation
+First Inspection = Second Inspection
+Second Inspection = Third Inspection
+Third Inspection = Fourth Inspection
+Fourth Inspection = Fifth Inspection
+Fifth Inspection = Sixth Inspection
+Sixth Inspection = Seventh Inspection
+Seventh Inspection = Eighth Inspection
+Eighth Inspection = Ninth Inspection
+Ninth Inspection = Tenth Inspection
+
+# first to second
+FF1029717 = FF1029739
+FF1029702 = FF1029721
+FF1029703 = FF1029722
+FF1029704 = FF1029723
+FF1029709 = FF1029728
+FF1029710 = FF1029729
+FF1029711 = FF1029730
+FF1029712 = FF1029731
+FF1029713 = FF1029732
+FF1029714 = FF1029733
+FF1029715 = FF1029734
+FF1029707 = FF1029726
+FF1029716 = FF1029738
+FF1029706 = FF1029725
+FF1029985 = FF1029989
+FF1029983 = FF1029987
+FF1029984 = FF1029988
+
+# second to third
+FF1029739 = FF1029761
+FF1029718 = FF1029740
+FF1029721 = FF1029742
+FF1029722 = FF1029744
+FF1029723 = FF1029745
+FF1029728 = FF1029750
+FF1029729 = FF1029751
+FF1029730 = FF1029752
+FF1029731 = FF1029753
+FF1029732 = FF1029754
+FF1029733 = FF1029755
+FF1029734 = FF1029756
+FF1029735 = FF1029757
+FF1029736 = FF1029758
+FF1029737 = FF1029759
+FF1029726 = FF1029748
+FF1029738 = FF1029760
+FF1029725 = FF1029747
+FF1029989 = FF1029993
+FF1029987 = FF1029992
+FF1029988 = FF1029991
+
+# third to fourth
+FF1029761 = FF1029783
+FF1029740 = FF1029762
+FF1029742 = FF1029765
+FF1029744 = FF1029766
+FF1029745 = FF1029767
+FF1029750 = FF1029772
+FF1029751 = FF1029773
+FF1029752 = FF1029774
+FF1029753 = FF1029775
+FF1029754 = FF1029776
+FF1029755 = FF1029777
+FF1029756 = FF1029778
+FF1029757 = FF1029779
+FF1029758 = FF1029780
+FF1029759 = FF1029781
+FF1029748 = FF1029770
+FF1029760 = FF1029782
+FF1029747 = FF1029769
+FF1029993 = FF1029997
+FF1029992 = FF1029995
+FF1029991 = FF1029996
+
+# fourth to Fifth
+FF1029783 = FF1029805
+FF1029762 = FF1029784
+FF1029765 = FF1029787
+FF1029766 = FF1029788
+FF1029767 = FF1029789
+FF1029772 = FF1029794
+FF1029773 = FF1029795
+FF1029774 = FF1029796
+FF1029775 = FF1029797
+FF1029776 = FF1029798
+FF1029777 = FF1029799
+FF1029778 = FF1029800
+FF1029779 = FF1029801
+FF1029780 = FF1029802
+FF1029781 = FF1029803
+FF1029770 = FF1029792
+FF1029782 = FF1029804
+FF1029769 = FF1029791
+FF1029997 = FF1030001
+FF1029995 = FF1029999
+FF1029996 = FF1030000
+
+# Fifth to Sixth
+FF1029805 = FF1029827
+FF1029784 = FF1029806
+FF1029787 = FF1029809
+FF1029788 = FF1029810
+FF1029789 = FF1029811
+FF1029794 = FF1029816
+FF1029795 = FF1029817
+FF1029796 = FF1029818
+FF1029797 = FF1029819
+FF1029798 = FF1029820
+FF1029799 = FF1029821
+FF1029800 = FF1029822
+FF1029801 = FF1029823
+FF1029802 = FF1029824
+FF1029803 = FF1029825
+FF1029792 = FF1029814
+FF1029804 = FF1029826
+FF1029791 = FF1029813
+FF1030001 = FF1030005
+FF1029999 = FF1030003
+FF1030000 = FF1030004
+
+# Sixth to Seventh
+FF1029827 = FF1029849
+FF1029806 = FF1029828
+FF1029809 = FF1029831
+FF1029810 = FF1029832
+FF1029811 = FF1029833
+FF1029816 = FF1029838
+FF1029817 = FF1029839
+FF1029818 = FF1029840
+FF1029819 = FF1029841
+FF1029820 = FF1029842
+FF1029821 = FF1029843
+FF1029822 = FF1029844
+FF1029823 = FF1029845
+FF1029824 = FF1029846
+FF1029825 = FF1029847
+FF1029814 = FF1029836
+FF1029826 = FF1029848
+FF1029813 = FF1029835
+FF1030005 = FF1030009
+FF1030003 = FF1030007
+FF1030004 = FF1030008
+
+# Seventh to Eighth
+FF1029849 = FF1029871
+FF1029828 = FF1029850
+FF1029831 = FF1029853
+FF1029832 = FF1029854
+FF1029833 = FF1029855
+FF1029838 = FF1029860
+FF1029839 = FF1029861
+FF1029840 = FF1029862
+FF1029841 = FF1029863
+FF1029842 = FF1029864
+FF1029843 = FF1029865
+FF1029844 = FF1029866
+FF1029845 = FF1029867
+FF1029846 = FF1029868
+FF1029847 = FF1029869
+FF1029836 = FF1029858
+FF1029848 = FF1029870
+FF1029835 = FF1029857
+FF1030009 = FF1030013
+FF1030007 = FF1030011
+FF1030008 = FF1030012
+
+# Eighth to Ninth
+FF1029871 = FF1029893
+FF1029850 = FF1029872
+FF1029853 = FF1029875
+FF1029854 = FF1029876
+FF1029855 = FF1029877
+FF1029860 = FF1029882
+FF1029861 = FF1029883
+FF1029862 = FF1029884
+FF1029863 = FF1029885
+FF1029864 = FF1029886
+FF1029865 = FF1029887
+FF1029866 = FF1029888
+FF1029867 = FF1029889
+FF1029868 = FF1029890
+FF1029869 = FF1029891
+FF1029858 = FF1029880
+FF1029870 = FF1029892
+FF1029857 = FF1029879
+FF1030013 = FF1030017
+FF1030011 = FF1030015
+FF1030012 = FF1030016
+
+# Ninth to Tenth
+FF1029893 = FF1029915
+FF1029872 = FF1029894
+FF1029875 = FF1029897
+FF1029876 = FF1029898
+FF1029877 = FF1029899
+FF1029882 = FF1029904
+FF1029883 = FF1029905
+FF1029884 = FF1029906
+FF1029885 = FF1029907
+FF1029886 = FF1029908
+FF1029887 = FF1029909
+FF1029888 = FF1029910
+FF1029889 = FF1029911
+FF1029890 = FF1029912
+FF1029891 = FF1029913
+FF1029880 = FF1029902
+FF1029892 = FF1029914
+FF1029879 = FF1029901
+FF1030017 = FF1030021
+FF1030015 = FF1030019
+FF1030016 = FF1030020
+"""
+
+# Step 4: Parse the mappings into an ordered list of dictionaries
+mappings = []
+current_mapping = {}
+for line in mapping_text.strip().splitlines():
+    line = line.strip()
+    if line.startswith('#'):
+        if current_mapping:
+            mappings.append(current_mapping.copy())
+            current_mapping = {}
+        continue
+    parts = line.split('=')
+    if len(parts) == 2:
+        left = parts[0].strip().replace('\u200b', '')
+        right = parts[1].strip().replace('\u200b', '')
+        current_mapping[left] = right
+if current_mapping:
+    mappings.append(current_mapping.copy())
+
+# Step 5: Load input from a separate file
+with open('find and replace input.txt', 'r', encoding='utf-8') as f:
+    input_text = f.read()
+
+# Step 6: Function to replace tokens
+def replace_tokens(text, mapping):
+    pattern = re.compile('|'.join(re.escape(k) for k in sorted(mapping, key=len, reverse=True)))
+    return pattern.sub(lambda match: mapping.get(match.group(0), match.group(0)), text)
+
+# Step 7: Define output filenames
+output_filenames = [
+    "letter_version_second.txt",
+    "letter_version_third.txt",
+    "letter_version_fourth.txt",
+    "letter_version_fifth.txt",
+    "letter_version_sixth.txt",
+    "letter_version_seventh.txt",
+    "letter_version_eighth.txt",
+    "letter_version_ninth.txt",
+    "letter_version_tenth.txt",
+]
+
+# Step 8: Perform sequential replacements and generate output files
+current_text = input_text
+for i, mapping in enumerate(mappings):
+    current_text = replace_tokens(current_text, mapping)
+    output_path = os.path.join(output_directory, output_filenames[i])
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(current_text)
+    print(f"Generated: '{output_path}' after applying the '{mapping_text.strip().splitlines()[i*12]}' mapping") # Added mapping name for clarity
+
+print(f"Done. Ten versions of the letter have been generated in the '{output_directory}' directory.")

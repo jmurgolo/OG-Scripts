@@ -2,7 +2,7 @@ import re
 import os
 
 # Step 1: Define the output directory name
-output_directory = "accdemand"  # You can change this name here
+output_directory = "stopwork"  # You can change this name here
 
 # Step 2: Create the output directory if it doesn't exist
 if not os.path.exists(output_directory):
@@ -11,29 +11,9 @@ if not os.path.exists(output_directory):
 
 # Step 3: Define the mapping sections
 mapping_text = """
-# Ticket Details Transformation
-First Ticket Details = Second Ticket Details
-Second Ticket Details = Third Ticket Details
-Third Ticket Details = Fourth Ticket Details
-Fourth Ticket Details = Fifth Ticket Details
-Fifth Ticket Details = Sixth Ticket Details
-Sixth Ticket Details = Seventh Ticket Details
-Seventh Ticket Details = Eighth Ticket Details
-Eighth Ticket Details = Ninth Ticket Details
-Ninth Ticket Details = Tenth Ticket Details
-
-# Inspection Title Transformation
-First Inspection = Second Inspection
-Second Inspection = Third Inspection
-Third Inspection = Fourth Inspection
-Fourth Inspection = Fifth Inspection
-Fifth Inspection = Sixth Inspection
-Sixth Inspection = Seventh Inspection
-Seventh Inspection = Eighth Inspection
-Eighth Inspection = Ninth Inspection
-Ninth Inspection = Tenth Inspection
-
 # first to second
+FIRST NOTICE OF VIOLATIONS = SECOND NOTICE OF VIOLATIONS
+FIRST STOP WORK NOTICE = SECOND STOP WORK NOTICE
 FF1029292 = FF1029314
 FF1029277 = FF1029296
 FF1029278 = FF1029297
@@ -53,6 +33,8 @@ FF1029558 = FF1029562
 FF1029559 = FF1029563
 
 # second to third
+SECOND NOTICE OF VIOLATIONS = THIRD NOTICE OF VIOLATIONS
+SECOND STOP WORK NOTICE = THIRD STOP WORK NOTICE
 FF1029314 = FF1029336
 FF1029293 = FF1029315
 FF1029296 = FF1029317
@@ -76,6 +58,8 @@ FF1029562 = FF1029567
 FF1029563 = FF1029566
 
 # third to fourth
+THIRD NOTICE OF VIOLATIONS = FOURTH NOTICE OF VIOLATIONS
+THIRD STOP WORK NOTICE = FOURTH STOP WORK NOTICE
 FF1029336 = FF1029358
 FF1029315 = FF1029337
 FF1029317 = FF1029340
@@ -99,6 +83,8 @@ FF1029567 = FF1029570
 FF1029566 = FF1029571
 
 # fourth to Fifth
+FOURTH NOTICE OF VIOLATIONS = FIFTH NOTICE OF VIOLATIONS
+FOURTH STOP WORK NOTICE = FIFTH STOP WORK NOTICE
 FF1029358 = FF1029380
 FF1029337 = FF1029359
 FF1029340 = FF1029362
@@ -122,6 +108,8 @@ FF1029570 = FF1029574
 FF1029571 = FF1029575
 
 # Fifth to Sixth
+FIFTH NOTICE OF VIOLATIONS = SIXTH NOTICE OF VIOLATIONS
+FIFTH STOP WORK NOTICE = SIXTH STOP WORK NOTICE
 FF1029380 = FF1029402
 FF1029359 = FF1029381
 FF1029362 = FF1029384
@@ -145,6 +133,8 @@ FF1029574 = FF1029578
 FF1029575 = FF1029579
 
 # Sixth to Seventh
+SIXTH NOTICE OF VIOLATIONS = SEVENTH NOTICE OF VIOLATIONS
+SIXTH STOP WORK NOTICE = SEVENTH STOP WORK NOTICE
 FF1029402 = FF1029424
 FF1029381 = FF1029403
 FF1029384 = FF1029406
@@ -168,6 +158,8 @@ FF1029578 = FF1029582
 FF1029579 = FF1029583
 
 # Seventh to Eighth
+SEVENTH NOTICE OF VIOLATIONS = EIGHTH NOTICE OF VIOLATIONS
+SEVENTH STOP WORK NOTICE = EIGHTH STOP WORK NOTICE
 FF1029424 = FF1029446
 FF1029403 = FF1029425
 FF1029406 = FF1029428
@@ -191,6 +183,8 @@ FF1029582 = FF1029586
 FF1029583 = FF1029587
 
 # Eighth to Ninth
+EIGHTH NOTICE OF VIOLATIONS = NINTH NOTICE OF VIOLATIONS
+EIGHTH STOP WORK NOTICE = NINTH STOP WORK NOTICE
 FF1029446 = FF1029468
 FF1029425 = FF1029447
 FF1029428 = FF1029450
@@ -214,6 +208,8 @@ FF1029586 = FF1029590
 FF1029587 = FF1029591
 
 # Ninth to Tenth
+NINTH NOTICE OF VIOLATIONS = TENTH NOTICE OF VIOLATIONS
+NINTH STOP WORK NOTICE = TENTH STOP WORK NOTICE
 FF1029468 = FF1029490
 FF1029447 = FF1029469
 FF1029450 = FF1029472
@@ -286,4 +282,4 @@ for i, mapping in enumerate(mappings):
         f.write(current_text)
     print(f"Generated: '{output_path}' after applying the '{mapping_text.strip().splitlines()[i*12]}' mapping") # Added mapping name for clarity
 
-print(f"Done. Ten versions of the letter have been generated in the '{output_directory}' directory.")
+print(f"Done. Nine versions of the letter have been generated in the '{output_directory}' directory.")

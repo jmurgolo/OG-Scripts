@@ -6,8 +6,8 @@
  * - Ensure the input field has the ID "currentDropdownItemName".
  * - Modify the `items` array as needed.
  * 
- * Author: [Your Name]
- * Date: [Date]
+ * Author: James Murgolo
+ * Date: 2025-06-28
  */
 
 /**

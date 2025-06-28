@@ -1,3 +1,5 @@
+This is only for puppeteer which I decided not to use.  Left here as it is already in GIT and I might need to use it later.
+
 Install node
 install jre
 install jdk

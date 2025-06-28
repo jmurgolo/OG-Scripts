@@ -11,10 +11,11 @@
  */
 
 /**
- * Open your browser (I use chrome) and right click on the dropdown element on the right where you enter values.  Select inspect.  
- * In the inspection window open the console and paste the code into there and hit enter.  The first time it will ask you to type something
- * to allow pasting.  Change the array values as needed.  
- * 
+ * Open your browser (I use chrome) and right click on the dropdown element on the right where you enter values.  Get the id of the element you are going to add values to 
+ * (should look something like this where :ra9s: is the id <textarea aria-invalid="false" id=":ra9s:" class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline css-pq7l0f" style="height: 20px; overflow: hidden;"></textarea>)  Select inspect.  
+ * put that value into the variable declared in the top line of the script (const input = document.getElementById(":ra5q:");)
+ * In the inspection window open the console and paste the code into there and hit enter.  The first time it will ask you to type something to allow pasting.  Change the array values as needed.
+ *
  * Usage:
  * - This script simulates entering dropdown items into an input field.
  * - Ensure the input field has the ID "currentDropdownItemName".

@@ -6,7 +6,7 @@ import os
 document_to_modify = 'find and replace input.txt' 
 
 # 2. Provide your mapping data as a multi-line string.
-#    Ensure your mapping is exactly as provided in your prompt.
+#    Ensure your mapping is exactly as provided in your prompt. 
 mapping = r"""
 1028598 = 1026201
 

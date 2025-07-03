@@ -1,0 +1,256 @@
+General Information
+ {{FF1036646}}​ = Inspection Access Contact Phone
+ {{FF1036647}}​ = Inspection Access Contact Title
+ {{FF1036648}}​ = Inspection Access Contact Name
+ {{FF1036651}}​ = Other Source
+ {{{FF1036649}}}​ = General Notes (Internal)
+ {{FF1036650}}​ = Complaint Source
+Tenant Information
+ {{FF1036597}}​ = Seventh Tenant Unit
+ {{FF1036599}}​ = First Tenant Name
+ {{FF1036600}}​ = Second Tenant Unit
+ {{FF1036602}}​ = Third Tenant Phone Number
+ {{FF1036603}}​ = Fifth Tenant Unit
+ {{FF1036604}}​ = Fifth Tenant Phone Number
+ {{FF1036605}}​ = Tenth Tenant Name
+ {{FF1036609}}​ = Second Tenant Name
+ {{FF1036610}}​ = Third Tenant Unit
+ {{FF1036612}}​ = Sixth Tenant Unit
+ {{FF1036613}}​ = Sixth Tenant Unit
+ {{FF1036615}}​ = Seventh Tenant Name
+ {{FF1036616}}​ = Ninth Tenant Unit
+ {{FF1036620}}​ = First Tenant Unit
+ {{FF1036621}}​ = First Tenant Phone Number
+ {{FF1036622}}​ = Second Tenant Phone Number
+ {{FF1036624}}​ = Fourth Tenant Name
+ {{FF1036625}}​ = Sixth Tenant Name
+ {{FF1036627}}​ = Seventh Tenant Phone Number
+ {{FF1036628}}​ = Eighth Tenant Phone Number
+ {{FF1036629}}​ = Ninth Tenant Name
+ {{FF1036630}}​ = Tenth Tenant Unit
+ {{FF1036631}}​ = Third Tenant Name
+ {{FF1036632}}​ = Fourth Tenant Unit
+ {{FF1036633}}​ = Fourth Tenant Phone Number
+ {{FF1036635}}​ = Fifth Tenant Name
+ {{FF1036636}}​ = Eighth Tenant Name
+ {{FF1036637}}​ = Eighth Tenant Unit
+ {{FF1036639}}​ = Ninth Tenant Phone Number
+ {{FF1036640}}​ = Tenth Tenant Phone Number
+ {{FF1036598}}​ = Eighth Tenant
+ {{FF1036601}}​ = Third Tenant
+ {{FF1036608}}​ = First Tenant
+ {{FF1036611}}​ = Second Tenant
+ {{FF1036614}}​ = Seventh Tenant
+ {{FF1036617}}​ = Tenth Tenant
+ {{FF1036623}}​ = Fourth Tenant
+ {{FF1036626}}​ = Sixth Tenant
+ {{FF1036634}}​ = Fifth Tenant
+ {{FF1036638}}​ = Ninth Tenant
+Owner Information
+ {{FF1036607}}​ = Second Owner Name
+ {{FF1036641}}​ = Alternative Owner Name
+ {{FF1036644}}​ = Third Owner Name
+ {{{FF1036618}}}​ = Alternative Owner Address (Shift Enter for only one space between lines)
+ {{{FF1036619}}}​ = Second Owner Address (Shift Enter for only one space between lines)
+ {{{FF1036645}}}​ = Third Owner Address (Shift Enter for only one space between lines)
+ {{FF1036606}}​ = Owner Different than GIS
+ {{FF1036642}}​ = Add Second Additional Owner
+ {{FF1036643}}​ = Add Third Additional Owner
+Inspection Type
+ {{FF1036652}}​ = Housing
+ {{FF1036653}}​ = Electrical
+ {{FF1036654}}​ = Plumbing/Gas
+ {{FF1036655}}​ = Zoning
+ {{FF1036656}}​ = Building
+ {{FF1036769}}​ = Court Inspection
+Building Inspection Details
+ {{{FF1036669}}}​ = Inspection Notes for Administrative Staff
+ {{FF1036658}}​ = Matthew Goodchild
+ {{FF1036659}}​ = Abdul Mohammed
+ {{FF1036660}}​ = Emergency
+ {{FF1036661}}​ = Court
+ {{FF1036664}}​ = Thomas Kennedy
+ {{FF1036665}}​ = George Shaw
+ {{FF1036668}}​ = David Markham
+ {{FF1036670}}​ = Condemnation
+ {{FF1036671}}​ = Inspection
+ {{FF1036657}}​ = Inspection Time
+ {{FF1036667}}​ = Date of Inspection
+Electrical Inspection Details
+ {{{FF1036745}}}​ = Inspection Notes for Administrative Staff
+ {{FF1036672}}​ = Riccardo Bedinotti
+ {{FF1036673}}​ = Aaron Cole
+ {{FF1036674}}​ = Joseph Desmond
+ {{FF1036675}}​ = Court
+ {{FF1036676}}​ = Emergency
+ {{FF1036677}}​ = Inspection
+ {{FF1036683}}​ = Peter Nham
+ {{FF1036687}}​ = Inspection Time
+ {{FF1036686}}​ = Date of Inspection
+Housing Inspection Details
+ {{{FF1036744}}}​ = Inspection Notes for Administrative Staff
+ {{FF1036679}}​ = Jesus Martinez
+ {{FF1036680}}​ = Danny Cueto
+ {{FF1036688}}​ = Post Judgment
+ {{FF1036689}}​ = Michelle Haska
+ {{FF1036690}}​ = Mike Jones
+ {{FF1036692}}​ = Concentrated
+ {{FF1036693}}​ = Jermaine Mitchell
+ {{FF1036694}}​ = Michael McNulty
+ {{FF1036695}}​ = Emergency
+ {{FF1036696}}​ = Exterior
+ {{FF1036697}}​ = MRVP
+ {{FF1036698}}​ = Inspection
+ {{FF1036700}}​ = Christopher Bennett
+ {{FF1036701}}​ = William Brunton
+ {{FF1036702}}​ = Michael Whiting
+ {{FF1036703}}​ = Condemnation
+ {{FF1036704}}​ = Court
+ {{FF1036705}}​ = Pre-Judgement
+ {{FF1036706}}​ = Lead Paint
+ {{FF1036708}}​ = Priority
+ {{FF1036682}}​ = Inspection Time
+ {{FF1036699}}​ = Date of Inspection
+Plumbing Inspection Details
+ {{{FF1036729}}}​ = Inspection Notes for Administrative Staff
+ {{FF1036718}}​ = Paul Brodeur
+ {{FF1036719}}​ = Roderick Cruz
+ {{FF1036720}}​ = Thomas Witkop
+ {{FF1036721}}​ = Court
+ {{FF1036722}}​ = Emergency
+ {{FF1036723}}​ = Inspection
+ {{FF1036736}}​ = Sam Santaniello
+ {{FF1036724}}​ = Inspection Time
+ {{FF1036737}}​ = Date of Inspection
+Zoning Inspection Details
+ {{{FF1036731}}}​ = Inspection Notes for Administrative Staff
+ {{FF1036727}}​ = Maurice Rowtham
+ {{FF1036728}}​ = Tanya Hay
+ {{FF1036730}}​ = Condemnation
+ {{FF1036732}}​ = Court
+ {{FF1036733}}​ = Inspection
+ {{FF1036739}}​ = Michael Jachym
+ {{FF1036742}}​ = Emergency
+ {{FF1036743}}​ = Inspection Time
+ {{FF1036726}}​ = Date of Inspection
+Ticket Amount and Due Date
+ {{FF1036770}}​ = Person whose name will appear on ticket
+ {{FF1036747}}​ = Amount
+ {{FF1036746}}​ = Due Date
+Court Inspection Details
+ {{FF1036752}}​ = Next Court Appearance
+ {{FF1036754}}​ = Record ID
+ {{{FF1036757}}}​ = Purpose
+ {{{FF1036764}}}​ = Images
+ {{{FF1036765}}}​ = Inspector Findings
+ {{FF1036753}}​ = Formal Report
+ {{FF1036758}}​ = Narrative
+ {{FF1036759}}​ = Photographs
+ {{FF1036760}}​ = Court Attendance Necessary
+ {{FF1036755}}​ = Plumbing Gas Inspector
+ {{FF1036756}}​ = Zoning Inspector
+ {{FF1036762}}​ = Time of Reinspection
+ {{FF1036763}}​ = Electrical Inspector
+ {{FF1036766}}​ = Record Type
+ {{FF1036767}}​ = Building Inspector
+ {{FF1036768}}​ = Housing Inspector
+ {{FF1036761}}​ = Date of Inspection
+ Electrical Violations
+ {{{OL1023065}}}​ = Unit(s)
+ {{{OL1023063}}}​ = Code / Description
+ {{{OL1023064}}}​ = Responsible Party
+ {{{OL1023066}}}​ = Status
+ {{{OL1023068}}}​ = Correction Required By:
+ {{{OL1023067}}}​ = Picture
+Certified Letters
+ {{{OL1023069}}}​ = Certified Number
+ {{{OL1023071}}}​ = Recipient
+ {{{OL1023072}}}​ = Cc
+ {{{OL1023070}}}​ = Date sent
+Emergency Violations
+ {{{OL1023075}}}​ = Unit
+ {{{OL1023073}}}​ = Code / Description
+ {{{OL1023074}}}​ = Responsible Party
+ {{{OL1023077}}}​ = Status
+ {{{OL1023076}}}​ = Correction Required By:
+ {{{OL1023078}}}​ = Picture
+Parties Responsible for Online Payment
+ {{{OL1023079}}}​ = Email Address
+First Ticket
+ {{{OL1023229}}}​ = First Ticket Description
+Second Ticket
+ {{{OL1023256}}}​ = Second Ticket Description
+Third Ticket
+ {{{OL1023261}}}​ = Third Ticket Description
+Fourth Ticket
+ {{{OL1023266}}}​ = Fourth Ticket Description
+Fifth Ticket
+ {{{OL1023271}}}​ = Fifth Ticket Description
+Sixth Ticket
+ {{{OL1023276}}}​ = Sixth Ticket Description
+Seventh Ticket
+ {{{OL1023281}}}​ = Seventh Ticket Description
+Eighth Ticket
+ {{{OL1023286}}}​ = Eighth Ticket Description
+Ninth Ticket
+ {{{OL1023291}}}​ = Ninth Ticket Description
+Tenth Ticket
+ {{{OL1023296}}}​ = Tenth Ticket Description
+ Code Case Violations
+ {{{OL1035723}}}​ = Unit(s)
+ {{{OL1035777}}}​ = Code / Description
+ {{{OL1036107}}}​ = Responsible Party
+ {{{OL1036108}}}​ = Status
+ {{{OL1036141}}}​ = Correction Required By:
+ {{{OL1036196}}}​ = Picture
+Unregistered Motor Vehicles
+ {{{OL1035724}}}​ = License Plate #
+ {{{OL1035725}}}​ = VIN #
+ {{{OL1035776}}}​ = Comments
+ {{{OL1036109}}}​ = Status
+ {{{OL1036110}}}​ = Make
+ {{{OL1036111}}}​ = Model
+ {{{OL1036112}}}​ = Color
+ {{{OL1036142}}}​ = Correction Required By:
+ {{{OL1036195}}}​ = Picture
+Certified Letters
+ {{{OL1035726}}}​ = Recipient
+ {{{OL1035727}}}​ = Cc
+ {{{OL1035732}}}​ = Certified Number
+ {{{OL1036144}}}​ = Date sent
+Family Breakdown Adult
+ {{{OL1035728}}}​ = First Name
+ {{{OL1035729}}}​ = Middle Name
+ {{{OL1035730}}}​ = Last Name
+ {{{OL1035731}}}​ = First Child Name
+ {{{OL1035938}}}​ = First Child Six and Under
+ {{{OL1036145}}}​ = First Child Date of Birth
+Emergency Violations
+ {{{OL1035733}}}​ = Unit
+ {{{OL1035775}}}​ = Code / Description
+ {{{OL1036105}}}​ = Responsible Party
+ {{{OL1036106}}}​ = Status
+ {{{OL1036143}}}​ = Correction Required By:
+ {{{OL1036194}}}​ = Picture
+Parties Responsible for Online Payment
+ {{{OL1035734}}}​ = Email Address
+First Ticket
+ {{{OL1035765}}}​ = Description
+Second Ticket
+ {{{OL1035763}}}​ = Second Ticket Description
+Third Ticket
+ {{{OL1035761}}}​ = Third Ticket Description
+Fourth Ticket
+ {{{OL1035759}}}​ = Fourth Ticket Description
+Fifth Ticket
+ {{{OL1035757}}}​ = Fifth Ticket Description
+Sixth Ticket
+ {{{OL1035755}}}​ = Sixth Ticket Description
+Seventh Ticket
+ {{{OL1035753}}}​ = Seventh Ticket Description
+Eighth Ticket
+ {{{OL1035751}}}​ = Eighth Ticket Description
+Ninth Ticket
+ {{{OL1035749}}}​ = Ninth Ticket Description
+Tenth Ticket
+ {{{OL1035747}}}​ = Tenth Ticket Description

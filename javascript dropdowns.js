@@ -28,7 +28,7 @@
  */
 
 //times
-const items = ["7:00 AM","7:15 AM","7:30 AM","7:45 AM","8:00 AM","8:15 AM","8:30 AM","8:45 AM","9:00 AM","9:15 AM","9:30 AM","9:45 AM","10:00 AM","10:15 AM","10:30 AM","10:45 AM","11:00 AM","Actual command not found, wanted to execute git.sync /42311:15 AM","11:30 AM","11:45 AM","12:00 PM","12:15 PM","12:30 PM","12:45 PM","1:00 PM","1:15 PM","1:30 PM","1:45 PM","2:00 PM","2:15 PM","2:30 PM","2:45 PM","3:00 PM","3:15 PM","3:30 PM","3:45 PM","4:00 PM","4:15 PM","4:30 PM","4:45 PM","5:00 PM","5:15 PM","5:30 PM","5:45 PM","6:00 PM","6:15 PM","6:30 PM","6:45 PM","7:00 PM","7:15 PM","7:30 PM","7:45 PM","8:00 PM"];
+const items = ["7:00 AM","7:15 AM","7:30 AM","7:45 AM","8:00 AM","8:15 AM","8:30 AM","8:45 AM","9:00 AM","9:15 AM","9:30 AM","9:45 AM","10:00 AM","10:15 AM","10:30 AM","10:45 AM","11:00 AM","11:15 AM","11:30 AM","11:45 AM","12:00 PM","12:15 PM","12:30 PM","12:45 PM","1:00 PM","1:15 PM","1:30 PM","1:45 PM","2:00 PM","2:15 PM","2:30 PM","2:45 PM","3:00 PM","3:15 PM","3:30 PM","3:45 PM","4:00 PM","4:15 PM","4:30 PM","4:45 PM","5:00 PM","5:15 PM","5:30 PM","5:45 PM","6:00 PM","6:15 PM","6:30 PM","6:45 PM","7:00 PM","7:15 PM","7:30 PM","7:45 PM","8:00 PM"];
 
 //Usage Groups
 //const items = ['A-1: fixed seating; performing arts, motion pictures','A-2: food or drink consumptions','A-3: worship, recreation or amusement','A-4: indoor sporting','A-5: outdoor activities','B: office, professional services','E: educational','F-1: moderate hazard','F-2: low hazard; non combustibles','H-1: detonation hazard','H-2: deflagration hazard','H-3: physical hazard','H-4: health hazard','H-5: research and development hazard producing','I-1: capable of self-preservation','I-2: not capable of self-preservation','M: sale of merchandise','R-1: hotel, motel','R-2: multi family, dormitories','R-3: 1 or 2 family dwelling','R-4: assisted living between 5-16 occupants','S-1: moderate hazard','S-2: low hazard','U: utility, accessory structures'];
@@ -45,11 +45,25 @@ const items = ["7:00 AM","7:15 AM","7:30 AM","7:45 AM","8:00 AM","8:15 AM","8:30
 // //car colors
 //const items = ['Beige','Black','Blue','Bronze','Brown','Burgundy','Charcoal','Copper','Cream','Gold','Gray','Green','Maroon','Orange','Pink','Purple','Red','Silver','Tan','Teal','White','Yellow'];
 
+//Record Types
+//const items = ['Building','Electrical','Housing','Plumbing & Gas', 'Zoning'];
 
+//Building Inspectors
+//const items = ['Mark Hebert','Thomas Kennedy','George Shaw','David Markham','Paul Brodeur','Matthew Goodchild','Abdul Mohammed','Chris Nunez'];
 
+//Housing Inspectors
+//const items = ['Jermaine Mitchell','Michael McNulty','Jesus Martinez','Mike Jones','Michelle Haska','Danny Cueto','William Brunton','Christopher Bennett'];
 
+//Electrical Inspectors
+//const items = ['Aaron Cole','Riccardo Bedinotti','Joseph Desmond','Peter Nham'];
 
-const input = document.getElementById(":ra5q:");
+//Plumbing Inspectors
+//const items = ['Thomas Witkop','Sam Santaniello','Roderick Cruz','Paul Brodeur'];
+
+//zoning Inspectors
+//const items = ['Michael Jachym','Maurice Rowtham','Tanya Hay'];
+
+const input = document.getElementById(":r6tu:");
 
 
 function sleep(ms) {

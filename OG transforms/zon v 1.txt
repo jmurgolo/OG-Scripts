@@ -1,3 +1,5 @@
+can you take this data where the titles match on the right of the equal signs and transform to this so the data looks like FF1035951 = FF1036701
+
 General Info
  {{FF1023621}}​ = Inspection Access Contact Name
  {{FF1023622}}​ = Inspection Access Contact Phone
@@ -15,17 +17,6 @@ General Info
  {{{FF1023643}}}​ = Alternative Owner Address
  {{{FF1023646}}}​ = Second Owner Address
  {{{FF1023649}}}​ = Third Owner Address
- {{{FF1023654}}}​ = Refer to Court Details
- {{{FF1023656}}}​ = Refer to Housing Enforcement Details
- {{{FF1023658}}}​ = Refer to Electrical Details
- {{{FF1023660}}}​ = Refer to Plumbing Details
- {{{FF1023662}}}​ = Refer to Fire Details
- {{{FF1023664}}}​ = Refer to Police Ordinance Details
- {{{FF1023666}}}​ = Refer to Health Department Details
- {{{FF1023668}}}​ = Refer to Elderly Affairs Details
- {{{FF1023670}}}​ = Refer to Animal Control Details
- {{{FF1023672}}}​ = Refer to Office of Housing Details
- {{{FF1023674}}}​ = Refer to Building Details
  {{FF1023632}}​ = Number of Shopping Carts
  {{FF1023626}}​ = Interior
  {{FF1023627}}​ = Exterior
@@ -35,24 +26,11 @@ General Info
  {{FF1023641}}​ = Owner Different than GIS
  {{FF1023644}}​ = Add Second Additional Owner
  {{FF1023647}}​ = Add Third Additional Owner
- {{FF1023651}}​ = Compliance Letter
- {{FF1023653}}​ = Refer to Court
- {{FF1023655}}​ = Refer to Housing Enforcement
- {{FF1023657}}​ = Refer to Electrical Enforcement
- {{FF1023659}}​ = Refer to Plumbing Enforcement
- {{FF1023661}}​ = Refer to Fire Department
- {{FF1023663}}​ = Refer to Police Ordinance
- {{FF1023665}}​ = Refer to Health Department
- {{FF1023667}}​ = Refer to Elderly Affairs
- {{FF1023669}}​ = Refer to Animal Control
- {{FF1023671}}​ = Refer to Office of Housing
- {{FF1023673}}​ = Refer to Building
  {{FF1023675}}​ = Add Parties Responsible for Payment
  {{FF1023624}}​ = Complaint Source
  {{FF1023629}}​ = Usage Group
  {{FF1023630}}​ = When did the problem first occur
 First Inspection
- {{{FF1023706}}}​ = First Inspection Notes For Administrative Staff
  {{FF1023694}}​ = Condemnation
  {{FF1023695}}​ = Court
  {{FF1023696}}​ = Emergency
@@ -60,190 +38,16 @@ First Inspection
  {{FF1023702}}​ = Michael Jachym
  {{FF1023703}}​ = Maurice Rowtham
  {{FF1023704}}​ = Tanya Hay
- {{FF1023700}}​ = First Inspection Time
- {{FF1023705}}​ = First Inspection Result
- {{FF1023699}}​ = Date of First Inspection
-Second Inspection
- {{{FF1023721}}}​ = Second Inspection Notes For Administrative Staff
- {{FF1023707}}​ = Schedule Second Inspection
- {{FF1023709}}​ = Condemnation
- {{FF1023710}}​ = Court
- {{FF1023711}}​ = Emergency
- {{FF1023712}}​ = Inspection
- {{FF1023717}}​ = Michael Jachym
- {{FF1023718}}​ = Maurice Rowtham
- {{FF1023719}}​ = Tanya Hay
- {{FF1023715}}​ = Time of Second Inspection
- {{FF1023720}}​ = Second Inspection Result
- {{FF1023714}}​ = Date of Second Inspection
-Third Inspection
- {{{FF1023736}}}​ = Third Inspection Notes For Administrative Staff
- {{FF1023722}}​ = Schedule Third Inspection
- {{FF1023724}}​ = Court
- {{FF1023725}}​ = Condemnation
- {{FF1023726}}​ = Emergency
- {{FF1023727}}​ = Inspection
- {{FF1023732}}​ = Michael Jachym
- {{FF1023733}}​ = Maurice Rowtham
- {{FF1023734}}​ = Tanya Hay
- {{FF1023730}}​ = Time of Third Inspection
- {{FF1023735}}​ = Third Inspection Result
- {{FF1023729}}​ = Date of Third Inspection
-Fourth Inspection
- {{{FF1023750}}}​ = Fourth Inspection Notes For Administrative Staff
- {{FF1023737}}​ = Schedule Fourth Inspection
- {{FF1023739}}​ = Condemnation
- {{FF1023740}}​ = Court
- {{FF1023741}}​ = Emergency
- {{FF1023742}}​ = Inspection
- {{FF1023747}}​ = Michael Jachym
- {{FF1023748}}​ = Maurice Rowtham
- {{FF1023751}}​ = Tanya Hay
- {{FF1023745}}​ = Time of Fourth Inspection
- {{FF1023749}}​ = Fourth Inspection Result
- {{FF1023744}}​ = Date of Fourth Inspection
-Fifth Inspection
- {{{FF1023766}}}​ = Fifth Inspection Notes For Administrative Staff
- {{FF1023752}}​ = Schedule Fifth Inspection
- {{FF1023754}}​ = Condemnation
- {{FF1023755}}​ = Court
- {{FF1023756}}​ = Emergency
- {{FF1023757}}​ = Inspection
- {{FF1023762}}​ = Michael Jachym
- {{FF1023763}}​ = Maurice Rowtham
- {{FF1023764}}​ = Tanya Hay
- {{FF1023760}}​ = Time of Fifth Inspection
- {{FF1023765}}​ = Fifth Inspection Result
- {{FF1023759}}​ = Date of Fifth Inspection
-Sixth Inspection
- {{{FF1023781}}}​ = Sixth Inspection Notes For Administrative Staff
- {{FF1023767}}​ = Schedule Sixth inspection
- {{FF1023769}}​ = Condemnation
- {{FF1023770}}​ = Court
- {{FF1023771}}​ = Emergency
- {{FF1023772}}​ = Inspection
- {{FF1023777}}​ = Michael Jachym
- {{FF1023778}}​ = Maurice Rowtham
- {{FF1023779}}​ = Tanya Hay
- {{FF1023775}}​ = Time of Sixth Inspection
- {{FF1023780}}​ = Sixth Inspection Result
- {{FF1023774}}​ = Date of Sixth Inspection
-Seventh Inspection
- {{{FF1023796}}}​ = Seventh Inspection Notes For Administrative Staff
- {{FF1023782}}​ = Schedule Seventh inspection
- {{FF1023784}}​ = Condemnation
- {{FF1023785}}​ = Court
- {{FF1023786}}​ = Emergency
- {{FF1023787}}​ = Inspection
- {{FF1023792}}​ = Michael Jachym
- {{FF1023793}}​ = Maurice Rowtham
- {{FF1023794}}​ = Tanya Hay
- {{FF1023790}}​ = Time of Seventh Inspection
- {{FF1023795}}​ = Seventh Inspection Result
- {{FF1023789}}​ = Date of Seventh Inspection
-Eighth Inspection
- {{{FF1023811}}}​ = Eighth Inspection Notes For Administrative Staff
- {{FF1023797}}​ = Schedule Eighth inspection
- {{FF1023799}}​ = Condemnation
- {{FF1023800}}​ = Court
- {{FF1023801}}​ = Emergency
- {{FF1023802}}​ = Inspection
- {{FF1023807}}​ = Michael Jachym
- {{FF1023808}}​ = Maurice Rowtham
- {{FF1023809}}​ = Tanya Hay
- {{FF1023805}}​ = Time of Eighth Inspection
- {{FF1023810}}​ = Eighth Inspection Result
- {{FF1023804}}​ = Date of Eighth Inspection
-Ninth Inspection
- {{{FF1023826}}}​ = Ninth Inspection Notes For Administrative Staff
- {{FF1023812}}​ = Schedule Ninth inspection
- {{FF1023814}}​ = Condemnation
- {{FF1023815}}​ = Court
- {{FF1023816}}​ = Emergency
- {{FF1023817}}​ = Inspection
- {{FF1023822}}​ = Michael Jachym
- {{FF1023823}}​ = Maurice Rowtham
- {{FF1023824}}​ = Tanya Hay
- {{FF1023820}}​ = Time of Ninth Inspection
- {{FF1023825}}​ = Ninth Inspection Result
- {{FF1023819}}​ = Date of Ninth Inspection
-Tenth Inspection
- {{{FF1023841}}}​ = Tenth Inspection Notes For Administrative Staff
- {{FF1023827}}​ = Schedule Tenth inspection
- {{FF1023829}}​ = Condemnation
- {{FF1023830}}​ = Court
- {{FF1023831}}​ = Emergency
- {{FF1023832}}​ = Inspection
- {{FF1023837}}​ = Michael Jachym
- {{FF1023838}}​ = Maurice Rowtham
- {{FF1023839}}​ = Tanya Hay
- {{FF1023835}}​ = Time of Tenth Inspection
- {{FF1023840}}​ = Tenth Inspection Result
- {{FF1023834}}​ = Date of Tenth Inspection
-Letters
- {{FF1023844}}​ = Send First Violation Letters
- {{FF1023845}}​ = Send Second Violation Letters
- {{FF1023846}}​ = Send Third Violation Letters
- {{FF1023847}}​ = Send Fourth Violation Letters
- {{FF1023848}}​ = Send Fifth Violation Letters
- {{FF1023849}}​ = Send Sixth Violation Letters
- {{FF1023850}}​ = Send Seventh Violation Letters
- {{FF1023851}}​ = Send Eighth Violation Letters
- {{FF1023852}}​ = Send Ninth Violation Letters
- {{FF1023853}}​ = Send Tenth Violation Letters
- {{FF1023855}}​ = First Shopping Cart Letter
- {{FF1023856}}​ = Second Shopping Cart Letter
- {{FF1023857}}​ = Third Shopping Cart Letter
- {{FF1023858}}​ = Fourth Shopping Cart Letter
- {{FF1023859}}​ = Fifth Shopping Cart Letter
- {{FF1023860}}​ = Sixth Shopping Cart Letter
- {{FF1023861}}​ = Seventh Shopping Cart Letter
- {{FF1023862}}​ = Eighth Shopping Cart Letter
- {{FF1023863}}​ = Ninth Shopping Cart Letter
- {{FF1023864}}​ = Tenth Shopping Cart Letter
+ {{FF1023700}}​ = Inspection Time
+ {{FF1023699}}​ = Date of Inspection
+ {{FF1023715}}​ = Time of Next Inspection
+ {{FF1023714}}​ = Date of Next Inspection
 First Ticket Details
- {{{FF1023867}}}​ = First Ticket Notes for Administrative Staff
- {{FF1023865}}​ = First Ticket Total
- {{FF1023866}}​ = First Ticket Due Date
-Second Ticket Details
- {{{FF1023871}}}​ = Second Ticket Notes for Administrative Staff
- {{FF1023869}}​ = Second Ticket Total
- {{FF1023870}}​ = Second Ticket Due Date
-Third Ticket Details
- {{{FF1023875}}}​ = Third Ticket Notes for Administrative Staff
- {{FF1023874}}​ = Third Ticket Total
- {{FF1023873}}​ = Third Ticket Due Date
-Fourth Ticket Details
- {{{FF1023879}}}​ = Fourth Ticket Notes for Administrative Staff
- {{FF1023877}}​ = Fourth Ticket Total
- {{FF1023878}}​ = Fourth Ticket Due Date
-Fifth Ticket Details
- {{{FF1023883}}}​ = Fifth Ticket Notes for Administrative Staff
- {{FF1023881}}​ = Fifth Ticket Total
- {{FF1023882}}​ = Fifth Ticket Due Date
-Sixth Ticket Details
- {{{FF1023887}}}​ = Sixth Ticket Notes for Administrative Staff
- {{FF1023885}}​ = Sixth Ticket Total
- {{FF1023886}}​ = Sixth Ticket Due Date
-Seventh Ticket Details
- {{{FF1023891}}}​ = Seventh Ticket Notes for Administrative Staff
- {{FF1023889}}​ = Seventh Ticket Total
- {{FF1023890}}​ = Seventh Ticket Due Date
-Eighth Ticket Details
- {{{FF1023895}}}​ = Eighth Ticket Notes for Administrative Staff
- {{FF1023893}}​ = Eighth Ticket Total
- {{FF1023894}}​ = Eighth Ticket Due Date
-Ninth Ticket Details
- {{{FF1023899}}}​ = Ninth Ticket Notes for Administrative Staff
- {{FF1023897}}​ = Ninth Ticket Total
- {{FF1023898}}​ = Ninth Ticket Due Date
-Tenth Ticket Details
- {{{FF1023903}}}​ = Tenth Ticket Notes for Administrative Staff
- {{FF1023901}}​ = Tenth Ticket Total
- {{FF1023902}}​ = Tenth Ticket Due Date
- Zoning Violations
+ {{FF1023865}}​ = Amount
+ {{FF1023866}}​ = Due Date
+Zoning Violations
  {{{OL1023678}}}​ = Unit(s)
- {{{OL1023676}}}​ = Code / Description
+ {{{OL1023676}}}​ = Violation
  {{{OL1023677}}}​ = Responsible Party
  {{{OL1023679}}}​ = Status
  {{{OL1023681}}}​ = Correction Required By:
@@ -253,32 +57,77 @@ Certified Letters
  {{{OL1023684}}}​ = Recipient
  {{{OL1023685}}}​ = Cc
  {{{OL1023683}}}​ = Date sent
-Emergency Violations
- {{{OL1023688}}}​ = Unit
- {{{OL1023686}}}​ = Code / Description
- {{{OL1023687}}}​ = Responsible Party
- {{{OL1023690}}}​ = Status
- {{{OL1023689}}}​ = Correction Required By:
- {{{OL1023691}}}​ = Picture
-Parties Responsible for Online Payment
- {{{OL1023692}}}​ = Email Address
 First Ticket
- {{{OL1023842}}}​ = First Ticket Description
-Second Ticket
- {{{OL1023868}}}​ = Second Ticket Description
-Third Ticket
- {{{OL1023872}}}​ = Third Ticket Description
-Fourth Ticket
- {{{OL1023876}}}​ = Fourth Ticket Description
-Fifth Ticket
- {{{OL1023880}}}​ = Fifth Ticket Description
-Sixth Ticket
- {{{OL1023884}}}​ = Sixth Ticket Description
-Seventh Ticket
- {{{OL1023888}}}​ = Seventh Ticket Description
-Eighth Ticket
- {{{OL1023892}}}​ = Eighth Ticket Description
-Ninth Ticket
- {{{OL1023896}}}​ = Ninth Ticket Description
-Tenth Ticket
- {{{OL1023900}}}​ = Tenth Ticket Description
+ {{{OL1023842}}}​ = ticket Violation
+
+
+
+ to this data 
+
+General Information
+ {{FF1036646}}​ = Inspection Access Contact Phone
+ {{FF1036647}}​ = Inspection Access Contact Title
+ {{FF1036648}}​ = Inspection Access Contact Name
+ {{FF1036651}}​ = Other Source
+ {{{FF1036649}}}​ = General Notes (Internal)
+ {{FF1036650}}​ = Complaint Source
+Owner Information
+ {{FF1036607}}​ = Second Owner Name
+ {{FF1036641}}​ = Alternative Owner Name
+ {{FF1036644}}​ = Third Owner Name
+ {{{FF1036618}}}​ = Alternative Owner Address
+ {{{FF1036619}}}​ = Second Owner Address
+ {{{FF1036645}}}​ = Third Owner Address
+ {{FF1036606}}​ = Owner Different than GIS
+ {{FF1036642}}​ = Add Second Additional Owner
+ {{FF1036643}}​ = Add Third Additional Owner
+Inspection Type
+ {{FF1036652}}​ = Housing
+ {{FF1036653}}​ = Electrical
+ {{FF1036654}}​ = Plumbing/Gas
+ {{FF1036655}}​ = Zoning
+ {{FF1036656}}​ = Building
+ {{FF1036769}}​ = Court Inspection
+
+Zoning Inspection Details
+ {{{FF1036731}}}​ = Inspection Notes for Administrative Staff
+ {{FF1036727}}​ = Maurice Rowtham
+ {{FF1036728}}​ = Tanya Hay
+ {{FF1036730}}​ = Condemnation
+ {{FF1036732}}​ = Court
+ {{FF1036733}}​ = Inspection
+ {{FF1036739}}​ = Michael Jachym
+ {{FF1036742}}​ = Emergency
+ {{FF1036743}}​ = Inspection Time
+ {{FF1036832}}​ = Time of Next Inspection
+ {{FF1036726}}​ = Date of Inspection
+ {{FF1036831}}​ = Date of Next Inspection
+Ticket Amount and Due Date
+ {{FF1036770}}​ = Person whose name will appear on ticket
+ {{FF1036747}}​ = Amount
+ {{FF1036746}}​ = Due Date
+
+Zoning Violations
+ {{{OL1036591}}}​ = Unit(s)
+ {{{OL1036594}}}​ = Violation
+ {{{OL1036592}}}​ = Responsible Party
+ {{{OL1036595}}}​ = Status
+ {{{OL1036593}}}​ = Correction Required By:
+ {{{OL1036596}}}​ = Picture
+Unregistered Motor Vehicles
+ {{{OL1036715}}}​ = License Plate #
+ {{{OL1036716}}}​ = VIN #
+ {{{OL1036712}}}​ = Comments
+ {{{OL1036709}}}​ = Make
+ {{{OL1036710}}}​ = Model
+ {{{OL1036711}}}​ = Color
+ {{{OL1036717}}}​ = Status
+ {{{OL1036714}}}​ = Correction Required By:
+ {{{OL1036713}}}​ = Picture
+Certified Letters
+ {{{OL1036817}}}​ = Recipient
+ {{{OL1036818}}}​ = Cc
+ {{{OL1036819}}}​ = Certified Number
+ {{{OL1036820}}}​ = Date sent
+Zoning Ticket Description
+ {{{OL1036822}}}​ = ticket Violation

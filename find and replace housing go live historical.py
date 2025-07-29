@@ -1,3 +1,20 @@
+import os
+
+# --- Configuration ---
+# 1. Define the path to your document
+#    Make sure to change this to your actual document path.
+document_to_modify = 'find and replace input.txt' 
+
+# 2. Provide your mapping data as a multi-line string.
+#    Ensure your mapping is exactly as provided in your prompt. 
+mapping = r"""
+
+OL1036568 = OL1036576
+OL1036566 = OL1036574
+OL1036567 = OL1036573
+OL1036570 = OL1036575
+OL1036571 = OL1036578
+OL1036569 = OL1036577
 FF1035910 = FF1036608
 FF1035908 = FF1036611
 FF1036096 = FF1036827
@@ -158,3 +175,42 @@ OL1036194 = OL1036577
 OL1035765 = OL1036748
 OL1035763 = OL1036749
 OL1035761 = OL1036750
+"""
+
+# --- Script Logic ---
+
+# Check if the document file exists
+if not os.path.exists(document_to_modify):
+    print(f"Error: The document file '{document_to_modify}' was not found. Please check the path.")
+    exit() # Exit the script if the file isn't found
+
+try:
+    # Read the content of the document
+    with open(document_to_modify, 'r', encoding='utf-8') as file:
+        content = file.read()
+except Exception as e:
+    print(f"Error reading document file: {e}")
+    exit() # Exit if there's an error reading the file
+
+# Parse the mapping data
+replacements = {}
+for line in mapping.splitlines():
+    if '=' in line:
+        parts = line.split('=', 1)  # Split only on the first '='
+        old_text = parts[0].strip()
+        new_text = parts[1].strip()
+        replacements[old_text] = new_text
+
+# Perform the replacements
+for old, new in replacements.items():
+    content = content.replace(old, new)
+    print(f'' + old + ' ' + new)
+
+# Overwrite the original file with the modified content
+try:
+    with open(document_to_modify, 'w', encoding='utf-8') as file:
+        file.write(content)
+    print(f"Successfully replaced text in '{document_to_modify}'.")
+except Exception as e:
+    print(f"Error writing to document file: {e}")
+

@@ -168,9 +168,27 @@
 		</tbody>
 	</table>
 
-	<p style="page-break-before: always;">
-		<br>
-	</p>
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 33.3333%;">Date of Notification:&nbsp;</td>
+				<td style="width: 33.3333%;">Will Be Re-Inspected: <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;">{{FF1029038}}</span></td>
+				<td style="width: 33.3333%;">File -&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="width: 33.3333%;">Compliance:&nbsp;</td>
+				<td style="width: 33.3333%;">Ticket Issue Date:&nbsp;</td>
+				<td style="width: 33.3333%;">Docket Number:&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>
+	<br>
+</div>
+<div><strong>FROM: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; INSPECTIONAL SERVICES DEPARTMENT / BUILDING DIVISION<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;70 TAPLEY STREET, SPRINGFIELD, MA 01104</strong>
+	<br>
+	<br>
 </div>
 
 <table style="width: 100%;">
@@ -217,14 +235,12 @@
 	<table style="width: 100%;">
 		<thead>
 			<tr>
-				<td style="width:20%;">
+				<td style="width: 19.0166%;">
 					<br>
 				</td>
-				<td style="padding:5px; width:8%;"><strong>Unit</strong></td>
-				<td style="padding:5px; width:19%;"><strong>Responsibility</strong></td>
-				<td style="padding:5px; width:11%;"><strong>Fix By</strong></td>
-				<td style="padding:5px; width:10%;"><strong>Status</strong></td>
-				<td style="padding:5px; width:32%;"><strong>Violation and Notes</strong></td>
+				<td style="padding: 5px; width: 12.524%;"><strong>Fix By</strong></td>
+				<td style="padding: 5px; width: 13.7031%;"><strong>Status</strong></td>
+				<td style="padding: 5px; width: 54.6757%;"><strong>Violation and Notes</strong></td>
 			</tr>
 		</thead>
 		<tbody>

@@ -1,0 +1,215 @@
+<table width="100%">
+	<tbody>
+		<tr>
+			<td style="width: 83.5233%;">
+
+				<p style="text-align: center;"><span style="font-size: 30px;"><strong><u>Court Report</u></strong></span></p>
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td style="width: 16.392%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode"></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%; margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 25.0000%;">Complaint Location&nbsp;</td>
+			<td style="width: 61.0342%;">{{primaryLocation}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">Zone</td>
+			<td style="width: 9.0858%;">{{zoning}}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">Date of Re-Inspection:
+				<br>
+			</td>
+			<td style="width: 61.0342%;">{{FF1028283}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">Time:
+				<br>
+			</td>
+			<td style="width: 9.0858%;">{{FF1028284}}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">Next Court Appearance:
+				<br>
+			</td>
+			<td style="width: 61.0342%;">{{FF1028281}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">
+				<br>
+			</td>
+			<td style="width: 9.0858%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">Inspector(s):
+				<br>
+			</td>
+			<td style="width: 61.0342%;">{{FF1031280}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">
+				<br>
+			</td>
+			<td style="width: 9.0858%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">
+				<br>Purpose:
+				<br>
+			</td>
+			<td style="width: 61.0342%;">
+				<br>
+			</td>
+			<td style="width: 4.8317%;">
+				<br>
+			</td>
+			<td style="width: 9.0858%;">
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%; margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td class="frcustomborder" style="width: 100.0000%;">{{{FF1028286}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td colspan="2" style="width: 97.5941%;">Additional Information:</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%;">
+				<br>
+			</td>
+			<td style="width: 92.8681%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1028287}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1028287}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;">
+				<div>Photographs</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1028288}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1028288}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Narrative</span>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1028289}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1028289}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Formal Report</span>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1028290}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1028290}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Court Attendance Necessary</span>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Inspector Findings:</span></div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 100.0000%;">{{{FF1028291}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">I {{FF1031280}}&nbsp;</span><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">have found the above report and attachments to be accurate and true, signed under pains and penalties of perjury this&nbsp;</span>{{FF1028283}}<span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">.</span></div>
+<div>
+	<br>
+</div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Project ID: {{projectId}}</span></div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Law Case ID: {{recordId}}</span></div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Enf Case ID: {{FF1028282}}</span></div>
+<div>
+	<br>
+</div>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td class="frcustomborder " style="width: 100.0000%;">{{{FF1028291  # Assuming Images also transforms to Inspector Findings in the third inspection}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>

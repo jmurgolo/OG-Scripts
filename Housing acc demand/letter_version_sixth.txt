@@ -1,0 +1,2464 @@
+<div>{{#if FF1035910_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1035695}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035696}} {{FF1036620}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}} {{FF1036827}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035908_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036609}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035699}}, Unit {{FF1036600}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}} &nbsp;{{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<span style="font-size: 14px;">&nbsp;{{FF1036827}}</span>
+					<br>
+					</span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035907_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036631}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035701}} {{FF1036610}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<span style="font-size: 14px;">&nbsp;{{FF1036827}}</span>
+					<br>
+					</span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035906_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036624}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035703}}, Unit {{FF1036632}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035905_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036635}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035705}}, Unit {{FF1036603}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035904_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036625}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035707}}, Unit {{FF1036613}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035917_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036615}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035709}}, Unit {{FF1036597}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035916_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036598}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035711}}, Unit {{FF1036637}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035915_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036629}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035713}}, Unit {{FF1036616}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035914_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1036605}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035715}}, Unit {{FF1036640}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035913_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1035716}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035717}}, Unit {{FF1035717}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035912_checked}}</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></td>
+			<td colspan="3" style="width: 74.6209%;">
+				<div style="text-align: center;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></div>
+				<div style="text-align: center;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></div>
+
+				<p><span style="font-size: 14px;"><br></span></p>
+				<div style="text-align: center;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><strong>Tenant information:<br></strong></td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5735%;">{{FF1035718}}
+				<br>
+			</td>
+			<td style="width: 29.8168%;">
+				<br>
+			</td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035719}}, Unit {{FF1035719}} {{/if}}</span>&nbsp;</span></span></span>
+				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
+				<br><span style="font-size: 14px;"><br></span></td>
+			<td style="width: 17.2417%;">
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 67.3966%;"><strong>RE: <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span></span><br></strong></td>
+			<td style="width: 17.2417%; text-align: right;"><strong>Parcel &nbsp;&nbsp;</strong>
+				<br>
+			</td>
+			<td style="width: 15.2955%;"><strong>{{mbl}}<br></strong></td>
+		</tr>
+		<tr>
+			<td style="width: 9.9978%;"><strong><br></strong></td>
+			<td style="width: 27.5758%;"><strong><br></strong></td>
+			<td style="width: 29.8168%;"><strong><br></strong></td>
+			<td style="width: 17.2417%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9153%; text-align: center;"><strong><span style="font-size: 18px;"><strong>ACCESS DEMAND</strong></span></strong><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if unit}}, Unit {{unit}} {{/if}}</span> <span style="font-size: 14px;">{{#if FF1035694}}, <span style="font-size: 14px;">{{FF1035694}}{{/if}}<span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">, {{city}}, {{state}} {{zipCode}}</span></span></span></span></span></span></span></span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><br></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 99.9185%;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036828}}<br></span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 100.0000%;"><span style="font-family:Arial;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span>
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+		<br>
+	</div>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">Inquiries Call (413) 736-3111</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">{{recordId}}</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>{{/if}}</div>

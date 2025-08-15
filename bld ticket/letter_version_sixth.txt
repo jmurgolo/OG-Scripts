@@ -1,0 +1,215 @@
+<div>
+	<br>
+</div>
+
+<table border="1" cellpadding="5" cellspacing="0" style="margin-right: calc(0%); width: 100%;" width="100%">
+	<tbody>
+		<tr>
+			<td style="width: 17.1457%;" width="20%"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/bestseal_Wed_Apr_23_2025_15:23:31_GMT+0000_(Coordinated_Universal_Time).jpg" width="100" class="fr-fic fr-dii" style="width: 110px;"></td>
+			<td colspan="4" style="width: 47.1168%;" width="55%"><strong><span style="font-size: 14px;">CITY OF SPRINGFIELD</span></strong>
+				<br><span style="font-size: 12px;">HOUSING CODE ENFORCEMENT<br>70 TAPLEY ST, SPRINGFIELD, MA 01104<br>TELEPHONE: (413) 736-3111, TTY: 413-787-6641<br>website: <a href="https://www.springfield-ma.gov/code/">https://www.springfield-ma.gov/code/</a></span>
+				<br><span style="font-size: 14px;"><strong>SIXTH VIOLATION TICKET:</strong></span>
+				<br><span style="font-size: 12px;">Violation of City Ordinance, Rule or Regulation,<br>or Violation of the State &amp; Building Sanitary Code.</span></td>
+			<td align="right" style="width: 21.4032%; text-align: right;" valign="top" width="25%">
+				<div data-empty="true" style="text-align: left;"><strong><span style="font-size: 12px;">INVOICE</span></strong></div>
+				<div data-empty="true" style="text-align: left;"><strong><span style="font-size: 12px;">Record Number: {{recordId}}</span></strong></div>
+				<div data-empty="true" style="text-align: left;"><strong><span style="font-size: 11px;">Recipient Copy</span></strong></div>
+				<div data-empty="true" style="text-align: right;">
+					<br>
+				</div>
+				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;">Invoice Date: {{currentDate}}</span></div>
+				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;"><span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Invoice Total Due: ${{FF1026287}}</span></span></div>
+			</td>
+			<td style="width: 14.2857%;">
+				<a href="https://springfieldma.portal.opengov.com/categories/1084/record-types/1006587"><img alt="barcode" class="fr-dii fr-fil" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 204px;"></a><strong>Scan to Pay Online</strong></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 53.0718%;">
+				<br>{{#if FF1026422_checked}}{{FF1026208}}
+				<br>{{FF1026271}}{{/if}}
+				<br>{{#unless FF1026422}}{{ownerName}}
+				<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}
+				<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}{{/unless}}</td>
+			<td align="right" colspan="4" style="text-align: right; vertical-align: top; width: 46.8757%;"><span style="font-size: 12px;">Please put Record Number on your check.<br><strong>Make Checks Payable to: City of Springfield</strong></span></td>
+		</tr>
+		<tr>
+			<td colspan="4" style="vertical-align: bottom; width: 62.6359%;">
+				<br>
+			</td>
+			<td colspan="3" style="vertical-align: middle; width: 37.3126%;">
+				<div data-empty="true" style="text-align: right;"><strong><span style="font-size: 14px;">INVOICE</span></strong></div>
+				<div style="text-align: right;"><strong><span style="font-size: 12px;">Recipient Copy</span></strong></div>
+				<div style="text-align: right;">
+					<br>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div><strong><span style="font-size: 12px;">Remit Payment to:&nbsp;</span></strong><span style="font-size: 12px;"><strong>City Clerk&#39;s Office</strong>, City Hall - Suite 123, 36 Court Street, Springfield, MA 01103</span></div>
+<div>
+	<!-- Invoice details -->
+	<br>
+</div>
+
+<table border="1" cellpadding="5" cellspacing="0" width="100%">
+	<tbody>
+		<tr style="background-color: #444444; color: white;">
+			<td style="width: 21.887%;"><strong><span style="font-size: 12px;">CUSTOMER</span></strong></td>
+			<td style="width: 21.6247%; text-align: center;"><span style="font-size: 12px;"><strong>INVOICE DATE</strong></span></td>
+			<td style="text-align: center; width: 22.2406%;"><span style="font-size: 12px;"><strong>DUE DATE</strong></span></td>
+			<td style="text-align: center; width: 34.2477%;"><span style="font-size: 12px;"><strong>INVOICE TOTAL DUE</strong></span></td>
+		</tr>
+		<tr>
+			<td style="width: 21.887%;">&nbsp;{{#if FF1026208}}{{FF1026208}}{{/if}}{{#unless FF1026208}}{{ownerName}}{{/unless}}<span style="font-size: 12px;"><br></span></td>
+			<td style="width: 21.6247%; text-align: center;"><span style="font-size: 12px;">{{currentDate}}</span></td>
+			<td style="text-align: center; width: 22.2406%;"><span style="font-size: 12px;">{{FF1026523}}</span></td>
+			<td style="text-align: center; width: 34.2477%;"><span style="font-size: 12px;">${{FF1026287}}.00</span></td>
+		</tr>
+	</tbody>
+</table>
+<div><span style="font-size: 12px;"><br></span></div>
+
+<table border="1" cellpadding="5" cellspacing="0" style="margin-right: calc(0%); width: 100%;" width="100%">
+	<tbody>
+		<tr style="background-color: #444444; color: white;">
+			<td style="width: 100%;"><span style="font-size: 12px;"><strong>DESCRIPTION</strong></span></td>
+		</tr>
+		<tr>
+			<td style="width: 100%;">{{{OL1026512}}}<span style="font-size: 12px;">&nbsp;</span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div>
+	<br>
+</div>
+
+<table border="1" cellpadding="5" cellspacing="0" width="100%">
+	<tbody>
+		<tr style="background-color: #444444; color: white;">
+			<td>
+				<div style="text-align: right;">
+					<br>
+				</div>
+			</td>
+			<td align="right" style="width: 18.8054%;"><strong><span style="font-size: 12px;">Invoice Total &nbsp;</span></strong></td>
+			<td align="right" style="width: 18.8054%; background-color: rgb(50, 50, 50);">
+
+				<table border="1" cellpadding="5" cellspacing="0" width="100%">
+					<tbody>
+						<tr>
+							<td style="text-align: center; width: 34.2477%;"><span style="font-size: 12px;">{{FF1028441}}</span></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div style="text-align: center;">
+	<br>
+</div>
+<div style="text-align: center;"><span style="font-size: 12px;">Failure to pay the ticket within 21 days, or appeal as set out below, may result in</span></div>
+<div style="text-align: center;"><span style="font-size: 12px;">the cost of the ticket plus filing fees being added to your tax bill.</span></div>
+<div style="text-align: left;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong></span></div>
+<div style="text-align: left;"><span style="font-size: 14px;"><strong>{{currentDate}}</strong></span></div>
+<div style="text-align: left;"><span style="font-size: 14px;"><strong>INSPECTOR NAME <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;">{{#if FF1026397}}David Markham{{/if}}{{#if FF1026399}}Thomas Kennedy{{/if}}{{#if FF1026400}}Abdul Mohammed{{/if}}{{#if FF1026401}}George Shaw{{/if}}{{#if FF1026398}}Matthew Goodchild{{/if}}{{#if FF1027316}}James Murgolo{{/if}}</span>,</strong></span></div>
+<div style="text-align: left;"><span style="font-size: 14px;"><strong>BUILDING INSPECTOR</strong></span></div>
+<div style="text-align: left;"><strong><span style="font-size: 14px;">INSPECTOR PHONE</span></strong><strong>&nbsp;<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="color: rgb(0, 0, 0);">&nbsp;</span></span></strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><strong>{{#if FF1026397}}(413) 750-2088 {{/if}}{{#if FF1026399}}(413) 886-5202{{/if}}{{#if FF1026400}}(413) 886-5345{{/if}}{{#if FF1026401}}George Shaw{{/if}}{{#if FF1026398}}(413) 886-5083{{/if}}{{#if FF1027316}}(413) 787 6534{{/if}}</strong></span></span></span></span></div>
+<div>
+	<br>
+</div>
+
+<table border="0" cellpadding="0" cellspacing="10" width="100%">
+	<tbody>
+		<tr>
+			<!-- Box 1 -->
+			<td bgcolor="#787878" style="padding: 10px; width: 33.3333%;" width="33.33%">
+
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tbody>
+						<tr>
+							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><strong><span style="font-size: 12px;">1)</span></strong><span style="font-size: 12px;">&nbsp;You may choose to pay the above fine, either by appearing in person at the address below, between 10:00 AM &ndash; 4:00 PM, Monday &ndash; Friday, or by mailing a check or money order or postal notice, and enclosing a copy of this citation <strong>WITHIN 21 DAYS OF THIS NOTICE TO:</strong></span></td>
+						</tr>
+						<tr>
+							<td style="height: 10px;"><span style="font-size: 12px;"><br></span></td>
+						</tr>
+						<tr>
+							<td bgcolor="#ffffff" style="height: 60px; font-size: 11px; vertical-align: top;">
+								<div style="text-align: center;"><span style="font-size: 12px;"><br></span></div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><strong>CITY CLERK<br>36 COURT ST<br>&nbsp;SPRINGFIELD, MA 01103</strong></span></div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><br></span></div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+			<!-- Box 2 -->
+			<td bgcolor="#787878" style="padding: 10px; width: 33.3334%;" width="33.33%">
+
+				<table border="0" cellpadding="0" cellspacing="0" style="margin-left: calc(0%); width: 100%;" width="100%">
+					<tbody>
+						<tr>
+							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><span style="font-size: 12px;"><strong>2)</strong> If you desire to contest this matter, you may do so by making a written request for a non-criminal hearing, and enclosing a copy of this citation <strong>WITHIN 21 DAYS OF THIS NOTICE TO:</strong></span>
+								<br>
+								<br>
+							</td>
+						</tr>
+						<tr>
+							<td style="height: 10px;"><span style="font-size: 12px;"><br></span></td>
+						</tr>
+						<tr>
+							<td bgcolor="#ffffff" style="height: 60px; font-size: 11px; vertical-align: top;">
+								<div style="text-align: center;"><span style="font-size: 12px;"><strong>CLERK - MAGISTRATE</strong></span></div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><strong>HOUSING COURT DEPT</strong></span></div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><strong>HAMPDEN COUNTY DIVISION</strong></span></div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><strong>37 ELM ST. P.O. BOX 559</strong></span></div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><strong>SPRINGFIELD, MA 01103</strong></span></div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><strong>ATTN:21D Non-Criminal Hearings</strong></span></div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+			<!-- Box 3 -->
+			<td bgcolor="#787878" style="padding:10px;" width="33.33%">
+
+				<table border="0" cellpadding="0" cellspacing="0" width="100%">
+					<tbody>
+						<tr>
+							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><span style="font-size: 12px;"><strong>3)</strong> During the 21-day period, you may appeal this action to the Department Head, in writing to the address below, and enclosing a copy of this citation.</span></td>
+						</tr>
+						<tr>
+							<td style="height: 10px;"><span style="font-size: 12px;"><br></span></td>
+						</tr>
+						<tr>
+							<td bgcolor="#ffffff" style="height: 60px; font-size: 11px; vertical-align: top;">
+								<div style="text-align: center;">
+									<br>
+								</div>
+								<div style="text-align: center;">
+									<br>
+								</div>
+								<div style="text-align: center;"><span style="font-size: 12px;"><br></span></div>
+								<div style="text-align: center;"><strong><span style="font-size: 12px;">BUILDING DIVISION<br>&nbsp;INSPECTIONAL SERVICES<br>&nbsp;70 TA</span>PLEY STREET</strong><strong><br>&nbsp;SPRINGFIELD, MA 01104</strong></div>
+								<div style="text-align: center;">
+									<br>
+								</div>
+								<div style="text-align: center;">
+									<br>
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: left;"><span style="white-space: normal; font-size: 11px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="white-space: normal; font-size: 12px;">&nbsp;&nbsp;</span></p>
+
+<p style="text-align: center;"><span style="white-space: normal; font-size: 12px;">&nbsp;Recipient Copy</span></p>

@@ -1,4 +1,4 @@
-9import re
+import re
 from collections import defaultdict
 
 def create_final_mappings(data_string: str) -> str:

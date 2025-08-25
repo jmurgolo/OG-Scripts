@@ -1,4 +1,4 @@
-import re
+9import re
 from collections import defaultdict
 
 def create_final_mappings(data_string: str) -> str:
@@ -95,342 +95,336 @@ def create_final_mappings(data_string: str) -> str:
 
 input_data = """
 Form Details:
-General Info
- {{FF1022992}}​ = Inspection Access Contact Name
- {{FF1022993}}​ = Inspection Access Contact Phone
- {{FF1022994}}​ = Inspection Access Contact Title
- {{FF1022996}}​ = Other Source
- {{FF1023004}}​ = When & how did you contact them
- {{FF1023005}}​ = Who did you contact
- {{FF1023007}}​ = Unit Number - to be printed on the inspection report
- {{FF1023010}}​ = Alternative Owner Name
- {{FF1023013}}​ = Second Owner Name
- {{FF1023016}}​ = Third Owner Name
- {{FF1023046}}​ = First Tenant Name
- {{FF1023047}}​ = First Tenant Unit
- {{FF1023049}}​ = Second Tenant Name
- {{FF1023050}}​ = Second Tenant Unit
- {{FF1023052}}​ = Third Tenant Name
- {{FF1023053}}​ = Third Tenant Unit
- {{FF1023055}}​ = Fourth Tenant Name
- {{FF1023056}}​ = Fourth Tenant Unit
- {{FF1023058}}​ = Fifth Tenant Name
- {{FF1023059}}​ = Fifth Tenant Unit
- {{FF1023061}}​ = Sixth Tenant Name
- {{FF1023062}}​ = Sixth Tenant Unit
- {{{FF1022990}}}​ = General Notes
- {{{FF1023006}}}​ = What was the response
- {{{FF1023011}}}​ = Alternative Owner Address
- {{{FF1023014}}}​ = Second Owner Address
- {{{FF1023017}}}​ = Third Owner Address
- {{{FF1023022}}}​ = Refer to Court Details
- {{{FF1023024}}}​ = Refer to Housing Enforcement Details
- {{{FF1023026}}}​ = Refer to Electrical Details
- {{{FF1023028}}}​ = Refer to Plumbing Details
- {{{FF1023030}}}​ = Refer to Fire Details
- {{{FF1023032}}}​ = Refer to Police Ordinance Details
- {{{FF1023034}}}​ = Refer to Health Department Details
- {{{FF1023036}}}​ = Refer to Elderly Affairs Details
- {{{FF1023038}}}​ = Refer to Animal Control Details
- {{{FF1023040}}}​ = Refer to Office of Housing Details
- {{{FF1023042}}}​ = Refer to Zoning Details
- {{FF1022997}}​ = Interior
- {{FF1022998}}​ = Exterior
- {{FF1022999}}​ = Referral
- {{FF1023003}}​ = Have you contacted the owner
- {{FF1023009}}​ = Owner Different than GIS
- {{FF1023012}}​ = Add Second Additional Owner
- {{FF1023015}}​ = Add Third Additional Owner
- {{FF1023019}}​ = Section 105 Required
- {{FF1023021}}​ = Refer to Court
- {{FF1023023}}​ = Refer to Housing Enforcement
- {{FF1023025}}​ = Refer to Electrical Enforcement
- {{FF1023027}}​ = Refer to Plumbing Enforcement
- {{FF1023029}}​ = Refer to Fire Department
- {{FF1023031}}​ = Refer to Police Ordinance
- {{FF1023033}}​ = Refer to Health Department
- {{FF1023035}}​ = Refer to Elderly Affairs
- {{FF1023037}}​ = Refer to Animal Control
- {{FF1023039}}​ = Refer to Office of Housing
- {{FF1023041}}​ = Refer to Zoning
- {{FF1023043}}​ = Add Parties Responsible for Payment
- {{FF1023045}}​ = First Tenant
- {{FF1023048}}​ = Second Tenant
- {{FF1023051}}​ = Third Tenant
- {{FF1023054}}​ = Fourth Tenant
- {{FF1023057}}​ = Fifth Tenant
- {{FF1023060}}​ = Sixth Tenant
- {{FF1022995}}​ = Complaint Source
- {{FF1023000}}​ = Usage Group
- {{FF1023001}}​ = When did the problem first occur
-First Inspection
- {{{FF1023093}}}​ = First Inspection Notes For Administrative Staff
- {{FF1023081}}​ = Court
- {{FF1023082}}​ = Emergency
- {{FF1023083}}​ = Inspection
- {{FF1023088}}​ = Riccardo Bedinotti
- {{FF1023089}}​ = Aaron Cole
- {{FF1023090}}​ = Joseph Desmond
- {{FF1023091}}​ = Peter Nham
- {{FF1023086}}​ = First Inspection Time
- {{FF1023092}}​ = First Inspection Result
- {{FF1023085}}​ = Date of First Inspection
-Second Inspection
- {{{FF1023108}}}​ = Second Inspection Notes For Administrative Staff
- {{FF1023094}}​ = Schedule Second Inspection
- {{FF1023096}}​ = Court
- {{FF1023097}}​ = Emergency
- {{FF1023098}}​ = Inspection
- {{FF1023103}}​ = Riccardo Bedinotti
- {{FF1023104}}​ = Aaron Cole
- {{FF1023105}}​ = Joseph Desmond
- {{FF1023106}}​ = Peter Nham
- {{FF1023101}}​ = Time of Second Inspection
- {{FF1023107}}​ = Second Inspection Result
- {{FF1023100}}​ = Date of Second Inspection
-Third Inspection
- {{{FF1023123}}}​ = Third Inspection Notes For Administrative Staff
- {{FF1023109}}​ = Schedule Third Inspection
- {{FF1023111}}​ = Court
- {{FF1023112}}​ = Emergency
- {{FF1023113}}​ = Inspection
- {{FF1023118}}​ = Riccardo Bedinotti
- {{FF1023119}}​ = Aaron Cole
- {{FF1023120}}​ = Joseph Desmond
- {{FF1023121}}​ = Peter Nham
- {{FF1023116}}​ = Time of Third Inspection
- {{FF1023122}}​ = Third Inspection Result
- {{FF1023115}}​ = Date of Third Inspection
-Fourth Inspection
- {{{FF1023138}}}​ = Fourth Inspection Notes For Administrative Staff
- {{FF1023124}}​ = Schedule Fourth Inspection
- {{FF1023126}}​ = Court
- {{FF1023127}}​ = Emergency
- {{FF1023128}}​ = Inspection
- {{FF1023133}}​ = Riccardo Bedinotti
- {{FF1023134}}​ = Aaron Cole
- {{FF1023135}}​ = Joseph Desmond
- {{FF1023136}}​ = Peter Nham
- {{FF1023131}}​ = Time of Fourth Inspection
- {{FF1023137}}​ = Fourth Inspection Result
- {{FF1023130}}​ = Date of Fourth Inspection
-Fifth Inspection
- {{{FF1023153}}}​ = Fifth Inspection Notes For Administrative Staff
- {{FF1023139}}​ = Schedule Fifth Inspection
- {{FF1023141}}​ = Court
- {{FF1023142}}​ = Emergency
- {{FF1023143}}​ = Inspection
- {{FF1023148}}​ = Riccardo Bedinotti
- {{FF1023149}}​ = Aaron Cole
- {{FF1023150}}​ = Joseph Desmond
- {{FF1023151}}​ = Peter Nham
- {{FF1023146}}​ = Time of Fifth Inspection
- {{FF1023152}}​ = Fifth Inspection Result
- {{FF1023145}}​ = Date of Fifth Inspection
-Sixth Inspection
- {{{FF1023168}}}​ = Sixth Inspection Notes For Administrative Staff
- {{FF1023154}}​ = Schedule Sixth inspection
- {{FF1023156}}​ = Court
- {{FF1023157}}​ = Emergency
- {{FF1023158}}​ = Inspection
- {{FF1023163}}​ = Riccardo Bedinotti
- {{FF1023164}}​ = Aaron Cole
- {{FF1023165}}​ = Joseph Desmond
- {{FF1023166}}​ = Peter Nham
- {{FF1023161}}​ = Time of Sixth Inspection
- {{FF1023167}}​ = Sixth Inspection Result
- {{FF1023160}}​ = Date of Sixth Inspection
-Seventh Inspection
- {{{FF1023183}}}​ = Seventh Inspection Notes For Administrative Staff
- {{FF1023169}}​ = Schedule Seventh inspection
- {{FF1023171}}​ = Court
- {{FF1023172}}​ = Emergency
- {{FF1023173}}​ = Inspection
- {{FF1023178}}​ = Riccardo Bedinotti
- {{FF1023179}}​ = Aaron Cole
- {{FF1023180}}​ = Joseph Desmond
- {{FF1023181}}​ = Peter Nham
- {{FF1023176}}​ = Time of Seventh Inspection
- {{FF1023182}}​ = Seventh Inspection Result
- {{FF1023175}}​ = Date of Seventh Inspection
-Eighth Inspection
- {{{FF1023198}}}​ = Eighth Inspection Notes For Administrative Staff
- {{FF1023184}}​ = Schedule Eighth inspection
- {{FF1023186}}​ = Court
- {{FF1023187}}​ = Emergency
- {{FF1023188}}​ = Inspection
- {{FF1023193}}​ = Riccardo Bedinotti
- {{FF1023194}}​ = Aaron Cole
- {{FF1023195}}​ = Joseph Desmond
- {{FF1023196}}​ = Peter Nham
- {{FF1023191}}​ = Time of Eighth Inspection
- {{FF1023197}}​ = Eighth Inspection Result
- {{FF1023190}}​ = Date of Eighth Inspection
-Ninth Inspection
- {{{FF1023213}}}​ = Ninth Inspection Notes For Administrative Staff
- {{FF1023199}}​ = Schedule Ninth inspection
- {{FF1023201}}​ = Court
- {{FF1023202}}​ = Emergency
- {{FF1023203}}​ = Inspection
- {{FF1023208}}​ = Riccardo Bedinotti
- {{FF1023209}}​ = Aaron Cole
- {{FF1023210}}​ = Joseph Desmond
- {{FF1023211}}​ = Peter Nham
- {{FF1023206}}​ = Time of Ninth Inspection
- {{FF1023212}}​ = Ninth Inspection Result
- {{FF1023205}}​ = Date of Ninth Inspection
-Tenth Inspection
- {{{FF1023228}}}​ = Tenth Inspection Notes For Administrative Staff
- {{FF1023214}}​ = Schedule Tenth inspection
- {{FF1023216}}​ = Court
- {{FF1023217}}​ = Emergency
- {{FF1023218}}​ = Inspection
- {{FF1023223}}​ = Riccardo Bedinotti
- {{FF1023224}}​ = Aaron Cole
- {{FF1023225}}​ = Joseph Desmond
- {{FF1023226}}​ = Peter Nham
- {{FF1023221}}​ = Time of Tenth Inspection
- {{FF1023227}}​ = Tenth Inspection Result
- {{FF1023220}}​ = Date of Tenth Inspection
+Usage
+ {{FF1036837}}​ = Issued to Name
+ {{FF1036838}}​ = Issued to Address
+ {{FF1022400}}​ = Send to Court
+ {{FF1022419}}​ = Usage Group
+ {{FF1022420}}​ = Type of Construction
+ {{FF1022421}}​ = Inspection Status
+ {{FF1022422}}​ = Liquor License
+ {{FF1033100}}​ = Residency Type
+ {{FF1034630}}​ = Inspector
+ {{FF1022425}}​ = Expiration Date
+ {{FF1034628}}​ = Issue Date
+ {{FF1034629}}​ = Inspection Date
+Capacities
+ {{{FF1022361}}}​ = Comments
+ {{FF1022367}}​ = Number of Beds in Building
+ {{FF1022368}}​ = Number of Units
+ {{FF1022369}}​ = Total Persons
+ {{FF1022370}}​ = Tables and Chairs
+ {{FF1022371}}​ = Loose Chairs
+ {{FF1022372}}​ = Standing
+ {{FF1022373}}​ = Fixed Seating
+ {{FF1022418}}​ = Bleachers Present
+Additional Information
+ {{FF1022410}}​ = Building Has Fire Escape(s)
+ {{FF1022411}}​ = Building Has Ansel System
+ {{FF1022412}}​ = Building Has Pressurized Stairways
+ {{FF1022413}}​ = Building Has Generator
+ {{FF1022414}}​ = Building Has Smoke Evac System
+First Violations Inspection
+ {{{FF1022363}}}​ = First Inspection Notes for Administrative Staff
+ {{FF1022394}}​ = Matthew Goodchild
+ {{FF1022395}}​ = Thomas Kennedy
+ {{FF1022396}}​ = David Markham
+ {{FF1022397}}​ = Abdul Mohammed
+ {{FF1022398}}​ = George Shaw
+ {{FF1038194}}​ = Chris Nunez
+ {{FF1022417}}​ = First Inspection Result
+ {{FF1022423}}​ = First Inspection Time
+ {{FF1022430}}​ = First Inspection Date
 Letters
- {{FF1023231}}​ = Send First Violation Letters
- {{FF1023232}}​ = Send Second Violation Letters
- {{FF1023233}}​ = Send Third Violation Letters
- {{FF1023234}}​ = Send Fourth Violation Letters
- {{FF1023235}}​ = Send Fifth Violation Letters
- {{FF1023236}}​ = Send Sixth Violation Letters
- {{FF1023237}}​ = Send Seventh Violation Letters
- {{FF1023238}}​ = Send Eighth Violation Letters
- {{FF1023239}}​ = Send Ninth Violation Letters
- {{FF1023240}}​ = Send Tenth Violation Letters
- {{FF1023242}}​ = First Stop Work Letter
- {{FF1023243}}​ = Second Stop Work Letter
- {{FF1023244}}​ = Third Stop Work Letter
- {{FF1023245}}​ = Fourth Stop Work Letter
- {{FF1023246}}​ = Fifth Stop Work Letter
- {{FF1023247}}​ = Sixth Stop Work Letter
- {{FF1023248}}​ = Seventh Stop Work Letter
- {{FF1023249}}​ = Eighth Stop Work Letter
- {{FF1023250}}​ = Ninth Stop Work Letter
- {{FF1023251}}​ = Tenth Stop Work Letter
+ {{FF1022388}}​ = First Order to Repair
+ {{FF1022389}}​ = Second Order to Repair
+ {{FF1022390}}​ = First Violation Letter
+ {{FF1022391}}​ = Second Violation Letter
+ {{FF1022392}}​ = First Cease and Desist
+ {{FF1022393}}​ = Second Cease and Desist
+ {{FF1038198}}​ = Fourth Violation Letter
+ {{FF1038199}}​ = Seventh Cease and Desist
+ {{FF1038200}}​ = Fourth Cease and Desist
+ {{FF1038201}}​ = Sixth Cease and Desist
+ {{FF1038202}}​ = Tenth Cease and Desist
+ {{FF1038203}}​ = Eighth Order to Repair
+ {{FF1038204}}​ = Third Order to Repair
+ {{FF1038205}}​ = Fifth Violation Letter
+ {{FF1038206}}​ = Sixth Violation Letter
+ {{FF1038207}}​ = Fifth Order to Repair
+ {{FF1038208}}​ = Tenth Order to Repair
+ {{FF1038209}}​ = Ninth Violation Letter
+ {{FF1038210}}​ = Tenth Violation Letter
+ {{FF1038211}}​ = Ninth Cease and Desist
+ {{FF1038212}}​ = Fourth Order to Repair
+ {{FF1038213}}​ = Sixth Order to Repair
+ {{FF1038214}}​ = Seventh Order to Repair
+ {{FF1038215}}​ = Third Violation Letter
+ {{FF1038216}}​ = Ninth Order to Repair
+ {{FF1038217}}​ = Seventh Violation Letter
+ {{FF1038218}}​ = Eighth Violation Letter
+ {{FF1038219}}​ = Third Cease and Desist
+ {{FF1038220}}​ = Fifth Cease and Desist
+ {{FF1038221}}​ = Eighth Cease and Desist
 First Ticket Details
- {{FF1023254}}​ = Person whose name will appear on ticket
- {{{FF1023255}}}​ = First Ticket Notes for Administrative Staff
- {{FF1023252}}​ = First Ticket Total
- {{FF1023253}}​ = First Ticket Due Date
+ {{{FF1022365}}}​ = First Ticket Notes for Administrative Staff
+ {{FF1022366}}​ = First Ticket Total
+ {{FF1022424}}​ = First Ticket Due Date
+Second Violations Section
+ {{{FF1038057}}}​ = Second Inspection Notes for Administrative Staff
+ {{FF1038050}}​ = David Markham
+ {{FF1038053}}​ = Thomas Kennedy
+ {{FF1038055}}​ = Abdul Mohammed
+ {{FF1038056}}​ = Chris Nunez
+ {{FF1038060}}​ = Matthew Goodchild
+ {{FF1038061}}​ = George Shaw
+ {{FF1038063}}​ = Schedule Second Inspection
+ {{FF1038058}}​ = Second Inspection Time
+ {{FF1038062}}​ = Second Inspection Result
+ {{FF1038059}}​ = Second Inspection Date
+Third Violations Section
+ {{{FF1038066}}}​ = Third Inspection Notes For Administrative Staff
+ {{FF1038068}}​ = Schedule Third Inspection
+ {{FF1038133}}​ = David Markham
+ {{FF1038134}}​ = George Shaw
+ {{FF1038140}}​ = Thomas Kennedy
+ {{FF1038141}}​ = Chris Nunez
+ {{FF1038143}}​ = Matthew Goodchild
+ {{FF1038145}}​ = Abdul Mohammed
+ {{FF1038065}}​ = Third Inspection Result
+ {{FF1038146}}​ = Third Inspection Time
+ {{FF1038148}}​ = Date of Third Inspection
+Fourth Violations Section
+ {{{FF1038051}}}​ = Fourth Inspection Notes For Administrative Staff
+ {{FF1038067}}​ = Schedule Fourth Inspection
+ {{FF1038070}}​ = Chris Nunez
+ {{FF1038072}}​ = Matthew Goodchild
+ {{FF1038073}}​ = Thomas Kennedy
+ {{FF1038074}}​ = David Markham
+ {{FF1038075}}​ = Abdul Mohammed
+ {{FF1038149}}​ = George Shaw
+ {{FF1038071}}​ = Fourth Inspection Result
+ {{FF1038150}}​ = Time of Fourth Inspection
+ {{FF1038069}}​ = Date of Fourth Inspection
+Fifth Violations Section
+ {{{FF1038086}}}​ = Fifth Inspection Notes For Administrative Staff
+ {{FF1038076}}​ = Schedule Fifth Inspection
+ {{FF1038079}}​ = David Markham
+ {{FF1038080}}​ = Abdul Mohammed
+ {{FF1038082}}​ = Thomas Kennedy
+ {{FF1038083}}​ = George Shaw
+ {{FF1038084}}​ = Chris Nunez
+ {{FF1038155}}​ = Matthew Goodchild
+ {{FF1038078}}​ = Time of Fifth Inspection
+ {{FF1038085}}​ = Fifth Inspection Result
+ {{FF1038077}}​ = Date of Fifth Inspection
+Sixth Violations Section
+ {{{FF1038156}}}​ = Sixth Inspection Notes For Administrative Staff
+ {{FF1038091}}​ = Schedule Sixth Inspection
+ {{FF1038092}}​ = George Shaw
+ {{FF1038093}}​ = Abdul Mohammed
+ {{FF1038094}}​ = Thomas Kennedy
+ {{FF1038095}}​ = Chris Nunez
+ {{FF1038151}}​ = David Markham
+ {{FF1038162}}​ = Matthew Goodchild
+ {{FF1038081}}​ = Time of Sixth Inspection
+ {{FF1038096}}​ = Sixth Inspection Result
+ {{FF1038161}}​ = Date of Sixth Inspection
+Seventh Violations Section
+ {{{FF1038107}}}​ = Seventh Inspection Notes For Administrative Staff
+ {{FF1038088}}​ = David Markham
+ {{FF1038098}}​ = Chris Nunez
+ {{FF1038099}}​ = George Shaw
+ {{FF1038103}}​ = Abdul Mohammed
+ {{FF1038105}}​ = Time of Seventh Inspection
+ {{FF1038106}}​ = Thomas Kennedy
+ {{FF1038183}}​ = Schedule Seventh Inspection
+ {{FF1038102}}​ = Time of Seventh Inspection
+ {{FF1038104}}​ = Seventh Inspection Result
+ {{FF1038097}}​ = Date of Seventh Inspection
+Eighth Violations Section
+ {{{FF1038087}}}​ = Eighth Inspection Notes For Administrative Staff
+ {{FF1038090}}​ = Abdul Mohammed
+ {{FF1038108}}​ = Schedule Eighth Inspection
+ {{FF1038109}}​ = George Shaw
+ {{FF1038110}}​ = Thomas Kennedy
+ {{FF1038111}}​ = Chris Nunez
+ {{FF1038153}}​ = David Markham
+ {{FF1038163}}​ = Matthew Goodchild
+ {{FF1038100}}​ = Time of Eighth Inspection
+ {{FF1038157}}​ = Eighth Inspection Result
+ {{FF1038101}}​ = Date of Eighth Inspection
+Ninth Violations Section
+ {{{FF1038124}}}​ = Ninth Inspection Notes For Administrative Staff
+ {{FF1038112}}​ = Schedule Ninth Inspection
+ {{FF1038118}}​ = Matthew Goodchild
+ {{FF1038122}}​ = Thomas Kennedy
+ {{FF1038123}}​ = Abdul Mohammed
+ {{FF1038154}}​ = David Markham
+ {{FF1038158}}​ = Chris Nunez
+ {{FF1038159}}​ = George Shaw
+ {{FF1038119}}​ = Ninth Inspection Result
+ {{FF1038121}}​ = Date of Ninth Inspection
+ {{FF1038117}}​ = Time of Ninth Inspection
+Tenth Violations Section
+ {{{FF1038128}}}​ = Tenth Inspection Notes For Administrative Staff
+ {{FF1038114}}​ = David Markham
+ {{FF1038115}}​ = Abdul Mohammed
+ {{FF1038120}}​ = Schedule Tenth Inspection
+ {{FF1038126}}​ = Matthew Goodchild
+ {{FF1038127}}​ = Thomas Kennedy
+ {{FF1038129}}​ = Chris Nunez
+ {{FF1038130}}​ = George Shaw
+ {{FF1038116}}​ = Tenth Inspection Result
+ {{FF1038164}}​ = Time of Tenth Inspection
+ {{FF1038113}}​ = Date of Tenth Inspection
 Second Ticket Details
- {{FF1023259}}​ = Person whose name will appear on ticket
- {{{FF1023260}}}​ = Second Ticket Notes for Administrative Staff
- {{FF1023257}}​ = Second Ticket Total
- {{FF1023258}}​ = Second Ticket Due Date
+ {{{FF1038166}}}​ = Second Ticket Notes for Administrative Staff
+ {{FF1038131}}​ = Second Ticket Total
+ {{FF1038132}}​ = Second Ticket Due Date
 Third Ticket Details
- {{FF1023264}}​ = Person whose name will appear on ticket
- {{{FF1023265}}}​ = Third Ticket Notes for Administrative Staff
- {{FF1023263}}​ = Third Ticket Total
- {{FF1023262}}​ = Third Ticket Due Date
+ {{{FF1038144}}}​ = Third Ticket Notes for Administrative Staff
+ {{FF1038139}}​ = Third Ticket Total
+ {{FF1038142}}​ = Third Ticket Due Date
 Fourth Ticket Details
- {{FF1023269}}​ = Person whose name will appear on ticket
- {{{FF1023270}}}​ = Fourth Ticket Notes for Administrative Staff
- {{FF1023267}}​ = Fourth Ticket Total
- {{FF1023268}}​ = Fourth Ticket Due Date
+ {{{FF1038168}}}​ = Fourth Ticket Notes for Administrative Staff
+ {{FF1038167}}​ = Fourth Ticket Total
+ {{FF1038165}}​ = Fourth Ticket Due Date
 Fifth Ticket Details
- {{FF1023274}}​ = Person whose name will appear on ticket
- {{{FF1023275}}}​ = Fifth Ticket Notes for Administrative Staff
- {{FF1023272}}​ = Fifth Ticket Total
- {{FF1023273}}​ = Fifth Ticket Due Date
+ {{{FF1038172}}}​ = Fifth Ticket Notes for Administrative Staff
+ {{FF1038171}}​ = Fifth Ticket Total
+ {{FF1038173}}​ = Fifth Ticket Due Date
 Sixth Ticket Details
- {{FF1023279}}​ = Person whose name will appear on ticket
- {{{FF1023280}}}​ = Sixth Ticket Notes for Administrative Staff
- {{FF1023277}}​ = Sixth Ticket Total
- {{FF1023278}}​ = Sixth Ticket Due Date
+ {{{FF1038176}}}​ = Sixth Ticket Notes for Administrative Staff
+ {{FF1038174}}​ = Sixth Ticket Total
+ {{FF1038175}}​ = Sixth Ticket Due Date
 Seventh Ticket Details
- {{FF1023284}}​ = Person whose name will appear on ticket
- {{{FF1023285}}}​ = Seventh Ticket Notes for Administrative Staff
- {{FF1023282}}​ = Seventh Ticket Total
- {{FF1023283}}​ = Seventh Ticket Due Date
+ {{{FF1038177}}}​ = Seventh Ticket Notes for Administrative Staff
+ {{FF1038170}}​ = Seventh Ticket Total
+ {{FF1038179}}​ = Seventh Ticket Due Date
 Eighth Ticket Details
- {{FF1023289}}​ = Person whose name will appear on ticket
- {{{FF1023290}}}​ = Eighth Ticket Notes for Administrative Staff
- {{FF1023287}}​ = Eighth Ticket Total
- {{FF1023288}}​ = Eighth Ticket Due Date
+ {{{FF1038178}}}​ = Eighth Ticket Notes for Administrative Staff
+ {{FF1038181}}​ = Eighth Ticket Total
+ {{FF1038169}}​ = Eighth Ticket Due Date
 Ninth Ticket Details
- {{FF1023294}}​ = Person whose name will appear on ticket
- {{{FF1023295}}}​ = Ninth Ticket Notes for Administrative Staff
- {{FF1023292}}​ = Ninth Ticket Total
- {{FF1023293}}​ = Ninth Ticket Due Date
+ {{{FF1038182}}}​ = Ninth Ticket Notes for Administrative Staff
+ {{FF1038180}}​ = Ninth Ticket Total
+ {{FF1038136}}​ = Ninth Ticket Due Date
 Tenth Ticket Details
- {{FF1023299}}​ = Person whose name will appear on ticket
- {{{FF1023300}}}​ = Tenth Ticket Notes for Administrative Staff
- {{FF1023297}}​ = Tenth Ticket Total
- {{FF1023298}}​ = Tenth Ticket Due Date
-
-Multi Entry Section Entries:
-Please note that object list entries are marked with three curly brackets, not two.
+ {{{FF1038138}}}​ = Tenth Ticket Notes for Administrative Staff
+ {{FF1038137}}​ = Tenth Ticket Total
+ {{FF1038135}}​ = Tenth Ticket Due Date
 
 
-Electrical Violations
- {{{OL1023065}}}​ = Unit(s)
- {{{OL1023063}}}​ = Code / Description
- {{{OL1023064}}}​ = Responsible Party
- {{{OL1023066}}}​ = Status
- {{{OL1023068}}}​ = Correction Required By:
- {{{OL1023067}}}​ = Picture
-Certified Letters
- {{{OL1023069}}}​ = Certified Number
- {{{OL1023071}}}​ = Recipient
- {{{OL1023072}}}​ = Cc
- {{{OL1023070}}}​ = Date sent
-Emergency Violations
- {{{OL1023075}}}​ = Unit
- {{{OL1023073}}}​ = Code / Description
- {{{OL1023074}}}​ = Responsible Party
- {{{OL1023077}}}​ = Status
- {{{OL1023076}}}​ = Correction Required By:
- {{{OL1023078}}}​ = Picture
-Parties Responsible for Online Payment
- {{{OL1023079}}}​ = Email Address
+Occupancy
+ {{{OL1022352}}}​ = Floor Number
+ {{{OL1022353}}}​ = Number of Rooms Per Floor
+ {{{OL1022354}}}​ = Number of Units Per Floor
+ {{{OL1022355}}}​ = Number of Beds Per Floor
+ {{{OL1022356}}}​ = Number of Persons Per Floor
+ {{{OL1022432}}}​ = Date
+Fire Detection
+ {{{OL1022357}}}​ = Floor Number
+ {{{OL1022381}}}​ = Current Test
+ {{{OL1022382}}}​ = Monitored
+ {{{OL1022383}}}​ = Smoke
+ {{{OL1022384}}}​ = Pulls
+ {{{OL1022385}}}​ = Carbon Monoxide
+ {{{OL1022386}}}​ = Heat
+ {{{OL1022387}}}​ = Horn-Strobe
+ {{{OL1022426}}}​ = Date
+Fire Suppression
+ {{{OL1022358}}}​ = Floor Number
+ {{{OL1022374}}}​ = Current Test
+ {{{OL1022375}}}​ = Monitored
+ {{{OL1022376}}}​ = Sprinkler Wet
+ {{{OL1022377}}}​ = Sprinkler Dry
+ {{{OL1022378}}}​ = Chemical
+ {{{OL1022379}}}​ = Kitchen Hood
+ {{{OL1022380}}}​ = Fire Extinguishers
+ {{{OL1022427}}}​ = Date
+Means of Egress
+ {{{OL1022359}}}​ = Floor Number
+ {{{OL1022360}}}​ = Number of Exits
+ {{{OL1022399}}}​ = Illuminated Exit Signs
+ {{{OL1022401}}}​ = Emergency Lighting
+ {{{OL1022402}}}​ = Front
+ {{{OL1022403}}}​ = Rear
+ {{{OL1022404}}}​ = Side
+ {{{OL1022405}}}​ = Fire Escapes
+ {{{OL1022415}}}​ = Type Lighting
+ {{{OL1022428}}}​ = Date
+ {{{OL1022433}}}​ = Certification Date
+Handicap Access
+ {{{OL1022406}}}​ = Building
+ {{{OL1022407}}}​ = Bathrooms
+ {{{OL1022408}}}​ = Elevators
+ {{{OL1022409}}}​ = Signage
+ {{{OL1022431}}}​ = Date
+Violations
+ {{{OL1022362}}}​ = Description
+ {{{OL1022416}}}​ = Status
+ {{{OL1022429}}}​ = Corrections Required By
+ {{{OL1022435}}}​ = Picture
 First Ticket
- {{{OL1023229}}}​ = First Ticket Description
+ {{{OL1022364}}}​ = First Ticket Description
 Second Ticket
- {{{OL1023256}}}​ = Second Ticket Description
+ {{{OL1038185}}}​ = Second Ticket Description
 Third Ticket
- {{{OL1023261}}}​ = Third Ticket Description
+ {{{OL1038186}}}​ = Third Ticket Description
 Fourth Ticket
- {{{OL1023266}}}​ = Fourth Ticket Description
+ {{{OL1038187}}}​ = Fourth Ticket Description
 Fifth Ticket
- {{{OL1023271}}}​ = Fifth Ticket Description
+ {{{OL1038188}}}​ = Fifth Ticket Description
 Sixth Ticket
- {{{OL1023276}}}​ = Sixth Ticket Description
+ {{{OL1038189}}}​ = Sixth Ticket Description
 Seventh Ticket
- {{{OL1023281}}}​ = Seventh Ticket Description
+ {{{OL1038190}}}​ = Seventh Ticket Description
 Eighth Ticket
- {{{OL1023286}}}​ = Eighth Ticket Description
+ {{{OL1038191}}}​ = Eighth Ticket Description
 Ninth Ticket
- {{{OL1023291}}}​ = Ninth Ticket Description
+ {{{OL1038192}}}​ = Ninth Ticket Description
 Tenth Ticket
- {{{OL1023296}}}​ = Tenth Ticket Description
+ {{{OL1038193}}}​ = Tenth Ticket Description
 
-Multi Entry Sections:
-Please note that multiEntry sections are marked with three curly brackets, not two.
-
-
- {{{MES1012169}}}​ = Electrical Violations
- {{{MES1012170}}}​ = Certified Letters
- {{{MES1012171}}}​ = Emergency Violations
- {{{MES1012172}}}​ = Parties Responsible for Online Payment
- {{{MES1012183}}}​ = First Ticket
- {{{MES1012186}}}​ = Second Ticket
- {{{MES1012188}}}​ = Third Ticket
- {{{MES1012190}}}​ = Fourth Ticket
- {{{MES1012192}}}​ = Fifth Ticket
- {{{MES1012194}}}​ = Sixth Ticket
- {{{MES1012196}}}​ = Seventh Ticket
- {{{MES1012198}}}​ = Eighth Ticket
- {{{MES1012200}}}​ = Ninth Ticket
- {{{MES1012202}}}​ = Tenth Ticket
+ {{{MES1012108}}}​ = Occupancy
+ {{{MES1012109}}}​ = Fire Detection
+ {{{MES1012110}}}​ = Fire Suppression
+ {{{MES1012111}}}​ = Means of Egress
+ {{{MES1012112}}}​ = Handicap Access
+ {{{MES1012114}}}​ = Violations
+ {{{MES1012117}}}​ = First Ticket
+ {{{MES1013523}}}​ = Second Ticket
+ {{{MES1013525}}}​ = Third Ticket
+ {{{MES1013527}}}​ = Fourth Ticket
+ {{{MES1013529}}}​ = Fifth Ticket
+ {{{MES1013531}}}​ = Sixth Ticket
+ {{{MES1013533}}}​ = Seventh Ticket
+ {{{MES1013535}}}​ = Eighth Ticket
+ {{{MES1013537}}}​ = Ninth Ticket
+ {{{MES1013539}}}​ = Tenth Ticket
 
 Fees:
- {{FEE502}}​ = Violation Fee
+ {{FEE473}}​ = Assembly - Theaters Capacity 400 or greater
+ {{FEE474}}​ = Assembly - Theaters Capacity 400 or fewer: Stage & Scenery
+ {{FEE475}}​ = Assembly - Theaters Capacity 400 or fewer: Movie
+ {{FEE476}}​ = Assembly - Night Clubs or Similar >400
+ {{FEE477}}​ = Assembly - Night Clubs or Similar <400
+ {{FEE478}}​ = Assembly - Lecture Hall, Rec.Center Terminal >400
+ {{FEE479}}​ = Assembly - Lecture Hall, Rec.Center Terminal <400
+ {{FEE480}}​ = Assembly - Stadiums, Bleachers
+ {{FEE481}}​ = Educational
+ {{FEE482}}​ = Day Care
+ {{FEE483}}​ = Institutional - Hospital Care
+ {{FEE484}}​ = Institutional - Restrained
+ {{FEE485}}​ = Institutional - Residential
+ {{FEE486}}​ = Residential - Multi-family
+ {{FEE487}}​ = Residential Special - Detox
+ {{FEE488}}​ = Residential Special - Summer Camp
+ {{FEE489}}​ = Residential Special - Group
+ {{FEE490}}​ = Residential Special - Limited
+ {{FEE491}}​ = Re-Insepction After Third Inspection
+ {{FEE492}}​ = Assembly- Place of Religious Assembly
  {{totalPaid}}​ = Total of all payments for the Record
 
 Organization/Document Details:
@@ -519,89 +513,34 @@ Additional Location:
  {{additionalLocations}}​ = Record Additional Locations
 
 Template Step Assignments Details:
- {{assignedToTS1158}}​ = Send Out Record Letters
- {{assignedToTS1211}}​ = Section 105 Letter
- {{assignedToTS1159}}​ = Send Out First Inspection Letters
- {{assignedToTS1183}}​ = First Stop Work Letter
- {{assignedToTS1185}}​ = First Violation Letter
- {{assignedToTS1160}}​ = Approve First Ticket
- {{assignedToTS1184}}​ = First Ticket
- {{assignedToTS1140}}​ = Send Out Second Inspection Letters
- {{assignedToTS1186}}​ = Second Violation Letter
- {{assignedToTS1210}}​ = Second Stop Work Letter
- {{assignedToTS1141}}​ = Approve Second Ticket
- {{assignedToTS1209}}​ = Second Ticket
- {{assignedToTS1142}}​ = Send Out Third Inspection Letters
- {{assignedToTS1187}}​ = Third Violation Letter Owner
- {{assignedToTS1181}}​ = Third Stop Work Letter
- {{assignedToTS1150}}​ = Approve Third Ticket
- {{assignedToTS1182}}​ = Third Ticket
- {{assignedToTS1143}}​ = Send Out Fourth Inspection Letters
- {{assignedToTS1188}}​ = Fourth Violation Letter Owner
- {{assignedToTS1207}}​ = Fourth Stop Work Letter
- {{assignedToTS1151}}​ = Approve Fourth Ticket
- {{assignedToTS1208}}​ = Fourth Ticket
- {{assignedToTS1144}}​ = Send Out Fifth Inspection Letters
- {{assignedToTS1189}}​ = Fifth Violation Letter Owner
- {{assignedToTS1205}}​ = Fifth Stop Work Letter
- {{assignedToTS1152}}​ = Approve Fifth Ticket
- {{assignedToTS1206}}​ = Fifth Ticket
- {{assignedToTS1145}}​ = Send Out Sixth Inspection Letters
- {{assignedToTS1190}}​ = Sixth Violation Letter Owner
- {{assignedToTS1203}}​ = Sixth Stop Work Letter
- {{assignedToTS1153}}​ = Approve Sixth Ticket
- {{assignedToTS1204}}​ = Sixth Ticket
- {{assignedToTS1146}}​ = Send Out Seventh Inspection Letters
- {{assignedToTS1191}}​ = Seventh Violation Letter Owner
- {{assignedToTS1201}}​ = Seventh Stop Work Letter
- {{assignedToTS1154}}​ = Approve Seventh Ticket
- {{assignedToTS1202}}​ = Seventh Ticket
- {{assignedToTS1147}}​ = Send Out Eighth Inspection Letters
- {{assignedToTS1192}}​ = Eighth Violation Letter Owner
- {{assignedToTS1197}}​ = Eighth Stop Work Letter
- {{assignedToTS1155}}​ = Approve Eighth Ticket
- {{assignedToTS1200}}​ = Eighth Ticket
- {{assignedToTS1148}}​ = Send Out Ninth Inspection Letters
- {{assignedToTS1193}}​ = Ninth Violation Letter Owner
- {{assignedToTS1199}}​ = Ninth Stop Work Letter
- {{assignedToTS1156}}​ = Approve Ninth Ticket
- {{assignedToTS1198}}​ = Ninth Ticket
- {{assignedToTS1149}}​ = Send Out Tenth Inspection Letters
- {{assignedToTS1194}}​ = Tenth Violation Letter Owner
- {{assignedToTS1195}}​ = Tenth Stop Work Letter
- {{assignedToTS1157}}​ = Approve Tenth Ticket
- {{assignedToTS1196}}​ = Tenth Ticket
- {{assignedToTS1180}}​ = Tenth Inspection Date and Time
- {{assignedToTS1179}}​ = Ninth Inspection Date and Time
- {{assignedToTS1178}}​ = Eighth Inspection Date and Time
- {{assignedToTS1177}}​ = Seventh Inspection Date and Time
- {{assignedToTS1176}}​ = Sixth Inspection Date and Time
- {{assignedToTS1175}}​ = Fifth Inspection Date and Time
- {{assignedToTS1174}}​ = Fourth Inspection Date and Time
- {{assignedToTS1173}}​ = Third Inspection Date and Time
- {{assignedToTS1172}}​ = Second Inspection Date and Time
- {{assignedToTS1171}}​ = First Inspection Date and Time
- {{assignedToTS1161}}​ = Tenth Violation Fee
- {{assignedToTS1170}}​ = Ninth Violation Fee
- {{assignedToTS1169}}​ = Eighth Violation Fee
- {{assignedToTS1168}}​ = Seventh Violation Fee
- {{assignedToTS1167}}​ = Sixth Violation Fee
- {{assignedToTS1166}}​ = Fifth Violation Fee
- {{assignedToTS1165}}​ = Fourth Violation Fee
- {{assignedToTS1164}}​ = Third Violation Fee
- {{assignedToTS1163}}​ = Second Violation Fee
- {{assignedToTS1162}}​ = First Violation Fee
- {{assignedToTS1129}}​ = Refer to Court
- {{assignedToTS1132}}​ = Refer to Plumbing Enforcement
- {{assignedToTS1134}}​ = Refer to Animal Control
- {{assignedToTS1131}}​ = Refer to Electrical Enforcement
- {{assignedToTS1135}}​ = Refer to Police Ordinance
- {{assignedToTS1136}}​ = Refer to Health Department
- {{assignedToTS1130}}​ = Refer to Housing Enforcement
- {{assignedToTS1139}}​ = Refer to Zoning
- {{assignedToTS1138}}​ = Refer to Office of Housing
- {{assignedToTS1137}}​ = Refer to Elderly Affairs
- {{assignedToTS1133}}​ = Refer to Fire
+ {{assignedToTS964}}​ = 30 Day Notice to Schedule Inspection
+ {{assignedToTS963}}​ = Send 30 Day Notice
+ {{assignedToTS954}}​ = Notice to Schedule Inspection 14 Day Notice
+ {{assignedToTS956}}​ = Inspection
+ {{assignedToTS966}}​ = 14 Day Notice to Schedule Inspection
+ {{assignedToTS957}}​ = Certificate of Inspection Issued
+ {{assignedToTS965}}​ = Send 14 Day Notice
+ {{assignedToTS969}}​ = First Order to Repair Letter
+ {{assignedToTS973}}​ = Cease and Desist
+ {{assignedToTS967}}​ = First Order to Repair
+ {{assignedToTS2000}}​ = First Violation Letter
+ {{assignedToTS970}}​ = Approve First Ticket
+ {{assignedToTS971}}​ = First Ticket
+ {{assignedToTS972}}​ = Send to Court
+ {{assignedToTS1997}}​ = Owes Fees
+ {{assignedToTS1999}}​ = Approve Fees
+ {{assignedToTS959}}​ = Add Fees
+ {{assignedToTS953}}​ = Inspections
+ {{assignedToTS1998}}​ = Draft Certificate of Inspection
+ {{assignedToTS2003}}​ = Draft Certificate of Inspection
+ {{assignedToTS960}}​ = Send Certificates of Inspection
+ {{assignedToTS955}}​ = Certificate of Inspection Multifamily Issued
+ {{assignedToTS961}}​ = Certificate of Inspection Other than Multifamily Issued
+ {{assignedToTS958}}​ = Fire Approval
+ {{assignedToTS2004}}​ = Draft Certificate of Inspection for Liquor License
+ {{assignedToTS2005}}​ = Draft Certificate of Inspection for Liquor License Issued
+ {{assignedToTS2006}}​ = Certificate of Inspection for Liquor License
+ {{assignedToTS962}}​ = Certificate of Inspection for Liquor License Issued
 """
 
 # --- Run the script and print the output ---

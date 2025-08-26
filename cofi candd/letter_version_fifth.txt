@@ -1,0 +1,161 @@
+<div>
+	<br>
+</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.7733%;">
+				<div style="text-align: center;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 24px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>City of Springfield</strong></span></div>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-family:Arial;color:#000000;font-size:12pt;font-weight:700;font-style:normal;text-decoration:none;">Building Department Inspectional Services</span></p>
+
+				<p style="text-align: center; padding: 0pt;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>70 Tapley St.<br>Springfield, MA 01104</span>
+					<br><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>(413)787-6031/TTY (413)787-6641<br>FAX (413)787-6641</span>
+					<br><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{currentDate}}</span></p>
+			</td>
+			<td style="width: 15.4619%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 33.6719%;"><strong><br></strong></td>
+			<td style="width: 13.2032%;"><strong><br></strong></td>
+			<td style="width: 15.4619%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%;">{{#if applicantFirstName}}{{applicantFirstName}}
+				<br>{{applicantLastName}} {{applicantStreet}} {{applicantCity}}, {{applicantState}} {{applicantZip}}{{/if}}
+				<br>{{#unless applicantFirstName}}{{ownerName}}
+				<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}
+				<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}{{/unless}} <span style="font-size: 12px; color: rgb(0, 0, 0);">&nbsp; &nbsp;</span><span style="font-size: 14px; color: rgb(0, 0, 0);">&nbsp;</span>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 71.2533%;"><span style="font-size: 14px;">Re: {{streetNo}} {{streetName}}{{#if FF1027854}}, Unit {{FF1028617}} {{/if}} <br>&nbsp; &nbsp; &nbsp; &nbsp;{{city}}, {{state}} {{zipCode}}</span><strong><br></strong></td>
+			<td style="width: 13.2032%; text-align: right; vertical-align: top;"><span style="font-size: 12px;">Parcel:&nbsp;</span>
+				<br><span style="font-size: 12px;"><span style="font-size: 12px;">Case Number:</span></span>&nbsp;</td>
+			<td style="width: 15.4619%; text-align: left; vertical-align: top;"><span style="font-size: 12px;">{{mbl}}</span>
+				<br><span style="font-size: 12px;"><span style="font-size: 12px;">{{recordId}}</span></span>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;"><strong><br></strong></td>
+			<td style="width: 21.8933%;"><strong><br></strong></td>
+			<td style="width: 33.6719%;"><strong><br></strong></td>
+			<td style="width: 13.2032%; text-align: right;">
+				<br>
+			</td>
+			<td style="width: 15.4619%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-size: 30px;"><strong>Cease and Desist&nbsp;</strong></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;">As the result of an inspection that was performed on the above property on&nbsp;</span><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;">{{FF1038059}}<span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;">, conditions were found that amount to a violation(s) of the Massachusetts State Building Codes.<br><br>The&nbsp;</span>{{FF1022419}}<span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;">&nbsp;is being occupied without a Valid Certificate of Occupancy and/or Certificate of Inspection.<br><br></span><span style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">You are hereby notified in accordance with Massachusetts Statue Building Code 780 CMR, to correct these violations forthwith.</span><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><br><br></span><span style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">Chapter 1, Article 111.1</span><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;">, (A building or structure hereafter shall not be used or occupied in whole or part until a certificate of use and occupancy shall have been issues)<br><br></span><span style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">Chapter 1, Article 110.7</span><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;">, (A building or structure shall not be occupied or continue to be occupied without the posting of a valid certificate of inspection as required by table 110)<br><br>THE OCCUPANCY OF THIS STRUCTURE OR SPACE MUST HEREBY CEASE AND DESIST.<br><br></span></span></span><span style="font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0); font-size: 14px; font-weight: 700; font-style: normal; text-decoration: none;">Failure to comply with the above order may result in fines of up to $1,000.00 per day and/or imprisonment for not more than one year Per 780 CMR. If you have any questions please contact the building inspector listed below.</span>
+				<br>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>
+		<br>
+	</p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/signature-steve_Wed_Apr_02_2025_03:30:47_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7403%;">
+					<br>
+				</td>
+				<td style="width: 26.3617%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Steven Desilets</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7403%;">
+					<br>
+				</td>
+				<td style="width: 26.3617%;">{{#if FF1038079}}David Markham{{/if}}{{#if FF1038082}}Thomas Kennedy{{/if}}{{#if FF1038080}}Abdul Mohammed{{/if}}{{#if FF1038083}}George Shaw{{/if}}{{#if FF1038155}}Matthew Goodchild{{/if}}{{#if FF1038084}}Chris Nunez{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Code Enforcement Commissioner</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7403%;">
+					<br>
+				</td>
+				<td style="width: 26.3617%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7403%;">
+					<br>
+				</td>
+				<td style="width: 26.3617%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7403%;">
+					<br>
+				</td>
+				<td style="width: 26.3617%;">
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>
+	<br>
+</div>

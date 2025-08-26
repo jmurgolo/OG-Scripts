@@ -35,7 +35,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="width: 37.5735%;">{{FF1035695}}
+			<td colspan="2" style="width: 37.5735%;">{{FF1035706}}
 				<br>
 			</td>
 			<td style="width: 29.8168%;">
@@ -47,7 +47,7 @@
 			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
 		</tr>
 		<tr>
-			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035696}} {{FF1036620}} {{/if}}</span>&nbsp;</span></span></span>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035707}} {{FF1036620}} {{/if}}</span>&nbsp;</span></span></span>
 				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
 				<br><span style="font-size: 14px;"><br></span></td>
 			<td style="width: 17.2417%;">
@@ -82,7 +82,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -137,7 +137,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -203,7 +203,7 @@
 	</table>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035908_checked}}</div>
+<div>{{#if FF1035910_checked}}</div>
 
 <table style="width: 100%; margin-left: calc(0%);">
 	<tbody>
@@ -252,7 +252,7 @@
 			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
 		</tr>
 		<tr>
-			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035699}}, Unit {{FF1036600}} {{/if}}</span>&nbsp;</span></span></span>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035707}}, Unit {{FF1036600}} {{/if}}</span>&nbsp;</span></span></span>
 				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
 				<br><span style="font-size: 14px;"><br></span></td>
 			<td style="width: 17.2417%;">
@@ -287,7 +287,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -344,7 +344,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -410,7 +410,7 @@
 	</table>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035907_checked}}</div>
+<div>{{#if FF1035910_checked}}</div>
 
 <table style="width: 100%; margin-left: calc(0%);">
 	<tbody>
@@ -459,7 +459,7 @@
 			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
 		</tr>
 		<tr>
-			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035701}} {{FF1036610}} {{/if}}</span>&nbsp;</span></span></span>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035707}} {{FF1036610}} {{/if}}</span>&nbsp;</span></span></span>
 				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
 				<br><span style="font-size: 14px;"><br></span></td>
 			<td style="width: 17.2417%;">
@@ -494,7 +494,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -551,7 +551,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -617,7 +617,7 @@
 	</table>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035906_checked}}</div>
+<div>{{#if FF1035910_checked}}</div>
 
 <table style="width: 100%; margin-left: calc(0%);">
 	<tbody>
@@ -666,7 +666,7 @@
 			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
 		</tr>
 		<tr>
-			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035703}}, Unit {{FF1036632}} {{/if}}</span>&nbsp;</span></span></span>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035707}}, Unit {{FF1036632}} {{/if}}</span>&nbsp;</span></span></span>
 				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
 				<br><span style="font-size: 14px;"><br></span></td>
 			<td style="width: 17.2417%;">
@@ -701,7 +701,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -756,7 +756,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -822,7 +822,7 @@
 	</table>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035905_checked}}</div>
+<div>{{#if FF1035910_checked}}</div>
 
 <table style="width: 100%; margin-left: calc(0%);">
 	<tbody>
@@ -871,7 +871,7 @@
 			<td style="width: 15.2955%;"><span style="font-size: 14px;"><br></span></td>
 		</tr>
 		<tr>
-			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035705}}, Unit {{FF1036603}} {{/if}}</span>&nbsp;</span></span></span>
+			<td colspan="3" style="width: 67.3966%;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}<span style="font-size: 14px;"><span style='color: rgb(0, 0, 0); font-family: "Benton Sans", sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#if FF1035707}}, Unit {{FF1036603}} {{/if}}</span>&nbsp;</span></span></span>
 				<br><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;">{{city}}, {{state}} {{zipCode}}</span></span></span></span></span>
 				<br><span style="font-size: 14px;"><br></span></td>
 			<td style="width: 17.2417%;">
@@ -906,7 +906,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -961,7 +961,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1027,7 +1027,7 @@
 	</table>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035904_checked}}</div>
+<div>{{#if FF1035910_checked}}</div>
 
 <table style="width: 100%; margin-left: calc(0%);">
 	<tbody>
@@ -1111,7 +1111,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -1166,7 +1166,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1316,7 +1316,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -1371,7 +1371,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1521,7 +1521,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -1576,7 +1576,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1726,7 +1726,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -1781,7 +1781,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1931,7 +1931,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -1986,7 +1986,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -2136,7 +2136,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -2191,7 +2191,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -2341,7 +2341,7 @@
 		<br>
 		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
 		<br>
-		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}} , phone {{#if FF1035837}}(413) 787-6728{{/if}}{{#if FF1035838}}(413) 886-5204{{/if}}{{#if FF1035839}}(413) 787-7905{{/if}}{{#if FF1035840}}(413) 750-2815{{/if}}{{#if FF1035841}}(413) 787-6216{{/if}}{{#if FF1035842}}(413) 886-5053{{/if}}{{#if FF1035843}}(413)787-7316{{/if}}{{#if FF1035844}}(413) 886-5051{{/if}}{{#if FF1035845}}(413) 886-5054{{/if}}{{#if FF1035846}}(413) 787-6534{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}, phone {{#if FF1035962}}(413) 787-6728{{/if}}{{#if FF1035963}}(413) 886-5204{{/if}}{{#if FF1035964}}(413) 787-7905{{/if}}{{#if FF1035965}}(413) 750-2815{{/if}}{{#if FF1035966}}(413) 787-6216{{/if}}{{#if FF1035967}}(413) 886-5053{{/if}}{{#if FF1035968}}(413)787-7316{{/if}}{{#if FF1035969}}(413) 886-5051{{/if}}{{#if FF1035970}}(413) 886-5054{{/if}}{{#if FF1037962}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
 		<br>
 		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
 
@@ -2396,7 +2396,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1035846}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035962}}Christopher Bennett{{/if}}{{#if FF1035963}}William Brunton{{/if}}{{#if FF1035964}}Danny Cueto{{/if}}{{#if FF1035965}}Michelle Haska{{/if}}{{#if FF1035966}}Mike Jones{{/if}}{{#if FF1035967}}Jesus Martinez{{/if}}{{#if FF1035968}}Michael McNulty{{/if}}{{#if FF1035969}}Jermain Mitchell{{/if}}{{#if FF1035970}}Michael Whiting{{/if}}{{#if FF1037962}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>

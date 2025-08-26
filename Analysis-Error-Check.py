@@ -77,8 +77,8 @@ def fix_fields_with_html(document_text):
 
 # === USAGE ===
 if __name__ == "__main__":
-    input_file = "find and replace input.txt"
-    output_file = "find and replace input.txt"
+    input_file = "Analysis Input.txt"
+    output_file = "Analysis Output.txt"
 
     with open(input_file, "r", encoding="utf-8") as f:
         content = f.read()

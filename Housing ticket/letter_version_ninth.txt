@@ -66,7 +66,11 @@
 			<td style="width: 100%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>DESCRIPTION</strong></span></span></td>
 		</tr>
 		<tr>
+<<<<<<< HEAD
 			<td style="width: 100%;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>{{{OL1035765}}}</span></td>
+=======
+			<td style="width: 100%;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>{{{OL1035749}}}</span></td>
+>>>>>>> 267e1b8059bb3a5abc53bf015e791dedf2d785ad
 		</tr>
 	</tbody>
 </table>

@@ -50,7 +50,7 @@
 				<br><span style="font-family:Arial;color:#000000;font-size:16pt;font-weight:700;font-style:normal;text-decoration:underline;">THIRD NOTICE OF VIOLATIONS</span>&nbsp;</td>
 		</tr>
 		<tr>
-			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on&nbsp;</span>{{FF1036150}}<span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036151}} {{FF1036096}}
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on&nbsp;</span>{{FF1036148}}<span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036149}} {{FF1036100}}
 				<br>
 				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">All violations must be cured by this date. If the violations are not cured by this date, the city shall be obligated to take further action.</span>
 				<br>
@@ -117,7 +117,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;"><span style="font-size: 12px;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}</span>
+				<td style="width: 26.3591%;"><span style="font-size: 12px;">{{#if FF1036028}}Christopher Bennett{{/if}}{{#if FF1036029}}William Brunton{{/if}}{{#if FF1036030}}Danny Cueto{{/if}}{{#if FF1036031}}Michelle Haska{{/if}}{{#if FF1036032}}Mike Jones{{/if}}{{#if FF1036033}}Jesus Martinez{{/if}}{{#if FF1036034}}Michael McNulty{{/if}}{{#if FF1036035}}Jermain Mitchell{{/if}}{{#if FF1036036}}Michael Whiting{{/if}}{{#if FF1037964}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -290,7 +290,7 @@
 			<td style="width: 15.2973%;"><strong><br></strong></td>
 		</tr>
 		<tr>
-			<td colspan="5" style="width: 99.9433%;">{{FF1035721}}
+			<td colspan="5" style="width: 99.9433%;">{{FF1035722}}
 				<br>{{{FF1035790}}}
 				<br>
 				<br>
@@ -313,7 +313,7 @@
 				<br><span style="font-family:Arial;color:#000000;font-size:16pt;font-weight:700;font-style:normal;text-decoration:underline;">THIRD NOTICE OF VIOLATIONS</span>&nbsp;</td>
 		</tr>
 		<tr>
-			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on&nbsp;</span>{{FF1036150}}<span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036151}} {{FF1036096}}
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on&nbsp;</span>{{FF1036148}}<span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036149}} {{FF1036100}}
 				<br>
 				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">All violations must be cured by this date. If the violations are not cured by this date, the city shall be obligated to take further action.</span>
 				<br>
@@ -380,7 +380,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;"><span style="font-size: 12px;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}</span>
+				<td style="width: 26.3591%;"><span style="font-size: 12px;">{{#if FF1036028}}Christopher Bennett{{/if}}{{#if FF1036029}}William Brunton{{/if}}{{#if FF1036030}}Danny Cueto{{/if}}{{#if FF1036031}}Michelle Haska{{/if}}{{#if FF1036032}}Mike Jones{{/if}}{{#if FF1036033}}Jesus Martinez{{/if}}{{#if FF1036034}}Michael McNulty{{/if}}{{#if FF1036035}}Jermain Mitchell{{/if}}{{#if FF1036036}}Michael Whiting{{/if}}{{#if FF1037964}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -555,7 +555,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width: 99.9433%;">{{FF1035722}}
-				<br>{{{FF1035789}}}
+				<br>{{{FF1035790}}}
 				<br>
 			</td>
 		</tr>
@@ -576,7 +576,7 @@
 				<br><span style="font-family:Arial;color:#000000;font-size:16pt;font-weight:700;font-style:normal;text-decoration:underline;">THIRD NOTICE OF VIOLATIONS</span>&nbsp;</td>
 		</tr>
 		<tr>
-			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on {{FF1036150}}</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036151}} {{FF1036096}}
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on {{FF1036148}}</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036149}} {{FF1036100}}
 				<br>
 				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">All violations must be cured by this date. If the violations are not cured by this date, the city shall be obligated to take further action.</span>
 				<br>
@@ -643,7 +643,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;"><span style="font-size: 12px;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}</span>
+				<td style="width: 26.3591%;"><span style="font-size: 12px;">{{#if FF1036028}}Christopher Bennett{{/if}}{{#if FF1036029}}William Brunton{{/if}}{{#if FF1036030}}Danny Cueto{{/if}}{{#if FF1036031}}Michelle Haska{{/if}}{{#if FF1036032}}Mike Jones{{/if}}{{#if FF1036033}}Jesus Martinez{{/if}}{{#if FF1036034}}Michael McNulty{{/if}}{{#if FF1036035}}Jermain Mitchell{{/if}}{{#if FF1036036}}Michael Whiting{{/if}}{{#if FF1037964}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>

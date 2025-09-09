@@ -1,4 +1,4 @@
-<div>{{#if FF1035910}}</div>
+<div>{{#if FF1035917}}</div>
 
 <table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
 	<tbody>
@@ -37,7 +37,7 @@
 			<td style="width: 19.4039%;">
 				<br>
 			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035695}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027854}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035696}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027854}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
 				<br>
 				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
 				<br>
@@ -164,1157 +164,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Housing Division</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%; text-align: center;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{currentDate}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<br>
-
-	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
-
-	<p style="page-break-before: always;">
-		<br>
-	</p>
-</div>
-<div>{{/if}}</div>
-<div>{{#if FF1035908}}</div>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td colspan="5" style="width: 99.9432%;">
-				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 15.6939%;">
-				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
-			</td>
-			<td colspan="3" style="width: 68.9494%;">
-				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
-					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
-			</td>
-			<td style="width: 15.2955%;">
-
-				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="width: 37.5709%;">
-				<br>
-			</td>
-			<td style="width: 38.58%;"><strong><br></strong></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><br></strong></td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 19.4039%;">
-				<br>
-			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035698}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027855}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035699}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
-				<br>
-				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
-		</tr>
-		<tr>
-			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
-				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<hr style="border: none; height: 3px; background-color: #000;">
-</div>
-<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
-				<br>
-			</td>
-			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-
-	<table style="width: 100%;">
-		<thead>
-			<tr>
-				<td style="width: 19.7689%;">
-					<br>
-				</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
-				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
-				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
-			</tr>
-		</tbody>
-	</table>
-
-	<p>
-		<br>
-	</p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
-
-	<table style="width: 100%;">
-		<tbody>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
-			</tr>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
-	<table style="width: 100%; margin-right: calc(0%);">
-		<tbody>
-			<tr>
-				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Housing Division</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%; text-align: center;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{currentDate}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<br>
-
-	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
-
-	<p style="page-break-before: always;">
-		<br>
-	</p>
-</div>
-<div>{{/if}}</div>
-<div>{{#if FF1035907}}</div>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td colspan="5" style="width: 99.9432%;">
-				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 15.6939%;">
-				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
-			</td>
-			<td colspan="3" style="width: 68.9494%;">
-				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
-					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
-			</td>
-			<td style="width: 15.2955%;">
-
-				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="width: 37.5709%;">
-				<br>
-			</td>
-			<td style="width: 38.58%;"><strong><br></strong></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><br></strong></td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 19.4039%;">
-				<br>
-			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035700}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027856}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035701}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
-				<br>
-				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
-		</tr>
-		<tr>
-			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
-				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<hr style="border: none; height: 3px; background-color: #000;">
-</div>
-<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
-				<br>
-			</td>
-			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-
-	<table style="width: 100%;">
-		<thead>
-			<tr>
-				<td style="width: 19.7689%;">
-					<br>
-				</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
-				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
-				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
-			</tr>
-		</tbody>
-	</table>
-
-	<p>
-		<br>
-	</p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
-
-	<table style="width: 100%;">
-		<tbody>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
-			</tr>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
-	<table style="width: 100%; margin-right: calc(0%);">
-		<tbody>
-			<tr>
-				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Housing Division</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%; text-align: center;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{currentDate}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<br>
-
-	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
-
-	<p style="page-break-before: always;">
-		<br>
-	</p>
-</div>
-<div>{{/if}}</div>
-<div>{{#if FF1035906}}</div>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td colspan="5" style="width: 99.9432%;">
-				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 15.6939%;">
-				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
-			</td>
-			<td colspan="3" style="width: 68.9494%;">
-				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
-					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
-			</td>
-			<td style="width: 15.2955%;">
-
-				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="width: 37.5709%;">
-				<br>
-			</td>
-			<td style="width: 38.58%;"><strong><br></strong></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><br></strong></td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 19.4039%;">
-				<br>
-			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035702}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027859}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035703}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
-				<br>
-				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
-		</tr>
-		<tr>
-			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
-				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<hr style="border: none; height: 3px; background-color: #000;">
-</div>
-<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
-				<br>
-			</td>
-			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-
-	<table style="width: 100%;">
-		<thead>
-			<tr>
-				<td style="width: 19.7689%;">
-					<br>
-				</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
-				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
-				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
-			</tr>
-		</tbody>
-	</table>
-
-	<p>
-		<br>
-	</p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
-
-	<table style="width: 100%;">
-		<tbody>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
-			</tr>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
-	<table style="width: 100%; margin-right: calc(0%);">
-		<tbody>
-			<tr>
-				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Housing Division</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%; text-align: center;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{currentDate}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<br>
-
-	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
-
-	<p style="page-break-before: always;">
-		<br>
-	</p>
-</div>
-<div>{{/if}}</div>
-<div>{{#if FF1035905}}</div>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td colspan="5" style="width: 99.9432%;">
-				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 15.6939%;">
-				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
-			</td>
-			<td colspan="3" style="width: 68.9494%;">
-				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
-					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
-			</td>
-			<td style="width: 15.2955%;">
-
-				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="width: 37.5709%;">
-				<br>
-			</td>
-			<td style="width: 38.58%;"><strong><br></strong></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><br></strong></td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 19.4039%;">
-				<br>
-			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035704}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027860}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035705}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
-				<br>
-				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
-		</tr>
-		<tr>
-			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
-				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<hr style="border: none; height: 3px; background-color: #000;">
-</div>
-<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
-				<br>
-			</td>
-			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-
-	<table style="width: 100%;">
-		<thead>
-			<tr>
-				<td style="width: 19.7689%;">
-					<br>
-				</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
-				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
-				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
-			</tr>
-		</tbody>
-	</table>
-
-	<p>
-		<br>
-	</p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
-
-	<table style="width: 100%;">
-		<tbody>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
-			</tr>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
-	<table style="width: 100%; margin-right: calc(0%);">
-		<tbody>
-			<tr>
-				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Housing Division</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%; text-align: center;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{currentDate}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-	<br>
-	<br>
-
-	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
-
-	<p style="page-break-before: always;">
-		<br>
-	</p>
-</div>
-<div>{{/if}}</div>
-<div>{{#if FF1035904}}</div>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td colspan="5" style="width: 99.9432%;">
-				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 15.6939%;">
-				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
-			</td>
-			<td colspan="3" style="width: 68.9494%;">
-				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
-					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
-			</td>
-			<td style="width: 15.2955%;">
-
-				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="width: 37.5709%;">
-				<br>
-			</td>
-			<td style="width: 38.58%;"><strong><br></strong></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><br></strong></td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 19.4039%;">
-				<br>
-			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035706}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027863}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035707}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
-				<br>
-				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
-			<td style="width: 8.4761%;"><strong><br></strong></td>
-			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
-		</tr>
-		<tr>
-			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
-				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<hr style="border: none; height: 3px; background-color: #000;">
-</div>
-<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
-				<br>
-			</td>
-			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-
-	<table style="width: 100%;">
-		<thead>
-			<tr>
-				<td style="width: 19.7689%;">
-					<br>
-				</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
-				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
-				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
-				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
-				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
-				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
-				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
-			</tr>
-		</tbody>
-	</table>
-
-	<p>
-		<br>
-	</p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
-
-	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
-
-	<table style="width: 100%;">
-		<tbody>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
-				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
-			</tr>
-			<tr>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
-					<br>
-				</td>
-				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
-					<br>
-				</td>
-			</tr>
-		</tbody>
-	</table>
-
-	<table style="width: 100%; margin-right: calc(0%);">
-		<tbody>
-			<tr>
-				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1417,7 +267,7 @@
 			<td style="width: 19.4039%;">
 				<br>
 			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035708}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027866}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035709}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027855}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
 				<br>
 				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
 				<br>
@@ -1544,7 +394,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1608,7 +458,7 @@
 	</p>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035916}}</div>
+<div>{{#if FF1035917}}</div>
 
 <table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
 	<tbody>
@@ -1647,7 +497,7 @@
 			<td style="width: 19.4039%;">
 				<br>
 			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035710}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027869}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035711}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027856}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
 				<br>
 				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
 				<br>
@@ -1774,7 +624,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -1838,7 +688,7 @@
 	</p>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035915}}</div>
+<div>{{#if FF1035917}}</div>
 
 <table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
 	<tbody>
@@ -1877,7 +727,7 @@
 			<td style="width: 19.4039%;">
 				<br>
 			</td>
-			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035712}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027872}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035713}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027859}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
 				<br>
 				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
 				<br>
@@ -2004,7 +854,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -2068,7 +918,1157 @@
 	</p>
 </div>
 <div>{{/if}}</div>
-<div>{{#if FF1035914}}</div>
+<div>{{#if FF1035917}}</div>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td colspan="5" style="width: 99.9432%;">
+				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9494%;">
+				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
+					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 38.58%;"><strong><br></strong></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 19.4039%;">
+				<br>
+			</td>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027860}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+				<br>
+				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
+				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<hr style="border: none; height: 3px; background-color: #000;">
+</div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
+				<br>
+			</td>
+			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+
+	<table style="width: 100%;">
+		<thead>
+			<tr>
+				<td style="width: 19.7689%;">
+					<br>
+				</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
+				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
+				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p>
+		<br>
+	</p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
+			</tr>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<br>
+
+	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
+
+	<p style="page-break-before: always;">
+		<br>
+	</p>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035917}}</div>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td colspan="5" style="width: 99.9432%;">
+				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9494%;">
+				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
+					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 38.58%;"><strong><br></strong></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 19.4039%;">
+				<br>
+			</td>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027863}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+				<br>
+				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
+				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<hr style="border: none; height: 3px; background-color: #000;">
+</div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
+				<br>
+			</td>
+			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+
+	<table style="width: 100%;">
+		<thead>
+			<tr>
+				<td style="width: 19.7689%;">
+					<br>
+				</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
+				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
+				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p>
+		<br>
+	</p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
+			</tr>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<br>
+
+	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
+
+	<p style="page-break-before: always;">
+		<br>
+	</p>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035917}}</div>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td colspan="5" style="width: 99.9432%;">
+				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9494%;">
+				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
+					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 38.58%;"><strong><br></strong></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 19.4039%;">
+				<br>
+			</td>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027866}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+				<br>
+				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
+				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<hr style="border: none; height: 3px; background-color: #000;">
+</div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
+				<br>
+			</td>
+			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+
+	<table style="width: 100%;">
+		<thead>
+			<tr>
+				<td style="width: 19.7689%;">
+					<br>
+				</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
+				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
+				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p>
+		<br>
+	</p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
+			</tr>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<br>
+
+	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
+
+	<p style="page-break-before: always;">
+		<br>
+	</p>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035917}}</div>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td colspan="5" style="width: 99.9432%;">
+				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9494%;">
+				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
+					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 38.58%;"><strong><br></strong></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 19.4039%;">
+				<br>
+			</td>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027869}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+				<br>
+				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
+				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<hr style="border: none; height: 3px; background-color: #000;">
+</div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
+				<br>
+			</td>
+			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+
+	<table style="width: 100%;">
+		<thead>
+			<tr>
+				<td style="width: 19.7689%;">
+					<br>
+				</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
+				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
+				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p>
+		<br>
+	</p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
+			</tr>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<br>
+
+	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
+
+	<p style="page-break-before: always;">
+		<br>
+	</p>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035917}}</div>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td colspan="5" style="width: 99.9432%;">
+				<div style="text-align: center;"><span style="font-family:Arial;color:#000000;font-size:8pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>ESTE ES UN IMPORTANTE DOCUMENTO LEGAL EL CUAL LE PUEDE AFECTAR SUS DERECHOS. DEBE TENERLO TRADUCIDO.</strong></span><strong>&nbsp;</strong></div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9494%;">
+				<div style="text-align: center;"><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong>THE COMMONWEALTH OF MASSACHUSETTS</strong></span>
+					<br><span style="font-family:Times New Roman;color:#000000;font-size:16pt;font-weight:400;font-style:italic;text-decoration:none;"><strong><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:italic;text-decoration:none;">To the Sheriff&#39;s of our several Counties, or their Deputies, or any <br>Constable of any City or Town within our said Commonwealth:</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>DEPARTMENT OF CODE ENFORCEMENT, HOUSING DIVISION, GREETING.<br>We Command you to serve the below described person or legal entity:</span>&nbsp;</strong></span><strong>&nbsp;</strong><strong><br></strong></div>
+			</td>
+			<td style="width: 15.2955%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 38.58%;"><strong><br></strong></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><br></strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 19.4039%;">
+				<br>
+			</td>
+			<td style="width: 80.5353%;"><span style='color: rgb(0, 0, 0); font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{FF1035714}}<br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong><span style="font-size: 14px;"><strong><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{#if FF1027872}}, Unit&nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 14px;color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">{{FF1035715}}</span><span style="color: rgb(0, 0, 0); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">&nbsp;{{/if}}</span>&nbsp;</strong><span style="font-size: 14px;"><strong>{{#if FF39670}},&nbsp;</strong><span style="font-size: 14px;"><strong>{{FF1035694}}{{/if}}</strong></span></span></span></span></span></span>
+				<br>
+				</span><span style="color: rgb(0, 0, 0); font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><span style="font-size: 14px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{city}}, {{state}} {{zipCode}}</span></strong></span></span></span></span></span></span></span></span></span></span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;<br><span style="font-size: 14px;">Parcel:&nbsp;{{mbl}}</span></span>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 76.1689%;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>Owner, occupant, tenant, or agent of property located in the City of Springfield at:</span></td>
+			<td style="width: 8.4761%;"><strong><br></strong></td>
+			<td style="width: 15.2955%;"><strong><span style="font-size: 14px;"><br></span></strong></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 99.9392%; text-align: center;"><span style="font-size: 14px;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>&nbsp; &nbsp; &nbsp;&nbsp;</span></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">&nbsp;</span>
+				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;{{streetNo}} {{streetName}}{{#if unit}}, Unit {{unit}} {{/if}} {{#if FF39670}}, {{FF1035694}}{{/if}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<hr style="border: none; height: 3px; background-color: #000;">
+</div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">That the Deputy Director, Department of Code Enforcement - Housing Division, City of Springfield, has adjudged certain private property which you own, manage or occupy is in violation of the State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation - 105 CMR 410.000 authorized under Chapter 111 Section 127A of the Massachusetts General Laws to wit:</span></div>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 61.2699%;"><strong><u><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 14px;'>EMERGENCY VIOLATIONS</span></u></strong>
+				<br>
+			</td>
+			<td style="width: 38.6696%;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DATE: {{currentDate}}</span></strong>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+
+	<table style="width: 100%;">
+		<thead>
+			<tr>
+				<td style="width: 19.7689%;">
+					<br>
+				</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Unit</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Responsibility</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Fix By</span></td>
+				<td style="padding:5px; width:10%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Status</span></td>
+				<td style="padding:5px; width:32%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Violation and Notes</span></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="width: 19.7689%;">{{{OL1036194}}}</td>
+				<td style="padding: 5px; width: 9.0337%;"><span style="font-size: 12px;">{{{OL1035733}}}</span></td>
+				<td style="padding: 5px; width: 18.4801%;"><span style="font-size: 12px;">{{{OL1036105}}}</span></td>
+				<td style="padding: 5px; width: 10.947%;"><span style="font-size: 12px;">{{{OL1036143}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1036106}}}</span></td>
+				<td style="padding:5px;"><span style="font-size: 12px;">{{{OL1035775}}}</span></td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p>
+		<br>
+	</p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">HEREOF FAIL NOT, under penalty of law to comply with said Sanitary Code, within FORTHWITH. &nbsp;Please see other side regarding your Right to a Hearing.</span></strong></p>
+
+	<p><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">CERTIFIED LETTERS</span></strong></p>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">Date Sent</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Recipient</td>
+				<td class="frcustomborder" style="width: 33.3333%;">Certified Number</td>
+			</tr>
+			<tr>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1036144}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035726}}}
+					<br>
+				</td>
+				<td class="frcustomborder" style="width: 33.3333%;">{{{OL1035732}}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Compensation Will Not Be Allowed Unless Officer&#39;s<br>Return Contains A Bill of Item, Together with Affidavit</span></td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}
+					<br>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+	<br>
+
+	<p style="page-break-before: always;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">By virtue of this Writ, I this day served the before described person or entity by:<br>(CROSS OUT THOSE THAT DO NOT APPLY)<br><br>1. Personally.<br><br>2. By leaving a copy of the order at this last and usual place of adobe.<br><br>3. The premises are unoccupied and the residence of the owner or agent is unknown or is without the Commonwealth, therefore, I posted the order in a conspicuous place on the premises.<br><br>&nbsp; &nbsp; A true copy. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Attest: ___________________________________________________________<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Constable)<br><br>Fees, ________________________<br>Service, ______________________<br>Travel, _______________________<br><br>(If served other than personally please state reason)<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>______________________________________________________________________________________<br><br>NOTICE IN COMPLIANCE WITH SANITARY CODE</span></p>
+
+	<p style="page-break-before: always;">
+		<br>
+	</p>
+</div>
+<div>{{/if}}</div>
+<div>{{#if FF1035917}}</div>
 
 <table style="width: 100%; margin-left: calc(0%); margin-right: calc(0%);">
 	<tbody>
@@ -2234,8 +2234,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1035950}}Christopher Bennett{{/if}}{{#if FF1035951}}William Brunton{{/if}}{{#if FF1035952}}Danny Cueto{{/if}}{{#if FF1035953}}Michelle Haska{{/if}}{{#if FF1035954}}Mike Jones{{/if}}{{#if FF1035955}}Jesus Martinez{{/if}}{{#if FF1035956}}Michael McNulty{{/if}}{{#if FF1035957}}Jermain Mitchell{{/if}}{{#if FF1035958}}Michael Whiting{{/if}}
-					<br>
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -2465,7 +2464,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1027300}}Christopher Bennett{{/if}}{{#if FF1027308}}William Brunton{{/if}}{{#if FF1027309}}Danny Cueto{{/if}}{{#if FF1027310}}Michelle Haska{{/if}}{{#if FF1027311}}Mike Jones{{/if}}{{#if FF1027312}}Jesus Martinez{{/if}}{{#if FF1027313}}Michael McNulty{{/if}}{{#if FF1027314}}Jermain Mitchell{{/if}}{{#if FF1027315}}Michael Whiting{{/if}}{{#if FF1027316}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>
@@ -2695,7 +2694,7 @@
 				<td style="width: 2.7411%;">
 					<br>
 				</td>
-				<td style="width: 26.3591%;">{{#if FF1027300}}Christopher Bennett{{/if}}{{#if FF1027308}}William Brunton{{/if}}{{#if FF1027309}}Danny Cueto{{/if}}{{#if FF1027310}}Michelle Haska{{/if}}{{#if FF1027311}}Mike Jones{{/if}}{{#if FF1027312}}Jesus Martinez{{/if}}{{#if FF1027313}}Michael McNulty{{/if}}{{#if FF1027314}}Jermain Mitchell{{/if}}{{#if FF1027315}}Michael Whiting{{/if}}{{#if FF1027316}}James Murgolo{{/if}}
+				<td style="width: 26.3591%;"><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1035837}}Christopher Bennett{{/if}}{{#if FF1035838}}William Brunton{{/if}}{{#if FF1035839}}Danny Cueto{{/if}}{{#if FF1035840}}Michelle Haska{{/if}}{{#if FF1035841}}Mike Jones{{/if}}{{#if FF1035842}}Jesus Martinez{{/if}}{{#if FF1035843}}Michael McNulty{{/if}}{{#if FF1035844}}Jermain Mitchell{{/if}}{{#if FF1035845}}Michael Whiting{{/if}}{{#if FF1037967}}Colin Hoppie{{/if}}</span>
 					<br>
 				</td>
 			</tr>

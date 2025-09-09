@@ -46,7 +46,7 @@
 		</tr>
 		<tr>
 			<td colspan="5" style="width:100%; text-align:left;">
-				<br><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>On</span><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; color: rgb(0, 0, 0); font-size: 12px; font-weight: 400; font-style: normal; text-decoration: none;'>&nbsp;</span><span style="font-size: 12px;">{{FF1036150}}</span><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;">&nbsp;an inspection of the property located at [Permit_Single_line_Address] to evaluate compliance with Regulations contained in Chapter 105, Section 410.000 of the Code of Massachusetts Regulations, State Sanitary Code, Article II, containing the Minimum Standard of Fitness for Human Habitation, indicated&nbsp;</span><span style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">&nbsp;SATISFACTORY COMPLIANCE.</span>&nbsp;</span></td>
+				<br><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; color: rgb(0, 0, 0); font-size: 14px; font-weight: 400; font-style: normal; text-decoration: none;'>On</span><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; color: rgb(0, 0, 0); font-size: 12px; font-weight: 400; font-style: normal; text-decoration: none;'>&nbsp;</span><span style="font-size: 12px;">{{FF1036151}}</span><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;">&nbsp;an inspection of the property located at [Permit_Single_line_Address] to evaluate compliance with Regulations contained in Chapter 105, Section 410.000 of the Code of Massachusetts Regulations, State Sanitary Code, Article II, containing the Minimum Standard of Fitness for Human Habitation, indicated&nbsp;</span><span style="color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">&nbsp;SATISFACTORY COMPLIANCE.</span>&nbsp;</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -76,7 +76,9 @@
 			<tr>
 				<td><span style='font-size: 12px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Keith D. O&#39;Connor</span></td>
 				<td><span style="font-size: 12px;"><br></span></td>
-				<td><span style="font-size: 12px;">{{#if FF1035950}}Christopher Bennett{{/if}} {{#if FF1035951}}William Brunton{{/if}} {{#if FF1035952}}Danny Cueto{{/if}} {{#if FF1035953}}Michelle Haska{{/if}} {{#if FF1035954}}Mike Jones{{/if}} {{#if FF1035955}}Jesus Martinez{{/if}} {{#if FF1035956}}Michael McNulty{{/if}} {{#if FF1035957}}Jermain Mitchell{{/if}} {{#if FF1035958}}Michael Whiting{{/if}}<br></span></td>
+				<td><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>{{#if FF1036071}}Christopher Bennett{{/if}}{{#if FF1036072}}William Brunton{{/if}}{{#if FF1036073}}Danny Cueto{{/if}}{{#if FF1036074}}Michelle Haska{{/if}}{{#if FF1036075}}Mike Jones{{/if}}{{#if FF1036076}}Jesus Martinez{{/if}}{{#if FF1036077}}Michael McNulty{{/if}}{{#if FF1036078}}Jermain Mitchell{{/if}}{{#if FF1036079}}Michael Whiting{{/if}}{{#if FF1037965}}Colin Hoppie{{/if}}</span>
+					<br>
+				</td>
 			</tr>
 			<tr>
 				<td><span style="font-size: 12px;"><span style="font-size: 12px;">Deputy Director of Code Enforcement</span></span></td>

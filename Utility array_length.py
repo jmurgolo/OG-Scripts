@@ -20,3 +20,13 @@ if __name__ == "__main__":
 
 # if __name__ == "__main__":
 #   get_array_length()
+
+Approve Second Ticket
+Approve Third Ticket
+Approve Fourth Ticket
+Approve Fifth Ticket
+Approve Sixth Ticket
+Approve Seventh Ticket
+Approve Eighth Ticket
+Approve Ninth Ticket
+Approve Tenth Ticket

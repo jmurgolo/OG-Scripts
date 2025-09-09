@@ -50,6 +50,7 @@
 			<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-family:Times New Roman;color:#FF0000;font-size:18pt;font-weight:700;font-style:normal;text-decoration:underline;">NOTICE OF VIOLATIONS</span><span style="font-family:Times New Roman;color:#FF0000;font-size:18pt;font-weight:700;font-style:normal;text-decoration:none;"><br>ORDER TO REPAIR</span>&nbsp;</td>
 		</tr>
 		<tr>
+<<<<<<< HEAD
 			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family: Arial, Helvetica, sans-serif; color: rgb(0, 0, 0); font-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;">Per Massachusetts State building Code 780 CMR Article 110.7 Periodic inspections. As a result of this mandated Periodic Inspection performed on the above property on {{FF1038059}}</span><span style="font-family: Arial,Helvetica,sans-serif;"><span style="color: rgb(0, 0, 0); font-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;">, the following conditions were found that amount to a violation(s) of the Massachusetts State Building Codes.&nbsp;</span> <span style="color: rgb(0, 0, 0); font-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;"><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
 				<br><span style="color: rgb(0, 0, 0); font-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="color: rgb(0, 0, 0); font-size: 11pt; font-weight: 700; font-style: normal; text-decoration: none;">A full list of the violations may be found on the attached page.<br></span><span style="color: rgb(0, 0, 0); font-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;"><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">110.7 Periodic Inspections.</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br><br>The building official shall inspect periodically existing buildings and structures and parts thereof in accordance with Table 110. entitled Schedule for Periodic Inspections of Existing Buildings. Such buildings shall not be occupied or continue to be occupied without a valid Certificate of Inspection. <br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">You are hereby notified in accordance with Massachusetts State Building Code 780 CMR, to correct these violations</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">&nbsp;to legally continue use and occupancy of this establishment.&nbsp;</span></span>
 				<br>
@@ -61,6 +62,13 @@
 				<br>
 				<br>
 			</td>
+=======
+<<<<<<< HEAD
+			<td style="width: 100%;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>{{{OL1035765}}}</span></td>
+=======
+			<td style="width: 100%;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>{{{OL1035749}}}</span></td>
+>>>>>>> 267e1b8059bb3a5abc53bf015e791dedf2d785ad
+>>>>>>> 7d42b51233c0c2c97a4ba6fa48fd4a8df576d67e
 		</tr>
 	</tbody>
 </table>

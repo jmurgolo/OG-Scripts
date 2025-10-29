@@ -17,6 +17,111 @@
 	</tbody>
 </table>
 <div>
+
+	<p>
+		<br>
+	</p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/signature-steve_Tue_Apr_22_2025_06:22:33_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Steven Desilets
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1026473}}David Markham{{/if}}{{#if FF1026472}}Thomas Kennedy{{/if}}{{#if FF1026474}}Abdul Mohammed{{/if}}{{#if FF1026475}}George Shaw{{/if}}{{#if FF1026471}}Matthew Goodchild{{/if}}{{#if FF1027316}}James Murgolo{{/if}}{{#if FF1037943}}Chris Nunez{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Code Enforcement Commissioner
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Building Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%;">
+		<tbody>
+			<tr>
+				<td style="width: 33.3333%;">Date of Notification: {{currentDate}}</td>
+				<td style="width: 33.3333%;">Will Be Re-Inspected: {{FF1026536}}</td>
+				<td style="width: 33.3333%;">File -&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="width: 33.3333%;">Compliance: NO</td>
+				<td style="width: 33.3333%;">Ticket Issue Date: {{FF1036833}}</td>
+				<td style="width: 33.3333%;">Docket Number:&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>
 	<br>
 </div>
 

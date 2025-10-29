@@ -1,3 +1,6 @@
+#change alternative owner name and address to first owner name and address
+#remove multienty violation sections
+
 import re
 from collections import defaultdict
 
@@ -51,7 +54,7 @@ def create_final_mappings(data_string: str) -> str:
     ordinals_list_upper = [o.upper() for o in ordinals_list_lower]
 
     # Define the special base descriptions for the lookahead handling
-    special_keys = {"Date of Inspection", "Time of Inspection"}
+    special_keys = {"Date of Inspection", "Time of Inspection","Inspection Date","Inspection Time"}
 
     # Loop for each transition step (e.g., first to second)
     for i in range(len(ordinals_list_lower) - 1):

@@ -1,100 +1,215 @@
-<table style="width: 100%;">
+<table width="100%">
 	<tbody>
 		<tr>
-			<td style="width: 15.7%; text-align: center;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" alt="City Seal" class="fr-fic fr-dii"></td>
-			<td style="width: 68.8%; text-align: center;">
-				<div style="font-family: 'Times New Roman'; font-size: 24px;"><strong>City of Springfield</strong></div>
+			<td style="width: 83.5233%;">
 
-				<p style="text-align: center; padding: 0pt;">Building Department Inspectional Services
-					<br>Plumbing Division
-					<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>70 Tapley St.<br>Springfield, MA 01104<br>Telephone: (413) 787-6031<br>Fax: 413-787-6641</span>
+				<p style="text-align: center;"><span style="font-size: 30px;"><strong><u>Court Report</u></strong></span></p>
+
+				<p>
 					<br>
-					<br>{{currentDate}}</p>
+				</p>
 			</td>
-			<td style="width: 15.5%; text-align: right;"><img src="/assets/images/qrcode.jpg" style="width: 151px;" alt="QR Code" class="fr-fic fr-dii"></td>
-		</tr>
-		<tr>
-			<td colspan="3" style="text-align: center; font-family: Arial; font-size: 48px; font-weight: bold; padding: 1em 0;">FIRST STOP WORK NOTICE</td>
-		</tr>
-		<tr>
-			<td colspan="3" style="font-family: Arial; font-size: 10pt;">
+			<td style="width: 16.392%;">
 
-				<table style="width: 100%;">
-					<tbody>
-						<tr>
-							<td style="width: 10.6328%;">Location:</td>
-							<td style="width: 89.3106%;">{{streetNo}} {{streetName}}{{#if FF1029189}}, Unit {{FF1023322}}{{/if}} {{city}}, {{state}} {{zipCode}}
-								<br>
-							</td>
-						</tr>
-						<tr>
-							<td style="width: 10.6328%;">Case No:</td>
-							<td style="width: 89.3106%;">{{recordId}}
-								<br>
-							</td>
-						</tr>
-						<tr>
-							<td style="width: 10.6328%;">Parcel ID:</td>
-							<td style="width: 89.3106%;">{{mbl}}
-								<br>
-							</td>
-						</tr>
-						<tr>
-							<td style="width: 10.6328%;">
-								<br>
-							</td>
-							<td style="width: 89.3106%;">
-								<br>
-							</td>
-						</tr>
-					</tbody>
-				</table><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:700;font-style:normal;text-decoration:none;">THE WORK VIOLATES THE MASSACUSETTS STATE BUILDING CODE 780 CMR.<br><br>NO ADDITIONAL WORK SHALL BE COMMENCED BEFORE THE EXISTING WORK IS MADE TO COMPLY WITH THE BUILDING CODE.<br><br>BUILDING CODE, 780 C.M.R. Upon notice from the Building Inspector the work on this building or other structure is being done contrary to the provisions of this code, or in a dangerous or unsafe manner, such work shall be immediately stopped. Said notice shall be in writing and given to the owner of the property, his agent, or to the builder or mechanic doing the work; and shall state the conditions under which work may be resumed.<br><br>Unlawful construction, alteration, repair, demolition, and or change of use of this structure without first obtaining the required permits per, (780 C.M.R. Section 105 Required)</span>
-
-				<p style="text-align:left;TextIndent:0pt;padding-left:0pt;padding-right:0pt;padding-top:0pt;padding-bottom:0pt;">
-					<br><span style="font-family:Arial;color:#000000;font-size:12pt;font-weight:700;font-style:normal;text-decoration:none;">Failure to comply with the above order may result in fines of up to $1000 per day and/or imprisonment for not more than one year.</span></p>
+				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode"></p>
 			</td>
-		</tr>
-	</tbody>
-</table>
-<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></div>
-
-<table style="width: 100%; margin-top: 3em;">
-	<tbody>
-		<tr>
-			<td style="width: 18.8226%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/signature-steve_Wed_Apr_02_2025_03:30:47_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" alt="Signature" class="fr-fic fr-dii"></td>
-			<td style="width: 14.3487%;">
-				<br>
-			</td>
-			<td colspan="4" style="width: 66.7834%;">
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 18.8226%;">Steven Desilets</td>
-			<td style="width: 14.3487%;">
-				<br>
-			</td>
-			<td colspan="3" style="width: 40.4609%;">
-				<br>
-			</td>
-			<td style="width: 26.3283%;">{{#if FF1023385}}Paul Brodeur{{/if}}{{#if FF1023386}}Roderick Cruz{{/if}}{{#if FF1023387}}Sam Santaniello{{/if}}{{#if FF1023388}}Thomas Witkop{{/if}}{{#if FF1038231}}Marc Turgeon{{/if}}
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 18.8226%;">Code Enforcement Commissioner</td>
-			<td style="width: 14.3487%;">
-				<br>
-			</td>
-			<td colspan="3" style="width: 40.4609%;">
-				<br>
-			</td>
-			<td style="width: 26.3283%;"><span style='color: rgba(0, 0, 0, 0.87); font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;'>Plumbing and Gas Inspector</span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></td>
 		</tr>
 	</tbody>
 </table>
 <div>
 	<br>
 </div>
-<div><span style="font-family:Calibri;color:#000000;font-size:10pt;font-weight:700;font-style:normal;text-decoration:none;">Right to Appeal Decisions or Orders</span></div>
-<div><span style="font-family:Calibri;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Right to Appeal per 780 CMR shall be addressed by the Building Code Appeals Board in accordance with MGL.c.143, Sec 100. &nbsp;The application for appeal shall be filed on a form obtained from the Building Official within 20 days after notice was served.</span></div>
+
+<table style="width: 100%; margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 25.0000%;">Complaint Location&nbsp;</td>
+			<td style="width: 61.0342%;">{{primaryLocation}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">Zone</td>
+			<td style="width: 9.0858%;">{{zoning}}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">Date of Re-Inspection:
+				<br>
+			</td>
+			<td style="width: 61.0342%;">{{FF1022519}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">Time:
+				<br>
+			</td>
+			<td style="width: 9.0858%;">{{FF1022520}}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">Next Court Appearance:
+				<br>
+			</td>
+			<td style="width: 61.0342%;">{{FF1022517}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">
+				<br>
+			</td>
+			<td style="width: 9.0858%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">Inspector(s):
+				<br>
+			</td>
+			<td style="width: 61.0342%;">{{FF1022524}}
+				<br>
+			</td>
+			<td style="width: 4.8317%;">
+				<br>
+			</td>
+			<td style="width: 9.0858%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 25.0000%;">
+				<br>Purpose:
+				<br>
+			</td>
+			<td style="width: 61.0342%;">
+				<br>
+			</td>
+			<td style="width: 4.8317%;">
+				<br>
+			</td>
+			<td style="width: 9.0858%;">
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%; margin-right: calc(0%);">
+	<tbody>
+		<tr>
+			<td class="frcustomborder" style="width: 100.0000%;">{{{FF1022527}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td colspan="2" style="width: 97.5941%;">Additional Information:</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%;">
+				<br>
+			</td>
+			<td style="width: 92.8681%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1022528_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022528_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;">
+				<div>Photographs</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1022529_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022529_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Narrative</span>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1022530_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022530_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Formal Report</span>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 2.3221%;">
+				<br>
+			</td>
+			<td style="width: 4.7272%; vertical-align: top;">
+				<div>{{#if FF1022531_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022531_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
+			</td>
+			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Court Attendance Necessary</span>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Inspector Findings:</span></div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 100.0000%;">{{{FF1022532}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">I {{FF1022524}}&nbsp;</span><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">have found the above report and attachments to be accurate and true, signed under pains and penalties of perjury this&nbsp;</span>{{FF1022519}}<span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">.</span></div>
+<div>
+	<br>
+</div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Project ID: {{projectId}}</span></div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Law Case ID: {{recordId}}</span></div>
+<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Enf Case ID: {{FF1022518}}</span></div>
+<div>
+	<br>
+</div>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td class="frcustomborder " style="width: 100.0000%;">{{{FF1022533}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>

@@ -27,7 +27,7 @@ def create_final_mappings(data_string: str) -> str:
     # This dictionary will only be populated from the input file
     mappings_from_file = defaultdict(list)
     line_regex = re.compile(r'\{\{+([A-Z0-9]+)\}\}+\s*=\s*(.*)')
-    ordinals_set = {"First", "Second", "Third", "Fourth", "Fifth", "Sixth", "Seventh", "Eighth", "Ninth", "Tenth"}
+    ordinals_set = {'First', 'Second', 'Third', 'Fourth', 'Fifth', 'Sixth', 'Seventh', 'Eighth', 'Ninth', 'Tenth', 'Eleventh', 'Twelfth', 'Thirteenth', 'Fourteenth', 'Fifteenth', 'Sixteenth', 'Seventeenth', 'Eighteenth', 'Nineteenth', 'Twentieth', 'Twenty-first'}
 
     # --- Data Parsing (processes only {{ID}} lines from the file) ---
     for line in cleaned_data.strip().split('\n'):
@@ -50,7 +50,7 @@ def create_final_mappings(data_string: str) -> str:
 
     # --- Generate the final grouped output ---
     output_lines = []
-    ordinals_list_lower = ["first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth"]
+    ordinals_list_lower = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth', 'thirteenth', 'fourteenth', 'fifteenth', 'sixteenth', 'seventeenth', 'eighteenth', 'nineteenth', 'twentieth', 'twenty-first']
     ordinals_list_upper = [o.upper() for o in ordinals_list_lower]
 
     # Define the special base descriptions for the lookahead handling
@@ -98,7 +98,6 @@ def create_final_mappings(data_string: str) -> str:
     return "\n".join(output_lines)
 
 input_data = """
-
 
 First Court Inspection
  {{FF1022517}}​ = Next Court Appearance
@@ -479,8 +478,6 @@ Twenty First Court Inspection
  {{FF1038515}}​ = Housing Inspectors
  {{FF1038516}}​ = Plumbing Gas Inspectors
  {{FF1038518}}​ = Zoning Inspectors
-
-
 
 """
 

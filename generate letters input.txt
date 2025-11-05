@@ -1,173 +1,189 @@
-<table width="100%">
+<table style="width: 100%; margin-left: calc(0%);">
 	<tbody>
 		<tr>
-			<td style="width: 83.5233%;">
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9518%;">
+				<div style="text-align: center;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 24px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>City of Springfield</strong></span></div>
 
-				<p style="text-align: center;"><span style="font-size: 30px;"><strong><u>Court Report</u></strong></span></p>
+				<p style="text-align: center; padding: 0pt;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 18px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>Code Enforcement</strong></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>&nbsp;</strong></span></p>
 
-				<p>
+				<p style="text-align: center; padding: 0pt;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">Housing Division<br>70 Tapley St.<br>Springfield, MA 01104<br>Telephone: (413) 787-6730<br>Fax: 413-886-5348</span></p>
+			</td>
+			<td style="width: 15.2973%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 27.4198%;"><strong><br></strong></td>
+			<td style="width: 19.6348%;"><strong><br></strong></td>
+			<td style="width: 15.2973%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%;"><span style="color: rgb(0, 0, 0); font-size: 14px;">{{#if FF1035925_checked}}{{FF1035720}}<br>{{FF1035791}}{{/if}}</span>
+				<br>{{#unless FF1035925_checked}}<span style="font-size: 14px;"><br><span style="color: rgb(0, 0, 0);">{{ownerName}}<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}</span></span>{{/unless}}
+				<br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 65.0062%;"><strong>Re: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong>
+				<br>
+			</td>
+			<td style="width: 19.6348%; text-align: right; vertical-align: top;"><span style="font-size: 12px;">Parcel: &nbsp;</span></td>
+			<td style="width: 15.2973%; text-align: left; vertical-align: top;"><span style="font-size: 12px;">{{mbl}}</span></td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;"><strong><br></strong></td>
+			<td style="width: 21.8933%;"><strong><br></strong></td>
+			<td style="width: 27.4198%;"><strong><br></strong></td>
+			<td style="width: 19.6348%; text-align: right;"><span style="font-size: 12px;">Case Number:&nbsp;</span></td>
+			<td style="width: 15.2973%;"><span style="font-size: 12px;">{{recordId}}</span><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: center;">
+				<br><span style="font-family:Arial;color:#000000;font-size:16pt;font-weight:700;font-style:normal;text-decoration:underline;">FIRST NOTICE OF VIOLATIONS</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on&nbsp;</span>{{FF1036150}}<span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036151}} {{FF1036096}}
+				<br>
+				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">All violations must be cured by this date. If the violations are not cured by this date, the city shall be obligated to take further action.</span>
+				<br>
+				<br><span style="color: rgb(226, 80, 65);">If you have questions you can contact the inspector {{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}, phone {{#if FF1035950_checked}}(413) 787-6728{{/if}}{{#if FF1035951_checked}}(413) 886-5204{{/if}}{{#if FF1035952_checked}}(413) 787-7905{{/if}}{{#if FF1035953_checked}}(413) 750-2815{{/if}}{{#if FF1035954_checked}}(413) 787-6216{{/if}}{{#if FF1035955_checked}}(413) 886-5053{{/if}}{{#if FF1035956_checked}}(413)787-7316{{/if}}{{#if FF1035957_checked}}(413) 886-5051{{/if}}{{#if FF1035958_checked}}(413) 886-5054{{/if}}{{#if FF1037963_checked}}(413) 787-6031{{/if}}.</span>
+				<br>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%;">Certified Letter Information</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">Date Sent</td>
+			<td style="width: 33.3333%;">Recipient</td>
+			<td style="width: 33.3333%;">Certified Number</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">{{{OL1036144}}}</td>
+			<td style="width: 33.3333%;">{{{OL1035726}}}</td>
+			<td style="width: 33.3333%;">{{{OL1035732}}}</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>
+		<br>
+	</p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
 					<br>
-				</p>
-			</td>
-			<td style="width: 16.392%;">
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}</td>
+			</tr>
+		</tbody>
+	</table>
 
-				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode"></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%; margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td style="width: 25.0000%;">Complaint Location&nbsp;</td>
-			<td style="width: 61.0342%;">{{primaryLocation}}
-				<br>
-			</td>
-			<td style="width: 4.8317%;">Zone</td>
-			<td style="width: 9.0858%;">{{zoning}}
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 25.0000%;">Date of Re-Inspection:
-				<br>
-			</td>
-			<td style="width: 61.0342%;">{{FF1022519}}
-				<br>
-			</td>
-			<td style="width: 4.8317%;">Time:
-				<br>
-			</td>
-			<td style="width: 9.0858%;">{{FF1022520}}
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 25.0000%;">Next Court Appearance:
-				<br>
-			</td>
-			<td style="width: 61.0342%;">{{FF1022517}}
-				<br>
-			</td>
-			<td style="width: 4.8317%;">
-				<br>
-			</td>
-			<td style="width: 9.0858%;">
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 25.0000%;">Inspector(s):
-				<br>
-			</td>
-			<td style="width: 61.0342%;">{{FF1022524}}
-				<br>
-			</td>
-			<td style="width: 4.8317%;">
-				<br>
-			</td>
-			<td style="width: 9.0858%;">
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 25.0000%;">
-				<br>Purpose:
-				<br>
-			</td>
-			<td style="width: 61.0342%;">
-				<br>
-			</td>
-			<td style="width: 4.8317%;">
-				<br>
-			</td>
-			<td style="width: 9.0858%;">
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%; margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td class="frcustomborder" style="width: 100.0000%;">{{{FF1022527}}}
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
+	<p style="page-break-before: always;">
+		<br>
+	</p>
 </div>
 
 <table style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td colspan="2" style="width: 97.5941%;">Additional Information:</td>
+			<td colspan="3" style="width: 99.9391%; text-align: center;"><span style="font-family: Arial; color: rgb(255, 0, 0); font-size: 24px; font-weight: 700; font-style: normal; text-decoration: none;">VIOLATIONS</span><span style="font-size: 24px;"><br></span></td>
 		</tr>
 		<tr>
-			<td style="width: 2.3221%;">
+			<td colspan="2" style="width: 61.6484%;"><strong>Re: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong>
 				<br>
 			</td>
-			<td style="width: 4.7272%;">
-				<br>
-			</td>
-			<td style="width: 92.8681%;">
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022528_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022528_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;">
-				<div>Photographs</div>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022529_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022529_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Narrative</span>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022530_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022530_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Formal Report</span>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022531_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022531_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Court Attendance Necessary</span>
+			<td style="width: 38.2908%;"><strong><span style="font-size: 12px;">Parcel: <strong>{{mbl}}</strong></span></strong><span style="font-size: 12px;"><br></span><strong><span style="font-size: 12px;">Case Number:&nbsp;{{recordId}}</span></strong>
 				<br>
 			</td>
 		</tr>
@@ -176,40 +192,607 @@
 <div>
 	<br>
 </div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Inspector Findings:</span></div>
+<div><span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 700; font-style: normal; text-decoration: none;"><u>VIOLATIONS</u></span><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:700;font-style:normal;text-decoration:none;"><u>:</u></span></div>
+
+<table style="width: 100%;">
+	<thead>
+		<tr>
+			<td style="width:20%;">
+				<br>
+			</td>
+			<td style="padding:5px; width:8%;"><strong>Unit</strong></td>
+			<td style="padding:5px; width:19%;"><strong>Responsibility</strong></td>
+			<td style="padding:5px; width:11%;"><strong>Fix By</strong></td>
+			<td style="padding:5px; width:10%;"><strong>Status</strong></td>
+			<td style="padding:5px; width:32%;"><strong>Violation and Notes</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>{{{OL1036196}}}</td>
+			<td style="padding:5px;">{{{OL1035723}}}</td>
+			<td style="padding:5px;">{{{OL1036107}}}</td>
+			<td style="padding:5px;">{{{OL1036141}}}</td>
+			<td style="padding:5px;">{{{OL1036108}}}</td>
+			<td style="padding:5px;">{{{OL1035777}}}</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><u><strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;">UNREGISTERED MOTOR VEHICLES:</span></strong></u></div>
+
+<table style="width: 100%;">
+	<thead>
+		<tr>
+			<td style="width: 20%;">
+				<br>
+			</td>
+			<td style="padding: 5px; width: 7.7959%; text-align: center;"><strong>Make</strong></td>
+			<td style="padding: 5px; width: 15.8219%;"><strong>Model</strong></td>
+			<td style="padding: 5px; width: 9.3817%;"><strong>Color</strong></td>
+			<td style="padding: 5px; width: 8.7834%;"><strong>License Plate #</strong></td>
+			<td style="width: 14.2857%;"><strong>Status</strong>
+				<br>
+			</td>
+			<td style="padding: 5px; width: 26.2902%;"><strong>Notes</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>{{{OL1036195}}}</td>
+			<td style="padding:5px;">{{{OL1036110}}}</td>
+			<td style="padding:5px;">{{{OL1036111}}}</td>
+			<td style="padding:5px;">{{{OL1036112}}}</td>
+			<td style="padding:5px;">{{{OL1035724}}}</td>
+			<td style="padding:5px;">{{{OL1036109}}}</td>
+			<td style="padding:5px;">{{{OL1035776}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+	<br>
+</div>
+<div><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Please note: &nbsp;You are required to apply for any permits necessary in accordance with applicable zoning requirements or any building permits necessary to gain compliance. &nbsp;</span>&nbsp;</strong></div>
+<div><strong><br></strong></div>
+<div><strong><span style="font-family:Arial;color:#000000;font-size:9pt;font-weight:400;font-style:normal;text-decoration:none;">RIGHT OF APPEAL: Receipt of this notice of Violation entitles the recipient to appeal the order to this department. Such petition must be in writing and filed within seven days after the day the order was received. Please refer to&nbsp;</span><span style="font-family:Calibri;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">105 CMR 410.800&nbsp;</span><span style="font-family:Arial;color:#000000;font-size:9pt;font-weight:400;font-style:normal;text-decoration:none;">et seq. for all rights and remedies in regard to this Notice.</span>&nbsp;</strong></div>
+<div>
+	<br>
+</div>
+<div>{{#if FF1027819_checked}}<strong><br></strong></div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9518%;">
+				<div style="text-align: center;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 24px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>City of Springfield</strong></span></div>
+
+				<p style="text-align: center; padding: 0pt;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 18px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>Code Enforcement</strong></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>&nbsp;</strong></span></p>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">Housing Division<br>70 Tapley St.<br>Springfield, MA 01104<br>Telephone: (413) 787-6730<br>Fax: 413-886-5348</span></p>
+			</td>
+			<td style="width: 15.2973%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 27.4198%;"><strong><br></strong></td>
+			<td style="width: 19.6348%;"><strong><br></strong></td>
+			<td style="width: 15.2973%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%;">{{FF1035721}}
+				<br>{{{FF1035790}}}
+				<br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 65.0062%;"><strong>Re: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></td>
+			<td style="width: 19.6348%; text-align: right; vertical-align: top;"><span style="font-size: 12px;">Parcel: &nbsp;</span></td>
+			<td style="width: 15.2973%; text-align: left; vertical-align: top;"><span style="font-size: 12px;">{{mbl}}</span></td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;"><strong><br></strong></td>
+			<td style="width: 21.8933%;"><strong><br></strong></td>
+			<td style="width: 27.4198%;"><strong><br></strong></td>
+			<td style="width: 19.6348%; text-align: right;"><span style="font-size: 12px;">Case Number:&nbsp;</span></td>
+			<td style="width: 15.2973%;"><span style="font-size: 12px;">{{recordId}}</span><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: center;">
+				<br><span style="font-family:Arial;color:#000000;font-size:16pt;font-weight:700;font-style:normal;text-decoration:underline;">FIRST NOTICE OF VIOLATIONS</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on&nbsp;</span>{{FF1036150}}<span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036151}} {{FF1036096}}
+				<br>
+				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">All violations must be cured by this date. If the violations are not cured by this date, the city shall be obligated to take further action.</span>
+				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;"><br><span style="color: rgb(226, 80, 65);">If you have questions you can contact the inspector {{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}, phone {{#if FF1035950_checked}}(413) 787-6728{{/if}}{{#if FF1035951_checked}}(413) 886-5204{{/if}}{{#if FF1035952_checked}}(413) 787-7905{{/if}}{{#if FF1035953_checked}}(413) 750-2815{{/if}}{{#if FF1035954_checked}}(413) 787-6216{{/if}}{{#if FF1035955_checked}}(413) 886-5053{{/if}}{{#if FF1035956_checked}}(413)787-7316{{/if}}{{#if FF1035957_checked}}(413) 886-5051{{/if}}{{#if FF1035958_checked}}(413) 886-5054{{/if}}{{#if FF1037963_checked}}(413) 787-6031{{/if}}.</span></span>
+				<br>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <table style="width: 100%;">
 	<tbody>
 		<tr>
-			<td style="width: 100.0000%;">{{{FF1022532}}}
+			<td style="width: 33.3333%;">Certified Letter Information</td>
+			<td style="width: 33.3333%;">
 				<br>
 			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">Date Sent</td>
+			<td style="width: 33.3333%;">Recipient</td>
+			<td style="width: 33.3333%;">Certified Number</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">{{{OL1036144}}}</td>
+			<td style="width: 33.3333%;">{{{OL1035726}}}</td>
+			<td style="width: 33.3333%;">{{{OL1035732}}}</td>
 		</tr>
 	</tbody>
 </table>
 <div>
-	<br>
-</div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">I {{FF1022524}}&nbsp;</span><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">have found the above report and attachments to be accurate and true, signed under pains and penalties of perjury this&nbsp;</span>{{FF1022519}}<span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">.</span></div>
-<div>
-	<br>
-</div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Project ID: {{projectId}}</span></div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Law Case ID: {{recordId}}</span></div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Enf Case ID: {{FF1022518}}</span></div>
-<div>
-	<br>
-</div>
-<div>
-	<br>
+
+	<p>
+		<br>
+	</p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p style="page-break-before: always;">
+		<br>
+	</p>
 </div>
 
 <table style="width: 100%;">
 	<tbody>
 		<tr>
-			<td class="frcustomborder " style="width: 100.0000%;">{{{FF1022533}}}
+			<td colspan="3" style="width: 99.9391%; text-align: center;"><span style="font-family: Arial; color: rgb(255, 0, 0); font-size: 24px; font-weight: 700; font-style: normal; text-decoration: none;">VIOLATIONS</span><span style="font-size: 24px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 61.6484%;"><strong>Re: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong>
+				<br>
+			</td>
+			<td style="width: 38.2908%;"><strong><span style="font-size: 12px;">Parcel: <strong>{{mbl}}</strong></span></strong><span style="font-size: 12px;"><br></span><strong><span style="font-size: 12px;">Case Number:&nbsp;{{recordId}}</span></strong>
 				<br>
 			</td>
 		</tr>
 	</tbody>
 </table>
+<div>
+	<br>
+</div>
+<div><span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 700; font-style: normal; text-decoration: none;"><u>VIOLATIONS</u></span><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:700;font-style:normal;text-decoration:none;"><u>:</u></span></div>
+
+<table style="width: 100%;">
+	<thead>
+		<tr>
+			<td style="width:20%;">
+				<br>
+			</td>
+			<td style="padding:5px; width:8%;"><strong>Unit</strong></td>
+			<td style="padding:5px; width:19%;"><strong>Responsibility</strong></td>
+			<td style="padding:5px; width:11%;"><strong>Fix By</strong></td>
+			<td style="padding:5px; width:10%;"><strong>Status</strong></td>
+			<td style="padding:5px; width:32%;"><strong>Violation and Notes</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>{{{OL1036196}}}</td>
+			<td style="padding:5px;">{{{OL1035723}}}</td>
+			<td style="padding:5px;">{{{OL1036107}}}</td>
+			<td style="padding:5px;">{{{OL1036141}}}</td>
+			<td style="padding:5px;">{{{OL1036108}}}</td>
+			<td style="padding:5px;">{{{OL1035777}}}</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><u><strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;">UNREGISTERED MOTOR VEHICLES:</span></strong></u></div>
+
+<table style="width: 100%;">
+	<thead>
+		<tr>
+			<td style="width: 21.0267%;">
+				<br>
+			</td>
+			<td style="padding: 5px; width: 7.7959%; text-align: center;"><strong>Make</strong></td>
+			<td style="padding: 5px; width: 15.8219%;"><strong>Model</strong></td>
+			<td style="padding: 5px; width: 9.3817%;"><strong>Color</strong></td>
+			<td style="padding: 5px; width: 8.7834%;"><strong>License Plate #</strong></td>
+			<td style="width: 14.2857%;"><strong>Status</strong>
+				<br>
+			</td>
+			<td style="padding: 5px; width: 26.2902%;"><strong>Notes</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>{{{OL1036195}}}</td>
+			<td style="padding:5px;">{{{OL1036110}}}</td>
+			<td style="padding:5px;">{{{OL1036111}}}</td>
+			<td style="padding:5px;">{{{OL1036112}}}</td>
+			<td style="padding:5px;">{{{OL1035724}}}</td>
+			<td style="padding:5px;">{{{OL1036109}}}</td>
+			<td style="padding:5px;">{{{OL1035776}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+	<br>
+</div>
+<div><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Please note: &nbsp;You are required to apply for any permits necessary in accordance with applicable zoning requirements or any building permits necessary to gain compliance. &nbsp;</span>&nbsp;</strong></div>
+<div><strong><br></strong></div>
+<div><strong><span style="font-family:Arial;color:#000000;font-size:9pt;font-weight:400;font-style:normal;text-decoration:none;">RIGHT OF APPEAL: Receipt of this notice of Violation entitles the recipient to appeal the order to this department. Such petition must be in writing and filed within seven days after the day the order was received. Please refer to&nbsp;</span><span style="font-family:Calibri;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">105 CMR 410.800&nbsp;</span><span style="font-family:Arial;color:#000000;font-size:9pt;font-weight:400;font-style:normal;text-decoration:none;">et seq. for all rights and remedies in regard to this Notice.</span>&nbsp;</strong></div>
+<div>{{/if}} {{#if FF1027820_checked}}</div>
+<div>
+
+	<p style="page-break-before: always;"><strong><br></strong></p>
+</div>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9518%;">
+				<div style="text-align: center;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 24px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>City of Springfield</strong></span></div>
+
+				<p style="text-align: center; padding: 0pt;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 18px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>Code Enforcement</strong></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><strong>&nbsp;</strong></span></p>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">Housing Division<br>70 Tapley St.<br>Springfield, MA 01104<br>Telephone: (413) 787-6730<br>Fax: 413-886-5348</span></p>
+			</td>
+			<td style="width: 15.2973%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 27.4198%;"><strong><br></strong></td>
+			<td style="width: 19.6348%;"><strong><br></strong></td>
+			<td style="width: 15.2973%;"><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%;">{{FF1035722}}
+				<br>{{{FF1035789}}}
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 65.0062%;"><strong>Re: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong><strong><br></strong></td>
+			<td style="width: 19.6348%; text-align: right; vertical-align: top;"><span style="font-size: 12px;">Parcel: &nbsp;</span></td>
+			<td style="width: 15.2973%; text-align: left; vertical-align: top;"><span style="font-size: 12px;">{{mbl}}</span></td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;"><strong><br></strong></td>
+			<td style="width: 21.8933%;"><strong><br></strong></td>
+			<td style="width: 27.4198%;"><strong><br></strong></td>
+			<td style="width: 19.6348%; text-align: right;"><span style="font-size: 12px;">Case Number:&nbsp;</span></td>
+			<td style="width: 15.2973%;"><span style="font-size: 12px;">{{recordId}}</span><strong><br></strong></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: center;">
+				<br><span style="font-family:Arial;color:#000000;font-size:16pt;font-weight:700;font-style:normal;text-decoration:underline;">FIRST NOTICE OF VIOLATIONS</span>&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">As a result of an inspection that was performed on the above property on {{FF1036150}}</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">, conditions were found to exist that amount to a violation of the Massachusetts State Sanitary Code (105 CMR 410.000 State Sanitary Code Chapter II: Minimum Standards of Fitness for Human Habitation). Property records indicate that you are the party responsible for this premises either by ownership, occupation, or control.<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A full list of the violations may be found on the attached page.<br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;"><br>By and through this letter you are hereby ordered to take all steps necessary to correct the attached and bring the property into full compliance with the state code.<br><br></span><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">A REINSPECTION IS SCHEDULED FOR:</span> {{FF1036151}} {{FF1036096}}
+				<br>
+				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;">All violations must be cured by this date. If the violations are not cured by this date, the city shall be obligated to take further action.</span>
+				<br><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:700;font-style:normal;text-decoration:none;"><br><span style="color: rgb(226, 80, 65);">If you have questions you can contact the inspector {{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}, phone {{#if FF1035950_checked}}(413) 787-6728{{/if}}{{#if FF1035951_checked}}(413) 886-5204{{/if}}{{#if FF1035952_checked}}(413) 787-7905{{/if}}{{#if FF1035953_checked}}(413) 750-2815{{/if}}{{#if FF1035954_checked}}(413) 787-6216{{/if}}{{#if FF1035955_checked}}(413) 886-5053{{/if}}{{#if FF1035956_checked}}(413)787-7316{{/if}}{{#if FF1035957_checked}}(413) 886-5051{{/if}}{{#if FF1035958_checked}}(413) 886-5054{{/if}}{{#if FF1037963_checked}}(413) 787-6031{{/if}}.</span></span>
+				<br>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%;">Certified Letter Information</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+			<td style="width: 33.3333%;">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">Date Sent</td>
+			<td style="width: 33.3333%;">Recipient</td>
+			<td style="width: 33.3333%;">Certified Number</td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;">{{{OL1036144}}}</td>
+			<td style="width: 33.3333%;">{{{OL1035726}}}</td>
+			<td style="width: 33.3333%;">{{{OL1035732}}}</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>
+		<br>
+	</p>
+
+	<table style="width: 100%; margin-right: calc(0%);">
+		<tbody>
+			<tr>
+				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Keith D. O&#39;Connor</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Deputy Director of Code Enforcement</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">Code Enforcement Inspector</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">Housing Division</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">
+					<br>
+				</td>
+			</tr>
+			<tr>
+				<td style="width: 22.6714%;">
+					<br>
+				</td>
+				<td style="width: 2.7539%;">
+					<br>
+				</td>
+				<td style="width: 45.401%; text-align: center;">
+					<br>
+				</td>
+				<td style="width: 2.7411%;">
+					<br>
+				</td>
+				<td style="width: 26.3591%;">{{currentDate}}</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<p style="page-break-before: always;">
+		<br>
+	</p>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width: 99.9391%; text-align: center;"><span style="font-family: Arial; color: rgb(255, 0, 0); font-size: 24px; font-weight: 700; font-style: normal; text-decoration: none;">VIOLATIONS</span><span style="font-size: 24px;"><br></span></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 61.6484%;"><strong>Re: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong>
+				<br>
+			</td>
+			<td style="width: 38.2908%;"><strong><span style="font-size: 12px;">Parcel: <strong>{{mbl}}</strong></span></strong><span style="font-size: 12px;"><br></span><strong><span style="font-size: 12px;">Case Number:&nbsp;{{recordId}}</span></strong>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 16px; font-weight: 700; font-style: normal; text-decoration: none;"><u>VIOLATIONS</u></span><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:700;font-style:normal;text-decoration:none;"><u>:</u></span></div>
+
+<table style="width: 100%;">
+	<thead>
+		<tr>
+			<td style="width:20%;">
+				<br>
+			</td>
+			<td style="padding:5px; width:8%;"><strong>Unit</strong></td>
+			<td style="padding:5px; width:19%;"><strong>Responsibility</strong></td>
+			<td style="padding:5px; width:11%;"><strong>Fix By</strong></td>
+			<td style="padding:5px; width:10%;"><strong>Status</strong></td>
+			<td style="padding:5px; width:32%;"><strong>Violation and Notes</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>{{{OL1036196}}}</td>
+			<td style="padding:5px;">{{{OL1035723}}}</td>
+			<td style="padding:5px;">{{{OL1036107}}}</td>
+			<td style="padding:5px;">{{{OL1036141}}}</td>
+			<td style="padding:5px;">{{{OL1036108}}}</td>
+			<td style="padding:5px;">{{{OL1035777}}}</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+<div><u><strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 16px;">UNREGISTERED MOTOR VEHICLES:</span></strong></u></div>
+
+<table style="width: 100%;">
+	<thead>
+		<tr>
+			<td style="width: 21.0267%;">
+				<br>
+			</td>
+			<td style="padding: 5px; width: 7.7959%; text-align: center;"><strong>Make</strong></td>
+			<td style="padding: 5px; width: 15.8219%;"><strong>Model</strong></td>
+			<td style="padding: 5px; width: 9.3817%;"><strong>Color</strong></td>
+			<td style="padding: 5px; width: 8.7834%;"><strong>License Plate #</strong></td>
+			<td style="width: 14.2857%;"><strong>Status</strong>
+				<br>
+			</td>
+			<td style="padding: 5px; width: 26.2902%;"><strong>Notes</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>{{{OL1036195}}}</td>
+			<td style="padding:5px;">{{{OL1036110}}}</td>
+			<td style="padding:5px;">{{{OL1036111}}}</td>
+			<td style="padding:5px;">{{{OL1036112}}}</td>
+			<td style="padding:5px;">{{{OL1035724}}}</td>
+			<td style="padding:5px;">{{{OL1036109}}}</td>
+			<td style="padding:5px;">{{{OL1035776}}}
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+	<br>
+</div>
+<div><strong><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Please note: &nbsp;You are required to apply for any permits necessary in accordance with applicable zoning requirements or any building permits necessary to gain compliance. &nbsp;</span>&nbsp;</strong></div>
+<div><strong><br></strong></div>
+<div><strong><span style="font-family:Arial;color:#000000;font-size:9pt;font-weight:400;font-style:normal;text-decoration:none;">RIGHT OF APPEAL: Receipt of this notice of Violation entitles the recipient to appeal the order to this department. Such petition must be in writing and filed within seven days after the day the order was received. Please refer to&nbsp;</span><span style="font-family:Calibri;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">105 CMR 410.800&nbsp;</span><span style="font-family:Arial;color:#000000;font-size:9pt;font-weight:400;font-style:normal;text-decoration:none;">et seq. for all rights and remedies in regard to this Notice.</span>&nbsp;</strong></div>
+<div>
+
+	<p style="page-break-before: always;"><strong><br></strong></p>
+</div>
+<div>
+	<br>
+</div>
+<div>{{/if}}</div>

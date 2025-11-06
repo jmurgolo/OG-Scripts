@@ -1,320 +1,1180 @@
-<table width="100%">
+<div>
+
+	<p>{{#if FF1035910_checked}}</p>
+</div>
+
+<table style="width: 100%; margin-left: calc(0%); min-width: 125px;">
+	<colgroup>
+		<col style="min-width: 25px;">
+			<col style="min-width: 25px;">
+				<col style="min-width: 25px;">
+					<col style="min-width: 25px;">
+						<col style="min-width: 25px;">
+	</colgroup>
 	<tbody>
 		<tr>
-			<td style="width: 83.5233%;">
+			<td colspan="1" rowspan="1" style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dii"></td>
+			<td colspan="3" rowspan="1" style="width: 74.6209%;">
+				<div style="text-align: center;">
 
-				<p style="text-align: center;"><span style="font-size: 30px;"><strong><u>Court Report</u></strong></span></p>
+					<p><span style="font-size: 30px;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></span></p>
+				</div>
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></span></p>
+				</div>
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104<br>TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></span></p>
+				</div>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p>
+					<br>
+				</p><img src="/assets/images/qrcode.jpg" alt="barcode" title="Barcode" style="width: 151px;" class="fr-fic fr-dii"></td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="width: 37.5709%;">
+
+				<p><strong>Owner information:<br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
 
 				<p>
 					<br>
 				</p>
 			</td>
-			<td style="width: 16.392%;">
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
 
-				<p><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode"></p>
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="width: 37.5735%;">
+
+				<p>{{#if FF1035925_checked}}{{FF1035720}}
+					<br>{{FF1035791}}{{/if}}
+					<br>{{#unless FF1035925_checked}}
+					<br>{{ownerName}}
+					<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}
+					<br>{{ownerCity}}, {{ownerState}} {{ownerZipCode}}{{/unless}}</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" rowspan="1" style="width: 67.3966%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" rowspan="1" style="width: 67.3966%;">
+
+				<p><strong>RE: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}<br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%; text-align: right;">
+
+				<p><strong>Parcel &nbsp;&nbsp;</strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><strong>{{mbl}}<br></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1" style="width: 9.9978%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 27.5758%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><strong><br></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" rowspan="1" style="width: 99.9153%; text-align: center;">
+
+				<p><span style="font-size: 18px;"><strong><span style="font-size: 18px;">ACCESS DEMAND</span></strong></span><span style="font-size: 14px;"><strong><span style="font-size: 14px;"><br></span></strong></span></p>
 			</td>
 		</tr>
 	</tbody>
 </table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}</span><span style="font-size: 14px;">&nbsp;{{FF1035694}}, {{city}}, {{state}} {{zipCode}}</span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}, phone {{#if FF1035950_checked}}(413) 787-6728{{/if}}{{#if FF1035951_checked}}(413) 886-5204{{/if}}{{#if FF1035952_checked}}(413) 787-7905{{/if}}{{#if FF1035953_checked}}(413) 750-2815{{/if}}{{#if FF1035954_checked}}(413) 787-6216{{/if}}{{#if FF1035955_checked}}(413) 886-5053{{/if}}{{#if FF1035956_checked}}(413)787-7316{{/if}}{{#if FF1035957_checked}}(413) 886-5051{{/if}}{{#if FF1035958_checked}}(413) 886-5054{{/if}}{{#if FF1037963_checked}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%); min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 99.9185%;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036151}} {{FF1036096}}<br></span></span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 100%;">
+
+					<p><span style="font-family: Arial; font-size: 11pt;"><strong><span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 11pt; font-weight: 700; font-style: normal; text-decoration: none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span></strong></span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+
+		<p>
+			<br>
+		</p>
+	</div>
+
+	<table style="width: 100%; min-width: 125px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+				<col style="min-width: 25px;">
+					<col style="min-width: 25px;">
+						<col style="min-width: 25px;">
+							<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dii"></td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Keith D. O&#39;Connor</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+					<div>{{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Deputy Director of Code Enforcement</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>Code Enforcement Inspector</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Housing Division</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>Inquiries Call (413) 736-3111</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>{{recordId}}</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>
+
+	<p>{{/if}}</p>
+</div>
 <div>
 
 	<p>
 		<br>
 	</p>
+</div>
 
-	<table style="width: 100%; margin-right: calc(0%);">
+<p>{{#if FF1035908_checked}}</p>
+
+<table style="width: 100%; margin-left: calc(0%); min-width: 125px;">
+	<colgroup>
+		<col style="min-width: 25px;">
+			<col style="min-width: 25px;">
+				<col style="min-width: 25px;">
+					<col style="min-width: 25px;">
+						<col style="min-width: 25px;">
+	</colgroup>
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="1" style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dii"></td>
+			<td colspan="3" rowspan="1" style="width: 74.6209%;">
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 30px;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></span></p>
+				</div>
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></span></p>
+				</div>
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></span></p>
+				</div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p>
+					<br>
+				</p><img src="/assets/images/qrcode.jpg" alt="barcode" title="Barcode" style="width: 151px;" class="fr-fic fr-dii"></td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="width: 37.5709%;">
+
+				<p><strong>Owner information:<br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="width: 37.5735%;">
+
+				<p>{{FF1035721}}</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" rowspan="1" style="width: 67.3966%;">
+
+				<p>{{{FF1035790}}}
+					<br><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" rowspan="1" style="width: 67.3966%;">
+
+				<p><strong>RE: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%; text-align: right;">
+
+				<p><strong>Parcel &nbsp;&nbsp;</strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><strong>{{mbl}}<br></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1" style="width: 9.9978%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 27.5758%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><strong><br></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" rowspan="1" style="width: 99.9153%; text-align: center;">
+
+				<p><span style="font-size: 18px;"><strong><span style="font-size: 18px;">ACCESS DEMAND</span></strong></span><span style="font-size: 14px;"><strong><span style="font-size: 14px;"><br></span></strong></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}</span><span style="font-size: 14px;">&nbsp;{{FF1035694}}, {{city}}, {{state}} {{zipCode}}</span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}, phone {{#if FF1035950_checked}}(413) 787-6728{{/if}}{{#if FF1035951_checked}}(413) 886-5204{{/if}}{{#if FF1035952_checked}}(413) 787-7905{{/if}}{{#if FF1035953_checked}}(413) 750-2815{{/if}}{{#if FF1035954_checked}}(413) 787-6216{{/if}}{{#if FF1035955_checked}}(413) 886-5053{{/if}}{{#if FF1035956_checked}}(413)787-7316{{/if}}{{#if FF1035957_checked}}(413) 886-5051{{/if}}{{#if FF1035958_checked}}(413) 886-5054{{/if}}{{#if FF1037963_checked}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%); min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
 		<tbody>
 			<tr>
-				<td style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/signature-steve_Tue_Apr_22_2025_06:22:33_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib"></td>
-				<td style="width: 2.7539%;">
-					<br>
+				<td colspan="1" rowspan="1" style="width: 99.9185%;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036151}} {{FF1036096}} <br></span></span></p>
 				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Steven Desilets
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{#if FF1026473}}David Markham{{/if}}{{#if FF1026472}}Thomas Kennedy{{/if}}{{#if FF1026474}}Abdul Mohammed{{/if}}{{#if FF1026475}}George Shaw{{/if}}{{#if FF1026471}}Matthew Goodchild{{/if}}{{#if FF1027316}}James Murgolo{{/if}}{{#if FF1037943}}Chris Nunez{{/if}}
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">Code Enforcement Commissioner
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">Building Inspector</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">
-					<br>
-				</td>
-			</tr>
-			<tr>
-				<td style="width: 22.6714%;">
-					<br>
-				</td>
-				<td style="width: 2.7539%;">
-					<br>
-				</td>
-				<td style="width: 45.401%; text-align: center;">
-					<br>
-				</td>
-				<td style="width: 2.7411%;">
-					<br>
-				</td>
-				<td style="width: 26.3591%;">{{currentDate}}</td>
 			</tr>
 		</tbody>
 	</table>
 
-	<table style="width: 100%;">
+	<table style="width: 100%; min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
 		<tbody>
 			<tr>
-				<td style="width: 33.3333%;">Date of Notification: {{currentDate}}</td>
-				<td style="width: 33.3333%;">Will Be Re-Inspected: {{FF1026536}}</td>
-				<td style="width: 33.3333%;">File -&nbsp;</td>
+				<td colspan="1" rowspan="1" style="width: 100%;">
+
+					<p><span style="font-family: Arial; font-size: 11pt;"><strong><span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 11pt; font-weight: 700; font-style: normal; text-decoration: none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span></strong></span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+
+		<p>
+			<br>
+		</p>
+	</div>
+
+	<table style="width: 100%; min-width: 125px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+				<col style="min-width: 25px;">
+					<col style="min-width: 25px;">
+						<col style="min-width: 25px;">
+							<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dii"></td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
 			</tr>
 			<tr>
-				<td style="width: 33.3333%;">Compliance: NO</td>
-				<td style="width: 33.3333%;">Ticket Issue Date: {{FF1036833}}</td>
-				<td style="width: 33.3333%;">Docket Number:&nbsp;</td>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Keith D. O&#39;Connor</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+					<div>{{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Deputy Director of Code Enforcement</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>Code Enforcement Inspector</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Housing Division</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>Inquiries Call (413) 736-3111</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>{{recordId}}</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 <div>
-	<br>
+
+	<p>{{/if}}</p>
+</div>
+<div>
+
+	<p>{{#if FF1035907_checked}}</p>
 </div>
 
-<table style="width: 100%; margin-right: calc(0%);">
+<table style="width: 100%; margin-left: calc(0%); min-width: 125px;">
+	<colgroup>
+		<col style="min-width: 25px;">
+			<col style="min-width: 25px;">
+				<col style="min-width: 25px;">
+					<col style="min-width: 25px;">
+						<col style="min-width: 25px;">
+	</colgroup>
 	<tbody>
 		<tr>
-			<td style="width: 25.0000%;">Complaint Location&nbsp;</td>
-			<td style="width: 61.0342%;">{{primaryLocation}}
-				<br>
+			<td colspan="1" rowspan="1" style="width: 9.9978%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dii"></td>
+			<td colspan="3" rowspan="1" style="width: 74.6209%;">
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 30px;"><strong><span style="font-size: 30px;">CITY OF SPRINGFIELD</span></strong></span></p>
+				</div>
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">INSPECTIONAL SERVICES DEPARTMENT</span></span></p>
+				</div>
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+				<div style="text-align: center;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">70 TAPLEY ST, SPRINGFIELD, MA 01104</span></span></p>
+				</div>
+
+				<p style="text-align: center;"><span style="font-size: 14px;"><span style="font-size: 14px;">TELEPHONE: (413) 787-6730, FAX: 413-886-5348</span></span></p>
+
+				<p style="text-align: center;">
+					<br>
+				</p>
 			</td>
-			<td style="width: 4.8317%;">Zone</td>
-			<td style="width: 9.0858%;">{{zoning}}
-				<br>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p>
+					<br>
+				</p><img src="/assets/images/qrcode.jpg" alt="barcode" title="Barcode" style="width: 151px;" class="fr-fic fr-dii"></td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="width: 37.5709%;">
+
+				<p><strong>Owner information:<br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p>
+					<br>
+				</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 25.0000%;">Date of Re-Inspection:
-				<br>
+			<td colspan="2" rowspan="1" style="width: 37.5735%;">
+
+				<p>{{FF1035722}}</p>
 			</td>
-			<td style="width: 61.0342%;">{{FF1022519}}
-				<br>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p>
+					<br>
+				</p>
 			</td>
-			<td style="width: 4.8317%;">Time:
-				<br>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
 			</td>
-			<td style="width: 9.0858%;">{{FF1022520}}
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 25.0000%;">Next Court Appearance:
-				<br>
-			</td>
-			<td style="width: 61.0342%;">{{FF1022517}}
-				<br>
-			</td>
-			<td style="width: 4.8317%;">
-				<br>
-			</td>
-			<td style="width: 9.0858%;">
-				<br>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 25.0000%;">Inspector(s):
-				<br>
+			<td colspan="3" rowspan="1" style="width: 67.3966%;">
+
+				<p>{{{FF1035789}}}
+					<br><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
 			</td>
-			<td style="width: 61.0342%;">{{FF1022524}}
-				<br>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p>
+					<br>
+				</p>
 			</td>
-			<td style="width: 4.8317%;">
-				<br>
-			</td>
-			<td style="width: 9.0858%;">
-				<br>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
 			</td>
 		</tr>
 		<tr>
-			<td style="width: 25.0000%;">
-				<br>Purpose:
-				<br>
+			<td colspan="3" rowspan="1" style="width: 67.3966%;">
+
+				<p><strong>RE: {{streetNo}} {{streetName}} {{FF1035694}}, {{city}}, {{state}} {{zipCode}}</strong></p>
 			</td>
-			<td style="width: 61.0342%;">
-				<br>
+			<td colspan="1" rowspan="1" style="width: 17.2417%; text-align: right;">
+
+				<p><strong>Parcel &nbsp;&nbsp;</strong></p>
 			</td>
-			<td style="width: 4.8317%;">
-				<br>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><strong>{{mbl}}<br></strong></p>
 			</td>
-			<td style="width: 9.0858%;">
-				<br>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="1" style="width: 9.9978%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 27.5758%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 29.8168%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 17.2417%;">
+
+				<p><strong><br></strong></p>
+			</td>
+			<td colspan="1" rowspan="1" style="width: 15.2955%;">
+
+				<p><strong><br></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="5" rowspan="1" style="width: 99.9153%; text-align: center;">
+
+				<p><span style="font-size: 18px;"><strong><span style="font-size: 18px;">ACCESS DEMAND</span></strong></span><span style="font-size: 14px;"><strong><span style="font-size: 14px;"><br></span></strong></span></p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 <div>
-	<br>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}</span><span style="font-size: 14px;">&nbsp;{{FF1035694}}, {{city}}, {{state}} {{zipCode}}</span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}, phone {{#if FF1035950_checked}}(413) 787-6728{{/if}}{{#if FF1035951_checked}}(413) 886-5204{{/if}}{{#if FF1035952_checked}}(413) 787-7905{{/if}}{{#if FF1035953_checked}}(413) 750-2815{{/if}}{{#if FF1035954_checked}}(413) 787-6216{{/if}}{{#if FF1035955_checked}}(413) 886-5053{{/if}}{{#if FF1035956_checked}}(413)787-7316{{/if}}{{#if FF1035957_checked}}(413) 886-5051{{/if}}{{#if FF1035958_checked}}(413) 886-5054{{/if}}{{#if FF1037963_checked}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span></p>
+
+	<p>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%); min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 99.9185%;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036151}} {{FF1036096}} <br></span></span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 100%;">
+
+					<p><span style="font-family: Arial; font-size: 11pt;"><strong><span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 11pt; font-weight: 700; font-style: normal; text-decoration: none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span></strong></span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+
+		<p>
+			<br>
+		</p>
+	</div>
+
+	<table style="width: 100%; min-width: 125px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+				<col style="min-width: 25px;">
+					<col style="min-width: 25px;">
+						<col style="min-width: 25px;">
+							<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dii"></td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Keith D. O&#39;Connor</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+					<div>{{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Deputy Director of Code Enforcement</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>Code Enforcement Inspector</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Housing Division</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>Inquiries Call (413) 736-3111</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>{{recordId}}</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>
+
+	<p>{{/if}}</p>
+</div>
+<div>
+
+	<p>
+		<br>
+	</p>
 </div>
 
-<table style="width: 100%; margin-right: calc(0%);">
-	<tbody>
-		<tr>
-			<td class="frcustomborder" style="width: 100.0000%;">{{{FF1022527}}}
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
+<p>
 	<br>
-</div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td colspan="2" style="width: 97.5941%;">Additional Information:</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%;">
-				<br>
-			</td>
-			<td style="width: 92.8681%;">
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022528_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022528_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;">
-				<div>Photographs</div>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022529_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022529_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Narrative</span>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022530_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022530_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Formal Report</span>
-				<br>
-			</td>
-		</tr>
-		<tr>
-			<td style="width: 2.3221%;">
-				<br>
-			</td>
-			<td style="width: 4.7272%; vertical-align: top;">
-				<div>{{#if FF1022531_checked}}<img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/checked_Thu_Mar_27_2025_14:56:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dib fr-fil">{{/if}} {{#unless FF1022531_checked}} <img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/unchecked_Thu_Mar_27_2025_14:56:46_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 28px;" class="fr-fic fr-dibAdditional Information: fr-fil fr-dib">{{/unless}}</div>
-			</td>
-			<td style="width: 92.8681%; vertical-align: middle;"><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Court Attendance Necessary</span>
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-</div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Inspector Findings:</span></div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td style="width: 100.0000%;">{{{FF1022532}}}
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<div>
-	<br>
-</div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">I {{FF1022524}}&nbsp;</span><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">have found the above report and attachments to be accurate and true, signed under pains and penalties of perjury this&nbsp;</span>{{FF1022519}}<span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">.</span></div>
-<div>
-	<br>
-</div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Project ID: {{projectId}}</span></div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Law Case ID: {{recordId}}</span></div>
-<div><span style="font-family:Arial;color:#000000;font-size:10pt;font-weight:400;font-style:normal;text-decoration:none;">Enf Case ID: {{FF1022518}}</span></div>
-<div>
-	<br>
-</div>
-<div>
-	<br>
-</div>
-
-<table style="width: 100%;">
-	<tbody>
-		<tr>
-			<td class="frcustomborder " style="width: 100.0000%;">{{{FF1022533}}}
-				<br>
-			</td>
-		</tr>
-	</tbody>
-</table>
+</p>

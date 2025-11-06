@@ -2,7 +2,7 @@ import re
 import os
 
 # Step 1: Define the output directory name
-output_directory = "elec ticket"  # You can change this name here
+output_directory = "elec vio"  # You can change this name here
 
 # Step 2: Create the output directory if it doesn't exist
 if not os.path.exists(output_directory):
@@ -30,6 +30,7 @@ FF1023094 = FF1023109
 FF1023154 = FF1023169
 FF1023231 = FF1023232
 FF1023242 = FF1023243
+MES1012183 = MES1012186
 OL1023229 = OL1023256
 FF1023253 = FF1023258
 FF1023255 = FF1023260
@@ -59,6 +60,7 @@ FF1023109 = FF1023124
 FF1023169 = FF1023184
 FF1023232 = FF1023233
 FF1023243 = FF1023244
+MES1012186 = MES1012188
 OL1023256 = OL1023261
 FF1023258 = FF1023262
 FF1023260 = FF1023265
@@ -88,6 +90,7 @@ FF1023124 = FF1023139
 FF1023184 = FF1023199
 FF1023233 = FF1023234
 FF1023244 = FF1023245
+MES1012188 = MES1012190
 OL1023261 = OL1023266
 FF1023262 = FF1023268
 FF1023265 = FF1023270
@@ -116,6 +119,7 @@ FF1023133 = FF1023148
 FF1023199 = FF1023214
 FF1023234 = FF1023235
 FF1023245 = FF1023246
+MES1012190 = MES1012192
 OL1023266 = OL1023271
 FF1023268 = FF1023273
 FF1023270 = FF1023275
@@ -143,6 +147,7 @@ FF1023151 = FF1023166
 FF1023148 = FF1023163
 FF1023235 = FF1023236
 FF1023246 = FF1023247
+MES1012192 = MES1012194
 OL1023271 = OL1023276
 FF1023273 = FF1023278
 FF1023275 = FF1023280
@@ -170,6 +175,7 @@ FF1023166 = FF1023181
 FF1023163 = FF1023178
 FF1023236 = FF1023237
 FF1023247 = FF1023248
+MES1012194 = MES1012196
 OL1023276 = OL1023281
 FF1023278 = FF1023283
 FF1023280 = FF1023285
@@ -197,6 +203,7 @@ FF1023181 = FF1023196
 FF1023178 = FF1023193
 FF1023237 = FF1023238
 FF1023248 = FF1023249
+MES1012196 = MES1012198
 OL1023281 = OL1023286
 FF1023283 = FF1023288
 FF1023285 = FF1023290
@@ -223,6 +230,7 @@ FF1023196 = FF1023211
 FF1023193 = FF1023208
 FF1023238 = FF1023239
 FF1023249 = FF1023250
+MES1012198 = MES1012200
 OL1023286 = OL1023291
 FF1023288 = FF1023293
 FF1023290 = FF1023295
@@ -248,6 +256,7 @@ FF1023211 = FF1023226
 FF1023208 = FF1023223
 FF1023239 = FF1023240
 FF1023250 = FF1023251
+MES1012200 = MES1012202
 OL1023291 = OL1023296
 FF1023293 = FF1023298
 FF1023295 = FF1023300
@@ -261,6 +270,12 @@ NINTH STOP WORK NOTICE = TENTH STOP WORK NOTICE
 # Step 4: Parse the mappings into an ordered list of dictionaries
 mappings = []
 current_mapping = {}
+
+def strip_html(text):
+    """Strips basic HTML tags (e.g., <tag>content</tag>) from a string."""
+    # This regex finds anything between '<' and '>' and replaces it with an empty string
+    return re.sub(r'<[^>]*>', '', text).strip()
+
 for line in mapping_text.strip().splitlines():
     line = line.strip()
     if line.startswith('#'):
@@ -270,7 +285,7 @@ for line in mapping_text.strip().splitlines():
         continue
     parts = line.split('=')
     if len(parts) == 2:
-        left = parts[0].strip().replace('\u200b', '')
+        left = strip_html(parts[0].strip().replace('\u200b', ''))
         right = parts[1].strip().replace('\u200b', '')
         current_mapping[left] = right
 if current_mapping:

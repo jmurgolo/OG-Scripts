@@ -1,3 +1,108 @@
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></div>
+			</td>
+			<td colspan="3" style="width: 68.9518%;">
+				<div style="text-align: center;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-size: 24px; font-weight: 400; font-style: normal; text-decoration: none;'><strong>City of Springfield</strong></span></div>
+
+				<p style="text-align: center; padding: 0pt;"><strong>DEPARTMENT OF PUBLIC WORKS <br></strong></p>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-family:Times New Roman;color:#000000;font-size:11pt;font-weight:400;font-style:normal;text-decoration:none;">70 Tapley St.<br>Springfield, MA 01104<br></span></p>
+			</td>
+			<td style="width: 15.2973%;">
+
+				<p><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;">
+				<br>
+			</td>
+			<td style="width: 19.7189%;"><strong><br></strong></td>
+			<td style="width: 27.3167%;">
+				<div style="text-align: right;">Date:</div>
+			</td>
+			<td style="width: 15.2973%;"><strong>&nbsp;</strong>{{currentDate}}</td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%;"><span style="color: rgb(0, 0, 0); font-size: 14px;">{{#if FF1038563_checked}}{{FF1038562}}<br>{{FF1038568}}{{/if}}</span>
+				<br>{{#unless FF1038563_checked}}<span style="font-size: 14px;"><br><span style="color: rgb(0, 0, 0);">{{ownerName}}<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}</span></span>{{/unless}}
+				<br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 57.3003%;"><strong><span style='font-size: 12px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</span></strong></td>
+			<td style="width: 27.3167%; text-align: right; vertical-align: top;"><span style="font-size: 12px;">Parcel: &nbsp;</span></td>
+			<td style="width: 15.2973%; text-align: left; vertical-align: top;"><span style="font-size: 12px;">{{mbl}}</span></td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;"><strong><br></strong></td>
+			<td style="width: 21.8933%;"><strong><br></strong></td>
+			<td style="width: 19.7189%;"><strong><br></strong></td>
+			<td style="width: 27.3167%; text-align: right;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>DPW Violation Number:&nbsp;</span></td>
+			<td style="width: 15.2973%;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>{{recordId}}<strong><br></strong></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><u><strong>VIOLATION OF THROWING SNOW OR ICE INTO STREETS ORDINANCE</strong></u><br><br></span></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">As a result of an inspection that was performed in and around the above property on Tuesday, February 18, 2025, it was determined that either you, a representative of yours, or a paid or unpaid contractor, removed snow or ice from your property and deposited it within the public way in violation of City Ordinance Chapter 322 Section 5. This violation has created a safety issue or has caused a hardship to impacted properties. Property records indicate that you are the party responsible for this property either by ownership, occupation or control.<br><br>By and through this letter you are ordered to immediately remove the snow and / or ice that was placed in the public way and return it to your property prior to Wednesday, February 26, 2025. Please be advised that if the snow and / or ice is not removed, a second violation with an increased fine will be sent at the end of seven days. The attached pages show photos of the violation.<br><br><strong><span style="color: rgb(184, 49, 47);">DUE TO THIS VIOLATION YOU ARE BEING FINED ${{FF1038561}}.00</span></strong>
+				<br>
+				<br>
+				</span></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<br>
+</div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Certified Letter Information</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Date Sent</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Recipient</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Certified Number</span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038557}}}</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038558}}}</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038559}}}</span></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+	<div><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/chris_signoli_sig_Thu_Nov_13_2025_21:14:19_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dib fr-fil"></div>
+
+	<p>Christopher M. Cignoli, P.E.
+		<br>Director, Department of Public Works</p>
+	<div>
+		<br>
+	</div></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><u>APPLICABLE ORDINANCE<br></u></strong><br>BE IT ORDAINED BY THE COUNCIL OF THE CITY OF SPRINGFIELD, AS FOLLOWS:<br>Section 5 of Chapter 322, Throwing snow and ice into the streets, of the Code of the City of Springfield, is hereby amended by deleting the section in its entirety and inserting the following:<br><br>A. &nbsp; &nbsp;No person, including but not limited to paid or unpaid contractors, property owners, or tenants, shall throw or put, or cause to be thrown or put, any snow or ice into any street in the City or upon any public way. This section shall apply at all times and is not restricted to specific periods following snow events.<br><br>B. &nbsp; &nbsp; This section shall not apply if the Building Commissioner orders the removal of snow or ice from structures adjacent to the public way and a permit is obtained from the Department of Public Works under the provisions of Chapter 369 of the Acts of 1911.<br><br>C. &nbsp; &nbsp; Any person who removes snow or ice and places the snow or ice around or over fire hydrants, into snow piles that result in dangerous driving, biking or pedestrian sight distance issues, in a manner that narrows on-street parking or drive lanes, or in any other manner that creates a hazard to the general public will be in violation of this section.<br><br>D. &nbsp; &nbsp;The property owner will be liable for any fines incurred as a result of violations of this section.<br><br>E. &nbsp; &nbsp; If a property owner receives a fine for violation of this section, it is the property owner&rsquo;s responsibility to remove all snow and ice placed within the public way immediately. &nbsp;If the property owner fails to address the violation within 7 days, a second fine for violation will be issued in accordance with subsection F hereunder. Any additional violations will be issued in seven (7) day increments in accordance with subsection F hereunder until the violation is addressed.</span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br>F. &nbsp; &nbsp; &nbsp;A property owner in violation of any provision of this section may be subject to a fine of $100.00. If a second violation occurs within the same fiscal year, a fine of $200.00 may be issued. If three or more violations occur within the same fiscal year, a fine of $300.00 may be issued for each subsequent violation. The provisions of G.L. c. 40, s. 21D may be used to enforce this section.&nbsp;</span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+
+<p style="page-break-before: always;">
+	<br>
+</p>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;"><u><strong><span style='font-size: 12px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</span></strong></u></span></span></span></div>
+<div>
+	<br>
+</div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;"><u>VIOLATIONS</u><u>:</u></span></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;"><u>{{{FF1038555}}}</u></span></span></span></div>
+
+<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
 <div>
 	<br>
 </div>
@@ -5,111 +110,97 @@
 <table border="1" cellpadding="5" cellspacing="0" style="margin-right: calc(0%); width: 100%;" width="100%">
 	<tbody>
 		<tr>
-			<td style="width: 17.1457%;" width="20%"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/bestseal_Wed_Apr_23_2025_15:23:31_GMT+0000_(Coordinated_Universal_Time).jpg" width="100" class="fr-fic fr-dii" style="width: 110px;"></td>
-			<td colspan="4" style="width: 47.1168%;" width="55%"><strong><span style="font-size: 14px;">CITY OF SPRINGFIELD</span></strong>
-				<br><span style="font-size: 12px;">HOUSING CODE ENFORCEMENT<br>70 TAPLEY ST, SPRINGFIELD, MA 01104<br>TELEPHONE: (413) 736-3111, TTY: 413-787-6641<br>website: <a href="https://www.springfield-ma.gov/code/">https://www.springfield-ma.gov/code/</a></span>
-				<br><span style="font-size: 14px;"><strong>FIRST VIOLATION TICKET:</strong></span>
-				<br><span style="font-size: 12px;">Violation of City Ordinance, Rule or Regulation,<br>or Violation of the State &amp; Building Sanitary Code.</span></td>
+			<td style="width: 12.0898%;" width="20%"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/bestseal_Wed_Apr_23_2025_15:23:31_GMT+0000_(Coordinated_Universal_Time).jpg" width="100" class="fr-fic fr-dii" style="width: 116px;"></td>
+			<td colspan="4" style="width: 52.1561%;" width="55%"><strong><span style='font-size: 14px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>CITY OF SPRINGFIELD</span></strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><span style="font-size: 12px;">DEPARTMENT OF PUBLIC WORKS<br>70 TAPLEY ST, SPRINGFIELD, MA 01104</span></span><span style="font-size: 12px;"><br></span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">Phone: (413) 787-6260<br>website: <a href="https://www.springfield-ma.gov/code/">https://www.springfield-ma.gov/dpw/</a></span></span>
+				<br><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span><span style="font-size: 14px;"><strong>VIOLATION TICKET:</strong></span>
+				<br>
+				</span><span style='font-size: 12px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Violation of City Ordinance, Rule or Regulation,<br>or Violation of the State &amp; Building Sanitary Code.</span></td>
 			<td align="right" style="width: 21.4032%; text-align: right;" valign="top" width="25%">
-				<div data-empty="true" style="text-align: left;"><strong><span style="font-size: 12px;">INVOICE</span></strong></div>
-				<div data-empty="true" style="text-align: left;"><strong><span style="font-size: 12px;">Record Number: {{recordId}}</span></strong></div>
-				<div data-empty="true" style="text-align: left;"><strong><span style="font-size: 11px;">Recipient Copy</span></strong></div>
-				<div data-empty="true" style="text-align: right;">
-					<br>
-				</div>
-				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;">Invoice Date: {{currentDate}}</span></div>
-				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;"><span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Invoice Total Due: $<span style="font-size: 12px;">{{FF1022366}}</span></span></span></div>
+				<div data-empty="true" style="text-align: left;"><strong><span style='font-size: 12px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>INVOICE</span></strong></div>
+				<div data-empty="true" style="text-align: left;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">Record Number: {{recordId}}</span></strong></span></div>
+				<div data-empty="true" style="text-align: left;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 11px;">Recipient Copy</span></strong></span></div>
+				<div data-empty="true" style="text-align: right;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
+				<div data-empty="true" style="text-align: left;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">Invoice Date: {{currentDate}}</span></span></div>
+				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;"><span style='color: rgb(65, 65, 65); font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;'>Invoice Total Due: ${{</span><span style='font-size: 12px;color: rgb(0, 0, 0); font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;'><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">FF1038561</span></span><span style='color: rgb(65, 65, 65); font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;'>}}.00</span></span></div>
 			</td>
 			<td style="width: 14.2857%;">
-				<a href="https://springfieldma.portal.opengov.com/categories/1084/record-types/1006587"><img alt="barcode" class="fr-dii fr-fil" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 204px;"></a><strong>Scan to Pay Online</strong></td>
+				<div style="text-align: center;">
+					<a href="https://springfieldma.portal.opengov.com/categories/1084/record-types/1006543"><img alt="barcode" class="fr-dii fr-fil" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 204px;"></a><strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>Scan to Pay Online</span></strong></div>
+			</td>
 		</tr>
 		<tr>
 			<td colspan="3" style="width: 53.0718%;">
-				<br>{{ownerName}}
-				<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}
-				<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}</td>
-			<td align="right" colspan="4" style="text-align: right; vertical-align: top; width: 46.8757%;"><span style="font-size: 12px;">Please put Record Number on your check.<br><strong>Make Checks Payable to: City of Springfield</strong></span></td>
+				<div style="text-align: left;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><span style="color: rgb(0, 0, 0); font-size: 14px;">{{#if FF1038563_checked}}{{FF1038562}}<br>{{FF1038568}}{{/if}}</span>
+					<br>{{#unless FF1038563_checked}}<span style="font-size: 14px;"><br><span style="color: rgb(0, 0, 0);">{{ownerName}}<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}</span></span>{{/unless}}</span></div>
+				<div style="text-align: left;">
+					<br>
+				</div>
+			</td>
+			<td align="right" colspan="4" style="text-align: right; vertical-align: top; width: 46.8757%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">Please put Record Number on your check.<br><strong>Make Checks Payable to: City of Springfield</strong></span></span></td>
 		</tr>
 		<tr>
 			<td colspan="4" style="vertical-align: bottom; width: 62.6359%;">
 				<br>
+				<br>
 			</td>
 			<td colspan="3" style="vertical-align: middle; width: 37.3126%;">
-				<div data-empty="true" style="text-align: right;"><strong><span style="font-size: 14px;">INVOICE</span></strong></div>
-				<div style="text-align: right;"><strong><span style="font-size: 12px;">Recipient Copy</span></strong></div>
-				<div style="text-align: right;">
-					<br>
-				</div>
+				<div data-empty="true" style="text-align: right;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">INVOICE</span></strong></span></div>
+				<div style="text-align: right;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">Recipient Copy</span></strong></span></div>
 			</td>
 		</tr>
 	</tbody>
 </table>
-<div><strong><span style="font-size: 12px;">Remit Payment to:&nbsp;</span></strong><span style="font-size: 12px;"><strong>City Clerk&#39;s Office</strong>, City Hall - Suite 123, 36 Court Street, Springfield, MA 01103</span></div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">Remit Payment to:&nbsp;</span></strong><span style="font-size: 12px;"><strong>City Clerk&#39;s Office</strong>, City Hall - Suite 123, 36 Court Street, Springfield, MA 01103</span></span></div>
 <div>
-	<!-- Invoice details -->
-	<br>
-</div>
+	<!-- Invoice details --><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
 
 <table border="1" cellpadding="5" cellspacing="0" width="100%">
 	<tbody>
 		<tr style="background-color: #444444; color: white;">
-			<td style="width: 21.8965%;">
-				<br>
-			</td>
-			<td style="width: 21.585%; text-align: center;">
-				<br>
-			</td>
-			<td style="text-align: center; width: 22.2406%;">
-				<br>
-			</td>
-			<td style="text-align: center; width: 34.2477%;">
-				<br>
-			</td>
+			<td style="width: 21.887%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">CUSTOMER</span></strong></span></td>
+			<td style="width: 21.6247%; text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>INVOICE DATE</strong></span></span></td>
+			<td style="text-align: center; width: 22.2406%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>DUE DATE</strong></span></span></td>
+			<td style="text-align: center; width: 34.2477%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>INVOICE TOTAL DUE</strong></span></span></td>
 		</tr>
 		<tr>
-			<td style="width: 21.8965%;">{{ownerName}}<span style="font-size: 12px;"><br></span></td>
-			<td style="width: 21.585%; text-align: center;"><span style="font-size: 12px;">{{currentDate}}</span></td>
-			<td style="text-align: center; width: 22.2406%;"><span style="font-size: 12px;">{{FF1022424}}</span></td>
-			<td style="text-align: center; width: 34.2477%;"><span style="font-size: 12px;">{{FF1022366}}</span></td>
+			<td style="width: 21.887%;"><span style='scroll-behavior: auto !important; box-sizing: border-box; font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0);'>{{#if FF1038563_checked}}{{FF1038562}}<br style="scroll-behavior: auto !important; box-sizing: border-box;">{{/if}}</span>
+				<br style="scroll-behavior: auto !important; box-sizing: border-box; color: rgb(65, 65, 65); font-family: &quot;Times New Roman&quot;, Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span style='color: rgb(65, 65, 65); font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>{{#unless FF1038563_checked}}</span>
+				<br style="scroll-behavior: auto !important; box-sizing: border-box; color: rgb(65, 65, 65); font-family: &quot;Times New Roman&quot;, Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span style='scroll-behavior: auto !important; box-sizing: border-box; font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0);'>{{ownerName}}{{/unless}}</span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></td>
+			<td style="width: 21.6247%; text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">{{currentDate}}</span></span></td>
+			<td style="text-align: center; width: 22.2406%;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>{{FF1038575}}</span>
+				<br>
+			</td>
+			<td style="text-align: center; width: 34.2477%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">$<span style="font-size: 12px;"><span style='font-size: 12px;color: rgb(0, 0, 0); font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;'><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{FF1038561}}</span></span></span>.00</span></span></td>
 		</tr>
 	</tbody>
 </table>
-<div><span style="font-size: 12px;"><br></span></div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></div>
 
 <table border="1" cellpadding="5" cellspacing="0" style="margin-right: calc(0%); width: 100%;" width="100%">
 	<tbody>
 		<tr style="background-color: #444444; color: white;">
-			<td style="width: 100%;"><span style="font-size: 12px;"><strong>DESCRIPTION</strong></span></td>
+			<td style="width: 100%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>DESCRIPTION</strong></span></span></td>
 		</tr>
 		<tr>
-			<td style="width: 100%;">{{{OL1022364}}}
-				<br>
-			</td>
+			<td style="width: 100%;"><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>{{{</span>FF1038555<span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'>}}}</span></td>
 		</tr>
 	</tbody>
 </table>
-<div>
-	<br>
-</div>
-<div>
-	<br>
-</div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
 
 <table border="1" cellpadding="5" cellspacing="0" width="100%">
 	<tbody>
 		<tr style="background-color: #444444; color: white;">
 			<td>
-				<div style="text-align: right;">
-					<br>
-				</div>
+				<div style="text-align: right;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
 			</td>
-			<td align="right" style="width: 18.8054%;"><strong><span style="font-size: 12px;">Invoice Total &nbsp;</span></strong></td>
+			<td align="right" style="width: 18.8054%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">Invoice Total &nbsp;</span></strong></span></td>
 			<td align="right" style="width: 18.8054%; background-color: rgb(50, 50, 50);">
 
 				<table border="1" cellpadding="5" cellspacing="0" width="100%">
 					<tbody>
 						<tr>
-							<td style="text-align: center; width: 34.2477%;"><span style="font-size: 12px;">{{FF1022366}}</span></td>
+							<td style="text-align: center; width: 34.2477%;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">${{FF1035803}}.00</span></span></td>
 						</tr>
 					</tbody>
 				</table>
@@ -117,19 +208,12 @@
 		</tr>
 	</tbody>
 </table>
-<div style="text-align: center;">
-	<br>
-</div>
-<div style="text-align: center;"><span style="font-size: 12px;">Failure to pay the ticket within 21 days, or appeal as set out below, may result in</span></div>
-<div style="text-align: center;"><span style="font-size: 12px;">the cost of the ticket plus filing fees being added to your tax bill.</span></div>
-<div style="text-align: left;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong></span></div>
-<div style="text-align: left;"><span style="font-size: 14px;"><strong>{{currentDate}}</strong></span></div>
-<div style="text-align: left;"><span style="font-size: 14px;"><strong>INSPECTOR NAME <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;">{{#if FF1022396}}David Markham{{/if}}{{#if FF1022395}}Thomas Kennedy{{/if}}{{#if FF1022397}}Abdul Mohammed{{/if}}{{#if FF1022398}}George Shaw{{/if}}{{#if FF1022394}}Matthew Goodchild{{/if}}</span>,</strong></span></div>
-<div style="text-align: left;"><span style="font-size: 14px;"><strong>HOUSING INSPECTOR</strong></span></div>
-<div style="text-align: left;"><strong><span style="font-size: 14px;">INSPECTOR PHONE</span></strong><strong>&nbsp;<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="color: rgb(0, 0, 0);">&nbsp;</span></span></strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><strong>{{#if FF1022396}}(413) 750-2088 {{/if}}{{#if FF1022395}}(413) 886-5202{{/if}}{{#if FF1022397}}(413) 886-5345{{/if}}{{#if FF1022398}}</strong></span></span></span></span><strong>(413) 787-7660</strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><strong>{{/if}}{{#if FF1022394}}(413) 886-5083</strong></span></span></span></span></div>
-<div>
-	<br>
-</div>
+<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
+<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">Failure to pay the ticket within 21 days, or appeal as set out below, may result in</span></span></div>
+<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;">the cost of the ticket plus filing fees being added to your tax bill.</span></span></div>
+<div style="text-align: left;"><strong><span style='font-size: 12px; font-family: "Times New Roman", Times, serif, -webkit-standard;'>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</span></strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard; font-size: 12px;'><strong><br></strong></span><span style="font-size: 12px;"><strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Parcel: &nbsp;</span></strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'><strong>{{mbl}}</strong></span></span></div>
+<div style="text-align: left;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>{{currentDate}}</strong></span></span></div>
+<div><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
 
 <table border="0" cellpadding="0" cellspacing="10" width="100%">
 	<tbody>
@@ -140,16 +224,16 @@
 				<table border="0" cellpadding="0" cellspacing="0" width="100%">
 					<tbody>
 						<tr>
-							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><strong><span style="font-size: 12px;">1)</span></strong><span style="font-size: 12px;">&nbsp;You may choose to pay the above fine, either by appearing in person at the address below, between 10:00 AM &ndash; 4:00 PM, Monday &ndash; Friday, or by mailing a check or money order or postal notice, and enclosing a copy of this citation <strong>WITHIN 21 DAYS OF THIS NOTICE TO:</strong></span></td>
+							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">1)</span></strong><span style="font-size: 12px;">&nbsp;You may choose to pay the above fine, either by appearing in person at the address below, between 10:00 AM &ndash; 4:00 PM, Monday &ndash; Friday, or by mailing a check or money order or postal notice, and enclosing a copy of this citation <strong>WITHIN 21 DAYS OF THIS NOTICE TO:</strong></span></span></td>
 						</tr>
 						<tr>
-							<td style="height: 10px;"><span style="font-size: 12px;"><br></span></td>
+							<td style="height: 10px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></td>
 						</tr>
 						<tr>
 							<td bgcolor="#ffffff" style="height: 60px; font-size: 11px; vertical-align: top;">
-								<div style="text-align: center;"><span style="font-size: 12px;"><br></span></div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><strong>CITY CLERK<br>36 COURT ST<br>&nbsp;SPRINGFIELD, MA 01103</strong></span></div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><br></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>CITY CLERK<br>36 COURT ST<br>&nbsp;SPRINGFIELD, MA 01103</strong></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></div>
 							</td>
 						</tr>
 					</tbody>
@@ -161,22 +245,22 @@
 				<table border="0" cellpadding="0" cellspacing="0" style="margin-left: calc(0%); width: 100%;" width="100%">
 					<tbody>
 						<tr>
-							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><span style="font-size: 12px;"><strong>2)</strong> If you desire to contest this matter, you may do so by making a written request for a non-criminal hearing, and enclosing a copy of this citation <strong>WITHIN 21 DAYS OF THIS NOTICE TO:</strong></span>
+							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>2)</strong> If you desire to contest this matter, you may do so by making a written request for a non-criminal hearing, and enclosing a copy of this citation <strong>WITHIN 21 DAYS OF THIS NOTICE TO:</strong></span>
 								<br>
 								<br>
-							</td>
+								</span></td>
 						</tr>
 						<tr>
-							<td style="height: 10px;"><span style="font-size: 12px;"><br></span></td>
+							<td style="height: 10px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></td>
 						</tr>
 						<tr>
 							<td bgcolor="#ffffff" style="height: 60px; font-size: 11px; vertical-align: top;">
-								<div style="text-align: center;"><span style="font-size: 12px;"><strong>CLERK - MAGISTRATE</strong></span></div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><strong>HOUSING COURT DEPT</strong></span></div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><strong>HAMPDEN COUNTY DIVISION</strong></span></div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><strong>37 ELM ST. P.O. BOX 559</strong></span></div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><strong>SPRINGFIELD, MA 01103</strong></span></div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><strong>ATTN:21D Non-Criminal Hearings</strong></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>CLERK - MAGISTRATE</strong></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>HOUSING COURT DEPT</strong></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>HAMPDEN COUNTY DIVISION</strong></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>37 ELM ST. P.O. BOX 559</strong></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>SPRINGFIELD, MA 01103</strong></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>ATTN:21D Non-Criminal Hearings</strong></span></span></div>
 							</td>
 						</tr>
 					</tbody>
@@ -188,27 +272,19 @@
 				<table border="0" cellpadding="0" cellspacing="0" width="100%">
 					<tbody>
 						<tr>
-							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><span style="font-size: 12px;"><strong>3)</strong> During the 21-day period, you may appeal this action to the Department Head, in writing to the address below, and enclosing a copy of this citation.</span></td>
+							<td bgcolor="#ffffff" style="padding: 10px; font-size: 11px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><strong>3)</strong> During the 21-day period, you may appeal this action to the Department Head, in writing to the address below, and enclosing a copy of this citation.</span></span></td>
 						</tr>
 						<tr>
-							<td style="height: 10px;"><span style="font-size: 12px;"><br></span></td>
+							<td style="height: 10px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></td>
 						</tr>
 						<tr>
 							<td bgcolor="#ffffff" style="height: 60px; font-size: 11px; vertical-align: top;">
-								<div style="text-align: center;">
-									<br>
-								</div>
-								<div style="text-align: center;">
-									<br>
-								</div>
-								<div style="text-align: center;"><span style="font-size: 12px;"><br></span></div>
-								<div style="text-align: center;"><strong><span style="font-size: 12px;">BUILDING DIVISION<br>&nbsp;INSPECTIONAL SERVICES<br>&nbsp;70 TA</span>PLEY STREET</strong><strong><br>&nbsp;SPRINGFIELD, MA 01104</strong></div>
-								<div style="text-align: center;">
-									<br>
-								</div>
-								<div style="text-align: center;">
-									<br>
-								</div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-size: 12px;"><br></span></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style="font-size: 12px;">CODE ENFORCEMENT - HOUSING DIVISION<br>&nbsp;INSPECTIONAL SERVICES<br>&nbsp;70 TA</span>PLEY STREET</strong><strong><br>&nbsp;SPRINGFIELD, MA 01104</strong></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
+								<div style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></div>
 							</td>
 						</tr>
 					</tbody>
@@ -218,6 +294,254 @@
 	</tbody>
 </table>
 
-<p style="text-align: left;"><span style="white-space: normal; font-size: 11px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="white-space: normal; font-size: 12px;">&nbsp;&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="white-space: normal; font-size: 12px;">Recipient Copy</span></span></p>
 
-<p style="text-align: center;"><span style="white-space: normal; font-size: 12px;">&nbsp;Recipient Copy</span></p>
+<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width: 99.9391%; text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(255, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">VIOLATIONS</span>
+				<br>
+				</span></span></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 61.6484%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</strong></span></span></td>
+			<td style="width: 38.2908%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'>Parcel</span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">: <strong>{{mbl}}</strong></span></strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><strong>DPW Violation Number</strong>:</span><strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'>: {{recordId}}</span></strong></span></span></td>
+		</tr>
+	</tbody>
+</table>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{#if FF1038564_checked}}</span></span></div>
+
+<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></span></span></div>
+			</td>
+			<td colspan="3" style="width: 68.9518%;">
+				<div style="text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;'><strong>City of Springfield</strong></span></span></span></div>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>DEPARTMENT OF PUBLIC WORKS <br></strong></span></span></p>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;'>70 Tapley St.<br>Springfield, MA 01104<br></span></span></span></p>
+			</td>
+			<td style="width: 15.2973%;">
+
+				<p><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+			<td style="width: 27.4198%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 19.6348%;">
+				<div style="text-align: right;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Date:</span></span></div>
+			</td>
+			<td style="width: 15.2973%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;</strong>{{currentDate}}</span></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0);">{{#if FF1038563_checked}}{{FF1038562}}<br>{{FF1038568}}{{/if}}</span>
+				<br>{{#unless FF1038563_checked}}
+				<br><span style="color: rgb(0, 0, 0);">{{ownerName}}<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}</span>{{/unless}}
+				<br>
+				<br>
+				</span></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 65.0062%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</strong></span></span></td>
+			<td style="width: 19.6348%; text-align: right; vertical-align: top;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Parcel: &nbsp;</span></span></td>
+			<td style="width: 15.2973%; text-align: left; vertical-align: top;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{mbl}}</span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 21.8933%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 27.4198%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 19.6348%; text-align: right;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DPW Violation Number:&nbsp;</span></span></td>
+			<td style="width: 15.2973%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{recordId}}<strong><br></strong></span></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><u><strong>VIOLATION OF THROWING SNOW OR ICE INTO STREETS ORDINANCE</strong></u><br><br></span></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">As a result of an inspection that was performed in and around the above property on Tuesday, February 18, 2025, it was determined that either you, a representative of yours, or a paid or unpaid contractor, removed snow or ice from your property and deposited it within the public way in violation of City Ordinance Chapter 322 Section 5. This violation has created a safety issue or has caused a hardship to impacted properties. Property records indicate that you are the party responsible for this property either by ownership, occupation or control.<br><br>By and through this letter you are ordered to immediately remove the snow and / or ice that was placed in the public way and return it to your property prior to Wednesday, February 26, 2025. Please be advised that if the snow and / or ice is not removed, a second violation with an increased fine will be sent at the end of seven days. The attached pages show photos of the violation.<br><br><strong><span style="color: rgb(184, 49, 47);">DUE TO THIS VIOLATION YOU ARE BEING FINED ${{FF1038561}}.00</span></strong>
+				<br>
+				<br>
+				</span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Certified Letter Information</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Date Sent</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Recipient</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Certified Number</span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038557}}}</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038558}}}</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038559}}}</span></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p style="page-break-before: always;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/chris_signoli_sig_Thu_Nov_13_2025_21:14:19_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dii"></p>
+	<div>Christopher M. Cignoli, P.E.
+		<br>Director, Department of Public Works</div>
+
+	<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+</div>
+
+<p style="page-break-after: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><u>APPLICABLE ORDINANCE<br></u></strong><br>BE IT ORDAINED BY THE COUNCIL OF THE CITY OF SPRINGFIELD, AS FOLLOWS:<br>Section 5 of Chapter 322, Throwing snow and ice into the streets, of the Code of the City of Springfield, is hereby amended by deleting the section in its entirety and inserting the following:<br><br>A. &nbsp; &nbsp;No person, including but not limited to paid or unpaid contractors, property owners, or tenants, shall throw or put, or cause to be thrown or put, any snow or ice into any street in the City or upon any public way. This section shall apply at all times and is not restricted to specific periods following snow events.<br><br>B. &nbsp; &nbsp; This section shall not apply if the Building Commissioner orders the removal of snow or ice from structures adjacent to the public way and a permit is obtained from the Department of Public Works under the provisions of Chapter 369 of the Acts of 1911.<br><br>C. &nbsp; &nbsp; Any person who removes snow or ice and places the snow or ice around or over fire hydrants, into snow piles that result in dangerous driving, biking or pedestrian sight distance issues, in a manner that narrows on-street parking or drive lanes, or in any other manner that creates a hazard to the general public will be in violation of this section.<br><br>D. &nbsp; &nbsp;The property owner will be liable for any fines incurred as a result of violations of this section.<br><br>E. &nbsp; &nbsp; If a property owner receives a fine for violation of this section, it is the property owner&rsquo;s responsibility to remove all snow and ice placed within the public way immediately. &nbsp;If the property owner fails to address the violation within 7 days, a second fine for violation will be issued in accordance with subsection F hereunder. Any additional violations will be issued in seven (7) day increments in accordance with subsection F hereunder until the violation is addressed.</span></span></p>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br>F. &nbsp; &nbsp; &nbsp;A property owner in violation of any provision of this section may be subject to a fine of $100.00. If a second violation occurs within the same fiscal year, a fine of $200.00 may be issued. If three or more violations occur within the same fiscal year, a fine of $300.00 may be issued for each subsequent violation. The provisions of G.L. c. 40, s. 21D may be used to enforce this section.&nbsp;</span></span></div>
+
+<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width: 99.9391%; text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(255, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">VIOLATIONS</span>
+				<br>
+				</span></span></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 61.6484%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</strong></span></span></td>
+			<td style="width: 38.2908%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'>Parcel</span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">: <strong>{{mbl}}</strong></span></strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><strong>DPW Violation Number</strong>:</span><strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'>: {{recordId}}</span></strong></span></span></td>
+		</tr>
+	</tbody>
+</table>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;"><u>VIOLATIONS</u><u>:</u></span></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;"><u>{{{FF1038555}}}</u></span></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{/if}} {{#if FF1038565_checked}}</span></span></div>
+
+<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+
+<table style="width: 100%; margin-left: calc(0%);">
+	<tbody>
+		<tr>
+			<td style="width: 15.6939%;">
+				<div style="text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/city_seal_LG_blue-vector_Mon_Mar_17_2025_20:44:12_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 126px;" class="fr-fic fr-dib"></strong></span></span></div>
+			</td>
+			<td colspan="3" style="width: 68.9518%;">
+				<div style="text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;'><strong>City of Springfield</strong></span></span></span></div>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>DEPARTMENT OF PUBLIC WORKS <br></strong></span></span></p>
+
+				<p style="text-align: center; padding: 0pt;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style='font-family: "Times New Roman"; color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;'>70 Tapley St.<br>Springfield, MA 01104<br></span></span></span></p>
+			</td>
+			<td style="width: 15.2973%;">
+
+				<p><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><img alt="barcode" class="fr-fir fr-dii" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 151px;"></strong></span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 37.5709%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+			<td style="width: 27.4198%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 19.6348%;">
+				<div style="text-align: right;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Date:</span></span></div>
+			</td>
+			<td style="width: 15.2973%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>&nbsp;</strong>{{currentDate}}</span></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="color: rgb(0, 0, 0);">{{#if FF1038563_checked}}{{FF1038562}}<br>{{FF1038568}}{{/if}}</span>
+				<br>{{#unless FF1038563_checked}}
+				<br><span style="color: rgb(0, 0, 0);">{{ownerName}}<br>{{ownerStreetNo}} {{ownerStreetName}} {{ownerUnit}}<br>{{ownerCity}},{{ownerState}} {{ownerZipCode}}</span>{{/unless}}
+				<br>
+				<br>
+				</span></span></td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 65.0062%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</strong></span></span></td>
+			<td style="width: 19.6348%; text-align: right; vertical-align: top;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Parcel: &nbsp;</span></span></td>
+			<td style="width: 15.2973%; text-align: left; vertical-align: top;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{mbl}}</span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 15.6939%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 21.8933%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 27.4198%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><br></strong></span></span></td>
+			<td style="width: 19.6348%; text-align: right;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">DPW Violation Number:&nbsp;</span></span></td>
+			<td style="width: 15.2973%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{recordId}}<strong><br></strong></span></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><u><strong>VIOLATION OF THROWING SNOW OR ICE INTO STREETS ORDINANCE</strong></u><br><br></span></span></td>
+		</tr>
+		<tr>
+			<td colspan="5" style="width: 99.9433%; text-align: left;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">As a result of an inspection that was performed in and around the above property on Tuesday, February 18, 2025, it was determined that either you, a representative of yours, or a paid or unpaid contractor, removed snow or ice from your property and deposited it within the public way in violation of City Ordinance Chapter 322 Section 5. This violation has created a safety issue or has caused a hardship to impacted properties. Property records indicate that you are the party responsible for this property either by ownership, occupation or control.<br><br>By and through this letter you are ordered to immediately remove the snow and / or ice that was placed in the public way and return it to your property prior to Wednesday, February 26, 2025. Please be advised that if the snow and / or ice is not removed, a second violation with an increased fine will be sent at the end of seven days. The attached pages show photos of the violation.<br><br><strong><span style="color: rgb(184, 49, 47);">DUE TO THIS VIOLATION YOU ARE BEING FINED ${{FF1038561}}.00</span></strong>
+				<br>
+				<br>
+				</span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Certified Letter Information</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Date Sent</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Recipient</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">Certified Number</span></span></td>
+		</tr>
+		<tr>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038557}}}</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038558}}}</span></span></td>
+			<td style="width: 33.3333%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{{OL1038559}}}</span></span></td>
+		</tr>
+	</tbody>
+</table>
+<div>
+
+	<p><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/chris_signoli_sig_Thu_Nov_13_2025_21:14:19_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dii"></p>
+	<div>Christopher M. Cignoli, P.E.
+		<br>Director, Department of Public Works</div>
+
+	<p><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+
+	<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+</div>
+
+<p style="page-break-after: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><u>APPLICABLE ORDINANCE<br></u></strong><br>BE IT ORDAINED BY THE COUNCIL OF THE CITY OF SPRINGFIELD, AS FOLLOWS:<br>Section 5 of Chapter 322, Throwing snow and ice into the streets, of the Code of the City of Springfield, is hereby amended by deleting the section in its entirety and inserting the following:<br><br>A. &nbsp; &nbsp;No person, including but not limited to paid or unpaid contractors, property owners, or tenants, shall throw or put, or cause to be thrown or put, any snow or ice into any street in the City or upon any public way. This section shall apply at all times and is not restricted to specific periods following snow events.<br><br>B. &nbsp; &nbsp; This section shall not apply if the Building Commissioner orders the removal of snow or ice from structures adjacent to the public way and a permit is obtained from the Department of Public Works under the provisions of Chapter 369 of the Acts of 1911.<br><br>C. &nbsp; &nbsp; Any person who removes snow or ice and places the snow or ice around or over fire hydrants, into snow piles that result in dangerous driving, biking or pedestrian sight distance issues, in a manner that narrows on-street parking or drive lanes, or in any other manner that creates a hazard to the general public will be in violation of this section.<br><br>D. &nbsp; &nbsp;The property owner will be liable for any fines incurred as a result of violations of this section.<br><br>E. &nbsp; &nbsp; If a property owner receives a fine for violation of this section, it is the property owner&rsquo;s responsibility to remove all snow and ice placed within the public way immediately. &nbsp;If the property owner fails to address the violation within 7 days, a second fine for violation will be issued in accordance with subsection F hereunder. Any additional violations will be issued in seven (7) day increments in accordance with subsection F hereunder until the violation is addressed.</span></span></p>
+
+<p style="page-break-after: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br>F. &nbsp; &nbsp; &nbsp;A property owner in violation of any provision of this section may be subject to a fine of $100.00. If a second violation occurs within the same fiscal year, a fine of $200.00 may be issued. If three or more violations occur within the same fiscal year, a fine of $300.00 may be issued for each subsequent violation. The provisions of G.L. c. 40, s. 21D may be used to enforce this section.&nbsp;</span></span></p>
+
+<p style="page-break-before: always;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></p>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+
+<table style="width: 100%;">
+	<tbody>
+		<tr>
+			<td colspan="3" style="width: 99.9391%; text-align: center;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(255, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;">VIOLATIONS</span>
+				<br>
+				</span></span></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 61.6484%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong>Re: {{streetNo}} {{streetName}}, {{city}}, {{state}} {{zipCode}}</strong></span></span></td>
+			<td style="width: 38.2908%;"><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'>Parcel</span><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">: <strong>{{mbl}}</strong></span></strong><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br><strong>DPW Violation Number</strong>:</span><strong><span style='font-family: "Times New Roman", Times, serif, -webkit-standard;'>: {{recordId}}</span></strong></span></span></td>
+		</tr>
+	</tbody>
+</table>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;"><u>VIOLATIONS</u><u>:</u></span></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><span style="font-family: Arial; color: rgb(0, 0, 0); font-weight: 700; font-style: normal; text-decoration: none;"><u>{{{FF1038555}}}</u></span></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;"><br></span></span></div>
+<div><span style="font-size: 12px;"><span style="font-family: Times New Roman,Times,serif,-webkit-standard;">{{/if}}</span></span></div>

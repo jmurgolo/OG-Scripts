@@ -8,7 +8,7 @@
 			<td style="width: 17.1457%;" width="20%"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/bestseal_Wed_Apr_23_2025_15:23:31_GMT+0000_(Coordinated_Universal_Time).jpg" width="100" class="fr-fic fr-dii" style="width: 110px;"></td>
 			<td colspan="4" style="width: 47.1168%;" width="55%"><strong><span style="font-size: 14px;">CITY OF SPRINGFIELD</span></strong>
 				<br><span style="font-size: 12px;">BUILDING DIVISION<br>70 TAPLEY ST, SPRINGFIELD, MA 01104<br>TELEPHONE: (413) 736-3111, TTY: 413-787-6641<br>website: <a href="https://www.springfield-ma.gov/code/">https://www.springfield-ma.gov/code/</a></span>
-				<br><span style="font-size: 14px;"><strong>FIRST VIOLATION TICKET:</strong></span>
+				<br><span style="font-size: 14px;"><strong>FOURTH VIOLATION TICKET:</strong></span>
 				<br><span style="font-size: 12px;">Violation of City Ordinance, Rule or Regulation,<br>or Violation of the State &amp; Building Sanitary Code.</span></td>
 			<td align="right" style="width: 21.4032%; text-align: right;" valign="top" width="25%">
 				<div data-empty="true" style="text-align: left;"><strong><span style="font-size: 12px;">INVOICE</span></strong></div>
@@ -18,7 +18,7 @@
 					<br>
 				</div>
 				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;">Invoice Date: {{currentDate}}</span></div>
-				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;"><span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Invoice Total Due: ${{FF1022366}}.00</span></span></div>
+				<div data-empty="true" style="text-align: left;"><span style="font-size: 12px;"><span style="color: rgb(65, 65, 65); font-family: sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Invoice Total Due: ${{FF1038167}}.00</span></span></div>
 			</td>
 			<td style="width: 14.2857%;">
 				<a href="https://springfieldma.portal.opengov.com/categories/1084/record-types/1006587"><img alt="barcode" class="fr-dii fr-fil" src="/assets/images/qrcode.jpg" title="Barcode" style="width: 204px;"></a><strong>Scan to Pay Online</strong></td>
@@ -69,8 +69,8 @@
 		<tr>
 			<td style="width: 21.8965%;">{{ownerName}}<span style="font-size: 12px;"><br></span></td>
 			<td style="width: 21.585%; text-align: center;"><span style="font-size: 12px;">{{currentDate}}</span></td>
-			<td style="text-align: center; width: 22.2406%;"><span style="font-size: 12px;">{{FF1022424}}</span></td>
-			<td style="text-align: center; width: 34.2477%;"><span style="font-size: 12px;">${{FF1022366}}.00</span></td>
+			<td style="text-align: center; width: 22.2406%;"><span style="font-size: 12px;">{{FF1038165}}</span></td>
+			<td style="text-align: center; width: 34.2477%;"><span style="font-size: 12px;">${{FF1038167}}.00</span></td>
 		</tr>
 	</tbody>
 </table>
@@ -82,7 +82,7 @@
 			<td style="width: 100%;"><span style="font-size: 12px;"><strong>DESCRIPTION</strong></span></td>
 		</tr>
 		<tr>
-			<td style="width: 100%;">{{{OL1022364}}}
+			<td style="width: 100%;">{{{OL1038187}}}
 				<br>
 			</td>
 		</tr>
@@ -109,7 +109,7 @@
 				<table border="1" cellpadding="5" cellspacing="0" width="100%">
 					<tbody>
 						<tr style="background-color: #444444; color: white;">
-							<td class="frcustomborder" style="text-align: center; width: 34.2477%;"><span style="font-size: 12px; color: rgb(255, 255, 255);"><strong>${{FF1022366}}.00</strong></span></td>
+							<td class="frcustomborder" style="text-align: center; width: 34.2477%;"><span style="font-size: 12px; color: rgb(255, 255, 255);"><strong>${{FF1038167}}.00</strong></span></td>
 						</tr>
 					</tbody>
 				</table>
@@ -124,9 +124,9 @@
 <div style="text-align: center;"><span style="font-size: 12px;">the cost of the ticket plus filing fees being added to your tax bill.</span></div>
 <div style="text-align: left;"><span style="font-size: 14px;"><strong>{{streetNo}} {{streetName}}</strong></span></div>
 <div style="text-align: left;"><span style="font-size: 14px;"><strong>{{currentDate}}</strong></span></div>
-<div style="text-align: left;"><span style="font-size: 14px;"><strong>INSPECTOR NAME <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;">{{#if FF1022396}}David Markham{{/if}}{{#if FF1022395}}Thomas Kennedy{{/if}}{{#if FF1022397}}Abdul Mohammed{{/if}}{{#if FF1022398}}George Shaw{{/if}}{{#if FF1022394}}Matthew Goodchild{{/if}}</span>,</strong></span></div>
+<div style="text-align: left;"><span style="font-size: 14px;"><strong>INSPECTOR NAME <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;">{{#if FF1038074}}David Markham{{/if}}{{#if FF1038073}}Thomas Kennedy{{/if}}{{#if FF1038075}}Abdul Mohammed{{/if}}{{#if FF1038149}}George Shaw{{/if}}{{#if FF1038072}}Matthew Goodchild{{/if}}</span>,</strong></span></div>
 <div style="text-align: left;"><span style="font-size: 14px;"><strong>BUILDING INSPECTOR</strong></span></div>
-<div style="text-align: left;"><strong><span style="font-size: 14px;">INSPECTOR PHONE</span></strong><strong>&nbsp;<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="color: rgb(0, 0, 0);">&nbsp;</span></span></strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><strong>{{#if FF1022396}}(413) 750-2088 {{/if}}{{#if FF1022395}}(413) 886-5202{{/if}}{{#if FF1022397}}(413) 886-5345{{/if}}{{#if FF1022398}}</strong></span></span></span></span><strong>(413) 787-7660</strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><strong>{{/if}}{{#if FF1022394}}(413) 886-5083{{/if}}</strong></span></span></span></span></div>
+<div style="text-align: left;"><strong><span style="font-size: 14px;">INSPECTOR PHONE</span></strong><strong>&nbsp;<span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="color: rgb(0, 0, 0);">&nbsp;</span></span></strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><strong>{{#if FF1038074}}(413) 750-2088 {{/if}}{{#if FF1038073}}(413) 886-5202{{/if}}{{#if FF1038075}}(413) 886-5345{{/if}}{{#if FF1038149}}</strong></span></span></span></span><strong>(413) 787-7660</strong><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; text-decoration: none;"><strong>{{/if}}{{#if FF1038072}}(413) 886-5083{{/if}}</strong></span></span></span></span></div>
 <div>
 	<br>
 </div>

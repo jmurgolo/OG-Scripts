@@ -1,98 +1,78 @@
-# import re
-
-# def contains_html(text):
-#     # Detect any HTML tags inside the field
-#     return bool(re.search(r'<[^>]+>', text))
-
-# def check_field_formatting_with_line_numbers(document_text):
-#     errors = []
-#     # Pattern to match both {{...}} and {{{...}}}
-#     field_pattern = re.compile(r'(\{\{\{?\s*.*?\s*\}?\}\})')
-
-#     for line_number, line in enumerate(document_text.splitlines(), start=1):
-#         for match in field_pattern.finditer(line):
-#             full_match = match.group(0)
-#             # Strip outer braces to isolate the content
-#             inner_content = re.sub(r'^\{\{\{?|\}?\}\}$', '', full_match).strip()
-
-#             if contains_html(inner_content):
-#                 errors.append({
-#                     "line": line_number,
-#                     "match": full_match.strip(),
-#                     "inner": inner_content
-#                 })
-
-#     return errors
-
-# # === USAGE EXAMPLE ===
-# if __name__ == "__main__":
-#     with open("find and replace input.txt", "r", encoding="utf-8") as f:
-#         content = f.read()
-
-#     issues = check_field_formatting_with_line_numbers(content)
-
-#     if not issues:
-#         print("✅ No formatting issues found.")
-#     else:
-#         print("❌ Formatting issues found:\n")
-#         for issue in issues:
-#             print(f"Line {issue['line']}: {issue['match']} → contains HTML: '{issue['inner']}'")
-
 import re
-# import find and replace historical enf ticket go live.py
 
 def fix_fields_with_html(document_text):
-    fixed_lines = []
     issues = []
+    
+    # Matches {{...}} or {{{...}}}. Using a non-greedy match (.*?) AND re.DOTALL (re.S) 
+    # to catch the *smallest* valid field, even if it spans multiple lines. 
+    # This should capture {{#unless ...}} as one block if its closing }} is soon after.
+    field_pattern = re.compile(r'(\{\{\{?.*?\s*\}?\}\})', re.DOTALL)
 
-    # Matches {{...}} or {{{...}}}
-    field_pattern = re.compile(r'(\{\{\{?\s*.*?\s*\}?\}\})')
-
-    # HTML tag pattern
+    # HTML tag pattern - This is used to VALIDATE if the content inside the braces is 
+    # a single field wrapped in a single tag (e.g., <b>field</b>).
     html_tag_pattern = re.compile(r'^(<[^>]+>)(.*?)(</[^>]+>)$')
 
-    for line_number, line in enumerate(document_text.splitlines(), start=1):
-        fixed_line = line
-        for match in field_pattern.finditer(line):
-            full_match = match.group(0)
-            # Strip outer braces
-            inner = re.sub(r'^\{\{\{?|\}?\}\}$', '', full_match).strip()
+    processed_text = document_text
+    
+    # Find all matches in the entire document
+    for match in field_pattern.finditer(document_text):
+        full_match = match.group(0)
+        
+        # Strip outer braces
+        inner = re.sub(r'^\{\{\{?|\}?\}\}$', '', full_match).strip()
 
-            # Check if it's wrapped with a single pair of tags like <b>...</b>
-            html_match = html_tag_pattern.match(inner)
-            if html_match:
-                open_tag, content, close_tag = html_match.groups()
-                # Reconstruct: move tags outside the brackets
-                is_triple = full_match.startswith("{{{")
-                new_field = f"{open_tag}{{{{{'{' if is_triple else ''}{content}{'}' if is_triple else ''}}}}}{close_tag}"
-                fixed_line = fixed_line.replace(full_match, new_field)
-                issues.append({
-                    "line": line_number,
-                    "original": full_match,
-                    "fixed": new_field
-                })
-        fixed_lines.append(fixed_line)
+        # Check if it's wrapped with a single pair of tags
+        html_match = html_tag_pattern.match(inner)
+        
+        if html_match:
+            open_tag, content, close_tag = html_match.groups()
+            
+            # Reconstruct: move tags outside the brackets
+            is_triple = full_match.startswith("{{{")
+            
+            # Determine correct braces for reconstruction
+            start_braces = "{{{" if is_triple else "{{"
+            end_braces = "}}}" if is_triple else "}}"
 
-    return "\n".join(fixed_lines), issues
+            new_field = f"{open_tag}{start_braces}{content}{end_braces}{close_tag}"
+            
+            # Replace the field in the processed text. We use 1 to only replace the first occurrence 
+            # of the matched string to avoid accidental replacement if the text appears elsewhere.
+            processed_text = processed_text.replace(full_match, new_field, 1)
+            
+            # Get the line number for the issue report (approximate)
+            line_number = document_text[:match.start()].count('\n') + 1
+
+            issues.append({
+                "line": line_number,
+                "original": full_match,
+                "fixed": new_field
+            })
+            
+    return processed_text, issues
 
 # === USAGE ===
 if __name__ == "__main__":
     input_file = "Analysis Input.txt"
     output_file = "Analysis Output.txt"
+    
+    try:
+        with open(input_file, "r", encoding="utf-8") as f:
+            content = f.read()
 
-    with open(input_file, "r", encoding="utf-8") as f:
-        content = f.read()
+        fixed_content, issues = fix_fields_with_html(content)
 
-    fixed_content, issues = fix_fields_with_html(content)
+        if not issues:
+            print("✅ No formatting issues found.")
+        else:
+            print("❌ Fixes applied to the following lines:\n")
+            for issue in issues:
+                print(f"Line {issue['line']}:\n  Original: {issue['original']}\n  Fixed:    {issue['fixed']}\n")
 
-    if not issues:
-        print("✅ No formatting issues found.")
-    else:
-        print("❌ Fixes applied to the following lines:\n")
-        for issue in issues:
-            print(f"Line {issue['line']}:\n  Original: {issue['original']}\n  Fixed:    {issue['fixed']}\n")
-
-        # Save fixed output
-        with open(output_file, "w", encoding="utf-8") as f:
-            f.write(fixed_content)
-        print(f"✅ Fixed content saved to: {output_file}")
+            # Save fixed output
+            with open(output_file, "w", encoding="utf-8") as f:
+                f.write(fixed_content)
+            print(f"✅ Fixed content saved to: {output_file}")
+            
+    except FileNotFoundError:
+        print(f"Error: The input file '{input_file}' was not found.")

@@ -89,7 +89,246 @@
 	</tbody>
 </table>
 <div>
-	<br>
+
+	<p>This letter shall serve as notice that the City of Springfield Inspectional Services Housing Division requires access be provided to <span style="font-size: 14px;"><span style="font-size: 14px;">{{streetNo}} {{streetName}}</span><span style="font-size: 14px;">&nbsp;{{FF1035694}}, {{city}}, {{state}} {{zipCode}}</span></span>.
+		<br>
+		<br>Inspectional Services has received reports that the property contains violations per the Massachusetts State Housing Codes, Sanitary Code and/or City Ordinances. Prior attempts to gain access have been unsuccessful.
+		<br>
+		<br><strong>You are hereby ordered to provide access to the Housing Inspectional Services Department to determine if reported violations exist.</strong>
+		<br>
+		<br><span style="color: rgb(226, 80, 65);">Please note you have 4 days to contact and book an inspection with Inspector, {{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}, phone {{#if FF1035950_checked}}(413) 787-6728{{/if}}{{#if FF1035951_checked}}(413) 886-5204{{/if}}{{#if FF1035952_checked}}(413) 787-7905{{/if}}{{#if FF1035953_checked}}(413) 750-2815{{/if}}{{#if FF1035954_checked}}(413) 787-6216{{/if}}{{#if FF1035955_checked}}(413) 886-5053{{/if}}{{#if FF1035956_checked}}(413)787-7316{{/if}}{{#if FF1035957_checked}}(413) 886-5051{{/if}}{{#if FF1035958_checked}}(413) 886-5054{{/if}}{{#if FF1037963_checked}}(413) 787-6031{{/if}} to stop possible legal actions which could lead to fines up to $1,000.00 per day, court cost, legal fees and/or imprisonment not to exceed more than one year.</span>
+		<br>
+		<br>If you have any questions or need assistance in booking an inspection, please feel free to call the Enforcement Division at (413) 736-3111, between the hours of 8:15 am to 4:30 pm. Should you require the use of TTY, you may reach us at 413-787-6641.&nbsp;</p>
+
+	<p><span style="font-size: 14px;"><span style="font-size: 14px;"><br></span></span></p>
+
+	<table style="width: 100%; margin-right: calc(0%); min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 99.9185%;">
+
+					<p><span style="font-size: 14px;"><span style="font-size: 14px;">A re-inspection is scheduled for: {{FF1036151}} {{FF1036096}}<br></span></span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<table style="width: 100%; min-width: 25px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 100%;">
+
+					<p><span style="font-family: Arial; font-size: 11pt;"><strong><span style="font-family: Arial; color: rgb(0, 0, 0); font-size: 11pt; font-weight: 700; font-style: normal; text-decoration: none;">If access is not provided, the City will seek a court order to gain access, and impose a fee of $50.</span></strong></span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<div>
+
+		<p>
+			<br>
+		</p>
+	</div>
+
+	<table style="width: 100%; min-width: 125px;">
+		<colgroup>
+			<col style="min-width: 25px;">
+				<col style="min-width: 25px;">
+					<col style="min-width: 25px;">
+						<col style="min-width: 25px;">
+							<col style="min-width: 25px;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;"><img src="https://viewpointcloud.blob.core.windows.net/profile-pictures/housing_director_signature_Tue_Mar_18_2025_16:36:22_GMT+0000_(Coordinated_Universal_Time).jpg" style="width: 300px;" class="fr-fic fr-dii"></td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Keith D. O&#39;Connor</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+					<div>{{#if FF1035950_checked}}Christopher Bennett{{/if}}{{#if FF1035951_checked}}William Brunton{{/if}}{{#if FF1035952_checked}}Danny Cueto{{/if}}{{#if FF1035953_checked}}Michelle Haska{{/if}}{{#if FF1035954_checked}}Mike Jones{{/if}}{{#if FF1035955_checked}}Jesus Martinez{{/if}}{{#if FF1035956_checked}}Michael McNulty{{/if}}{{#if FF1035957_checked}}Jermain Mitchell{{/if}}{{#if FF1035958_checked}}Michael Whiting{{/if}}{{#if FF1037963_checked}}Colin Hoppie{{/if}}</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Deputy Director of Code Enforcement</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>Code Enforcement Inspector</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>Housing Division</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>Inquiries Call (413) 736-3111</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="1" rowspan="1" style="width: 22.6714%;">
+
+					<p>{{recordId}}</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7539%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 45.401%; text-align: center;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 2.7411%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+				<td colspan="1" rowspan="1" style="width: 26.3591%;">
+
+					<p>
+						<br>
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div>
+
+	<p>{{/if}}</p>
+</div>
+<div>
+
+	<p>
+		<br>
+	</p>
 </div>
 <div>
 	<br>

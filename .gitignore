@@ -28,6 +28,7 @@ ticket/
 vioowner/
 viotenant/
 stopwork/
+node_modules/
 building acc dem/letter_version_eighth.txt
 building acc dem/letter_version_fifth.txt
 building acc dem/letter_version_fourth.txt

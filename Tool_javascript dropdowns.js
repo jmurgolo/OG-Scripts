@@ -63,7 +63,7 @@ const items = ["7:00 AM","7:15 AM","7:30 AM","7:45 AM","8:00 AM","8:15 AM","8:30
 //zoning Inspectors
 //const items = ['Michael Jachym','Maurice Rowtham','Tanya Hay'];
 
-const input = document.getElementById(":r4he:");
+const input = document.getElementById(":r1iod:");
 
 
 function sleep(ms) {

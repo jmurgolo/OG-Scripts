@@ -100,6 +100,7 @@ def create_final_mappings(data_string: str) -> str:
 input_data = """
 
 First Violations Inspection
+ {{FF1038591}}​ = First Compliance
  {{{FF1022363}}}​ = First Inspection Notes for Administrative Staff
  {{FF1022394}}​ = Matthew Goodchild
  {{FF1022395}}​ = Thomas Kennedy
@@ -110,11 +111,15 @@ First Violations Inspection
  {{FF1022417}}​ = First Inspection Result
  {{FF1022423}}​ = First Inspection Time
  {{FF1022430}}​ = First Inspection Date
+ {{FF1038589}}​ = First Ticket Issued Date
+ {{FF1038590}}​ = First Notification Date
+
 First Ticket Details
  {{{FF1022365}}}​ = First Ticket Notes for Administrative Staff
  {{FF1022366}}​ = First Ticket Total
  {{FF1022424}}​ = First Ticket Due Date
 Second Violations Section
+ {{FF1038739}}​ = Second Compliance
  {{{FF1038057}}}​ = Second Inspection Notes for Administrative Staff
  {{FF1038050}}​ = David Markham
  {{FF1038053}}​ = Thomas Kennedy
@@ -126,7 +131,10 @@ Second Violations Section
  {{FF1038058}}​ = Second Inspection Time
  {{FF1038062}}​ = Second Inspection Result
  {{FF1038059}}​ = Second Inspection Date
+ {{FF1038740}}​ = Second Notification Date
+ {{FF1038741}}​ = Second Ticket Issued Date
 Third Violations Section
+ {{FF1038742}}​ = Third Compliance
  {{{FF1038066}}}​ = Third Inspection Notes For Administrative Staff
  {{FF1038068}}​ = Schedule Third Inspection
  {{FF1038133}}​ = David Markham
@@ -138,7 +146,10 @@ Third Violations Section
  {{FF1038065}}​ = Third Inspection Result
  {{FF1038146}}​ = Third Inspection Time
  {{FF1038148}}​ = Third Inspection Date
+ {{FF1038749}}​ = Third Notification Date
+ {{FF1038750}}​ = Third Ticket Issued Date
 Fourth Violations Section
+ {{FF1038751}}​ = Fourth Compliance
  {{{FF1038051}}}​ = Fourth Inspection Notes For Administrative Staff
  {{FF1038067}}​ = Schedule Fourth Inspection
  {{FF1038070}}​ = Chris Nunez
@@ -150,7 +161,10 @@ Fourth Violations Section
  {{FF1038071}}​ = Fourth Inspection Result
  {{FF1038150}}​ = Time of Fourth Inspection
  {{FF1038069}}​ = Fourth Inspection Date
+ {{FF1038752}}​ = Fourth Notification Date
+ {{FF1038753}}​ = Fourth Ticket Issued Date
 Fifth Violations Section
+ {{FF1038755}}​ = Fifth Compliance
  {{{FF1038086}}}​ = Fifth Inspection Notes For Administrative Staff
  {{FF1038076}}​ = Schedule Fifth Inspection
  {{FF1038079}}​ = David Markham
@@ -162,7 +176,10 @@ Fifth Violations Section
  {{FF1038078}}​ = Time of Fifth Inspection
  {{FF1038085}}​ = Fifth Inspection Result
  {{FF1038077}}​ = Fifth Inspection Date
+ {{FF1038743}}​ = Fifth Ticket Issued Date
+ {{FF1038754}}​ = Fifth Notification Date
 Sixth Violations Section
+ {{FF1038757}}​ = Sixth Compliance
  {{{FF1038156}}}​ = Sixth Inspection Notes For Administrative Staff
  {{FF1038091}}​ = Schedule Sixth Inspection
  {{FF1038092}}​ = George Shaw
@@ -174,7 +191,10 @@ Sixth Violations Section
  {{FF1038081}}​ = Time of Sixth Inspection
  {{FF1038096}}​ = Sixth Inspection Result
  {{FF1038161}}​ = Sixth Inspection Date
+ {{FF1038744}}​ = Sixth Ticket Issued Date
+ {{FF1038756}}​ = Sixth Notification Date
 Seventh Violations Section
+ {{FF1038759}}​ = Seventh Compliance
  {{{FF1038107}}}​ = Seventh Inspection Notes For Administrative Staff
  {{FF1038088}}​ = David Markham
  {{FF1038098}}​ = Chris Nunez
@@ -186,7 +206,10 @@ Seventh Violations Section
  {{FF1038102}}​ = Time of Seventh Inspection
  {{FF1038104}}​ = Seventh Inspection Result
  {{FF1038097}}​ = Seventh Inspection Date
+ {{FF1038745}}​ = Seventh Ticket Issued Date
+ {{FF1038760}}​ = Seventh Notification Date
 Eighth Violations Section
+ {{FF1038746}}​ = Eighth Compliance
  {{{FF1038087}}}​ = Eighth Inspection Notes For Administrative Staff
  {{FF1038090}}​ = Abdul Mohammed
  {{FF1038108}}​ = Schedule Eighth Inspection
@@ -198,7 +221,10 @@ Eighth Violations Section
  {{FF1038100}}​ = Time of Eighth Inspection
  {{FF1038157}}​ = Eighth Inspection Result
  {{FF1038101}}​ = Eighth Inspection Date
+ {{FF1038758}}​ = Eighth Ticket Issued Date
+ {{FF1038761}}​ = Eighth Notification Date
 Ninth Violations Section
+ {{FF1038748}}​ = Ninth Compliance
  {{{FF1038124}}}​ = Ninth Inspection Notes For Administrative Staff
  {{FF1038112}}​ = Schedule Ninth Inspection
  {{FF1038118}}​ = Matthew Goodchild
@@ -208,9 +234,12 @@ Ninth Violations Section
  {{FF1038158}}​ = Chris Nunez
  {{FF1038159}}​ = George Shaw
  {{FF1038119}}​ = Ninth Inspection Result
- {{FF1038121}}​ = Ninth Inspection Date
- {{FF1038117}}​ = Time of Ninth Inspection
+ {{FF1038121}}​ = Time of Ninth Inspection
+ {{FF1038117}}​ = Ninth Inspection Date
+ {{FF1038747}}​ = Ninth Notification Date
+ {{FF1038762}}​ = Ninth Ticket Issued Date
 Tenth Violations Section
+ {{FF1038763}}​ = Tenth Compliance
  {{{FF1038128}}}​ = Tenth Inspection Notes For Administrative Staff
  {{FF1038114}}​ = David Markham
  {{FF1038115}}​ = Abdul Mohammed
@@ -222,6 +251,8 @@ Tenth Violations Section
  {{FF1038116}}​ = Tenth Inspection Result
  {{FF1038164}}​ = Time of Tenth Inspection
  {{FF1038113}}​ = Tenth Inspection Date
+ {{FF1038764}}​ = Tenth Ticket Issued Date
+ {{FF1038765}}​ = Tenth Notification Date
 Second Ticket Details
  {{{FF1038166}}}​ = Second Ticket Notes for Administrative Staff
  {{FF1038131}}​ = Second Ticket Total
@@ -259,6 +290,7 @@ Tenth Ticket Details
  {{FF1038137}}​ = Tenth Ticket Total
  {{FF1038135}}​ = Tenth Ticket Due Date
 
+
 First Ticket
  {{{OL1022364}}}​ = First Ticket Description
 Second Ticket
@@ -279,6 +311,11 @@ Ninth Ticket
  {{{OL1038192}}}​ = Ninth Ticket Description
 Tenth Ticket
  {{{OL1038193}}}​ = Tenth Ticket Description
+
+
+
+
+
 
 """
 
